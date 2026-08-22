@@ -1,0 +1,676 @@
+{
+  "slug": "zenithglade",
+  "name": "Zenithglade",
+  "description": "Bring a sense of profound stillness to your next project by blending the wonders of the future with the timeless art of inner peace. These illustrations are your gateway to creating a digital sanctuary that resonates with anyone looking to find their center in a fast-paced world. You will give your brand a soul that feels both cutting-edge and deeply restorative.",
+  "tags": [],
+  "count": 32,
+  "palette": [
+    {
+      "slot": "primary",
+      "label": "Deep Charcoal Teal",
+      "hex": "#445257",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca3a"
+    },
+    {
+      "slot": "charcoal",
+      "label": "Deep Charcoal",
+      "hex": "#1a1924",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca3b"
+    },
+    {
+      "slot": "accent-gold",
+      "label": "Muted Gold",
+      "hex": "#ddb77a",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca3c"
+    },
+    {
+      "slot": "sage-green",
+      "label": "Sage Green",
+      "hex": "#70866d",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca3d"
+    },
+    {
+      "slot": "lavender",
+      "label": "Soft Lavender",
+      "hex": "#b1a5c3",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca3e"
+    },
+    {
+      "slot": "terracotta",
+      "label": "Warm Terracotta",
+      "hex": "#c47f5f",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca3f"
+    },
+    {
+      "slot": "skin",
+      "label": "Warm Skin Tone",
+      "hex": "#d7a06e",
+      "role": "fixed",
+      "_id": "6a25fda47be1eee15496ca40"
+    },
+    {
+      "slot": "silver",
+      "label": "Cool Silver",
+      "hex": "#b9cfcc",
+      "role": "themeable",
+      "_id": "6a25fda47be1eee15496ca41"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "zenithglade1",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade1.svg",
+          "sha256": "5c5b52902402214750f94dd71258d91bb64fd7dd05b252f367fe605168c28dea",
+          "bytes": 25535,
+          "width": 2048,
+          "cssVarSha256": "09efd671df56380129860ba9e269f25dfd7daf88a5b0048a420a1d59b2745137"
+        },
+        "webp": {
+          "file": "webp/zenithglade1.webp",
+          "sha256": "0bcc5e5424c548da5f906f7a6e560ac7d66f471e4d8f23cfe1c3ee20406bd139",
+          "bytes": 92090
+        }
+      }
+    },
+    {
+      "slug": "zenithglade2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade2.svg",
+          "sha256": "bf9e051afdfe19ecc1eac6851cc132f0553a57b55211dc1783a043e3c7e44a01",
+          "bytes": 28266,
+          "width": 2048,
+          "cssVarSha256": "1399688669556e694d09f96b94c64af0731a5abed878b0eb768e273cddc12e40"
+        },
+        "webp": {
+          "file": "webp/zenithglade2.webp",
+          "sha256": "e14f66a3ef648b084c81aa946e2854e252d91d9b69afa43b4c7357a982181913",
+          "bytes": 162396
+        }
+      }
+    },
+    {
+      "slug": "zenithglade3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade3.svg",
+          "sha256": "620ef9dcd3e561a20151f673107fbe60ca9119fce8798581e577108433b2a875",
+          "bytes": 83504,
+          "width": 2048,
+          "cssVarSha256": "f9ecfa6b69ee47bdfadc328b47fb0b65612df8d9dc10135bdf08b53d64929a0c"
+        },
+        "webp": {
+          "file": "webp/zenithglade3.webp",
+          "sha256": "b35b254ba8dce11939d5ed27ddd023af6a51ec3c7c87557f4bb1851053d95d8a",
+          "bytes": 217120
+        }
+      }
+    },
+    {
+      "slug": "zenithglade4",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade4.svg",
+          "sha256": "d50ced4d5d9b071e3334a4476decd8018221de64882a56b6326bb9a9ba47f240",
+          "bytes": 67346,
+          "width": 2048,
+          "cssVarSha256": "d440172cc1938eace92000a2f9cf973d95b89764359fbb9d4bd0f9b5a8185ee6"
+        },
+        "webp": {
+          "file": "webp/zenithglade4.webp",
+          "sha256": "0ab67ef6ea8cbd7ee2354e99ae04d1ac0086be6e53f0b3c4ec66e7416242efdb",
+          "bytes": 204004
+        }
+      }
+    },
+    {
+      "slug": "zenithglade5",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade5.svg",
+          "sha256": "ed0d6d1336f1624f29067bc33954ddf9edcbf1afc223c7817b2e18d665150ee8",
+          "bytes": 74856,
+          "width": 2048,
+          "cssVarSha256": "57655a5398d55cf45f39e9bafca4d2569f12a47c3f5ed29560f517e53abc70a9"
+        },
+        "webp": {
+          "file": "webp/zenithglade5.webp",
+          "sha256": "8f3a18d833f6ae297e36049be45cc68fdf2aabd3a34cf568eda0bc4a8c60a309",
+          "bytes": 199412
+        }
+      }
+    },
+    {
+      "slug": "zenithglade6",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade6.svg",
+          "sha256": "cccb2834309f01e7e7cd71cecb71b56a3a11ae003bf2424285a093d706080da9",
+          "bytes": 81976,
+          "width": 2048,
+          "cssVarSha256": "1b6789a19f41c5689b0f035ca1f0e37d9d35c9f3dfbb4dc7b2f2605d79b0c2d5"
+        },
+        "webp": {
+          "file": "webp/zenithglade6.webp",
+          "sha256": "4c03577a2529935cd087dbe9e25645133a23f4c0d63f352810d3e40a92c74f35",
+          "bytes": 148450
+        }
+      }
+    },
+    {
+      "slug": "zenithglade7",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade7.svg",
+          "sha256": "83982d28e09aed4299681c6a5bf05f6206517319b19240de4e7ec6a91f3fb0aa",
+          "bytes": 55784,
+          "width": 2048,
+          "cssVarSha256": "7a1fa6ba7d21a0385185941f8b7e2055efdfa1547297a69e221ec22f484a70f2"
+        },
+        "webp": {
+          "file": "webp/zenithglade7.webp",
+          "sha256": "cb9077784a45be179f27875edfb1ccd301ee049961b7d8d23d2cff1690b397e8",
+          "bytes": 202802
+        }
+      }
+    },
+    {
+      "slug": "zenithglade8",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade8.svg",
+          "sha256": "0cb21ed0ac43a157c984837a96a97fabce2f6595f9b69a295f4eb8c00e68dabc",
+          "bytes": 81361,
+          "width": 2048,
+          "cssVarSha256": "ba7608551efdd2f4eae7bb2b3622c8c7075b3fcfecbcc13ed9db67ac75ffc808"
+        },
+        "webp": {
+          "file": "webp/zenithglade8.webp",
+          "sha256": "f0e84d578057b18f85b4ec8de28245db3303fbd317bc4d2ba5cd6dd11ae77ee5",
+          "bytes": 189110
+        }
+      }
+    },
+    {
+      "slug": "zenithglade9",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade9.svg",
+          "sha256": "4f2b9af3e64c7ee6e15dba7777f5064861b8c77e73833d38f202dc99a28736f6",
+          "bytes": 46957,
+          "width": 2048,
+          "cssVarSha256": "9e83d17f283d3516fa3e3bd32ba73cb02ccb52d142aae7cc5b734e705992fa3f"
+        },
+        "webp": {
+          "file": "webp/zenithglade9.webp",
+          "sha256": "0a9b4a4c1715b0df5838f802924f9a1bda123fd780cd620b1c3a5914f178da08",
+          "bytes": 193568
+        }
+      }
+    },
+    {
+      "slug": "zenithglade10",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade10.svg",
+          "sha256": "345638c11cf9d52953b668f7337b753c0bb25e23378a914503e833099297876f",
+          "bytes": 41678,
+          "width": 2048,
+          "cssVarSha256": "11445730f923ed7e6f7aef4e358400041392d5cc4428c109e912bc8bfca2f202"
+        },
+        "webp": {
+          "file": "webp/zenithglade10.webp",
+          "sha256": "c3b941d6e1d07acb0b9c7f355ee0c1b719607993139172f5d35f6ff427b0cbb4",
+          "bytes": 173312
+        }
+      }
+    },
+    {
+      "slug": "zenithglade11",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade11.svg",
+          "sha256": "9619575bf823d21f96c59504eb4e8a2a20cfa904af59e4214eefd7796d51942d",
+          "bytes": 55317,
+          "width": 2048,
+          "cssVarSha256": "76cd22fb121ee171622028d4dbd6a4c88295bb2926585bf89549ea973a12da94"
+        },
+        "webp": {
+          "file": "webp/zenithglade11.webp",
+          "sha256": "e18d678d593483aaf556544caa575505ecd6f90c777a8e9d1e6cc6b9ddf9e850",
+          "bytes": 158322
+        }
+      }
+    },
+    {
+      "slug": "zenithglade12",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade12.svg",
+          "sha256": "f122419980329e17ee643aac6af1287b09d19bf45abf449cb144d10e47bb7f98",
+          "bytes": 80421,
+          "width": 2048,
+          "cssVarSha256": "dad20a4a429959ba4e248af470145fb98e32cd8826f667c75d2ad64865775f1e"
+        },
+        "webp": {
+          "file": "webp/zenithglade12.webp",
+          "sha256": "1fe494c4cd434373cb24f54c07e0f6be4e94fe68f409f775d67e6e5522253fb1",
+          "bytes": 233938
+        }
+      }
+    },
+    {
+      "slug": "zenithglade13",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade13.svg",
+          "sha256": "e5c7d3026069355a5af5e1644a4832c9ad4b0eb04bc53f95d1ce853ddc97c693",
+          "bytes": 72237,
+          "width": 2048,
+          "cssVarSha256": "b3486ea6ce3945864d10fad19edbf239e89f37839dd399de172f5861da1ac99b"
+        },
+        "webp": {
+          "file": "webp/zenithglade13.webp",
+          "sha256": "3e47e09c4f7d9a37b2d30d25bcad815a8a974b05e770492a88d40274748802a7",
+          "bytes": 178380
+        }
+      }
+    },
+    {
+      "slug": "zenithglade14",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade14.svg",
+          "sha256": "fbd0bae584e57d65ca86c6dfc819d96ebfb5239c204603eca4707e16bf8ee4bc",
+          "bytes": 65258,
+          "width": 2048,
+          "cssVarSha256": "5c5163d1b4efd0939b97628b0e5e584bd94379176d234400dd65da8c8c89c6b0"
+        },
+        "webp": {
+          "file": "webp/zenithglade14.webp",
+          "sha256": "0cce4f6887c24a1c9c5774a0e1bdc305e5c8b2873f5d0bbdf64d0764b81aef83",
+          "bytes": 180356
+        }
+      }
+    },
+    {
+      "slug": "zenithglade15",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade15.svg",
+          "sha256": "a7385b3327bc0cadf5b37ebc335dc058c267ad924cee8f3b77c721b27a51e210",
+          "bytes": 63752,
+          "width": 2048,
+          "cssVarSha256": "8022277b296e16ef22a95f1c89916be5b9dc53426861bea3e794fcba5ef91810"
+        },
+        "webp": {
+          "file": "webp/zenithglade15.webp",
+          "sha256": "f6b66e13fba1bb5f67e6f0b933f2c5aa6a9bf11b893c5478506979d93d4cf446",
+          "bytes": 219052
+        }
+      }
+    },
+    {
+      "slug": "zenithglade16",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade16.svg",
+          "sha256": "767bb656e326b029e972a1d59bc5feaba878e2aec1ee449ea745795f61b87860",
+          "bytes": 36646,
+          "width": 2048,
+          "cssVarSha256": "01d7cf96266e57b155bbb597f6204c93d31db1b940ca16c1640ca4d286c30b82"
+        },
+        "webp": {
+          "file": "webp/zenithglade16.webp",
+          "sha256": "46a92dbc51288602729c294417689dba4605da1bdfc3db03950e864564ed68f4",
+          "bytes": 181126
+        }
+      }
+    },
+    {
+      "slug": "zenithglade17",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade17.svg",
+          "sha256": "2a88c21af761fbdefd4ab4e42aa2295850b58a806708bbda550285730e424fa4",
+          "bytes": 88077,
+          "width": 2048,
+          "cssVarSha256": "cb9247e4991ea5eeb5d66339433485a048dba11920f830de30d8ed6afde81e28"
+        },
+        "webp": {
+          "file": "webp/zenithglade17.webp",
+          "sha256": "0d1bad96cbf00db6939748683607820f256cb62c7d63b84c80924e9bf90babdf",
+          "bytes": 261492
+        }
+      }
+    },
+    {
+      "slug": "zenithglade18",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade18.svg",
+          "sha256": "ce25d3ca6074e24c5c03fa8408a8347dcc9822e21829e08990448cb23d2b58c2",
+          "bytes": 76782,
+          "width": 2048,
+          "cssVarSha256": "e520ffd64330daf98928c1ae2b79b067df6d06d139de7c6de111fd576202830f"
+        },
+        "webp": {
+          "file": "webp/zenithglade18.webp",
+          "sha256": "6413f1f4d39f41ba7ad16147c005503562fb2b38a5003dc32871fbfd263717b2",
+          "bytes": 219360
+        }
+      }
+    },
+    {
+      "slug": "zenithglade19",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade19.svg",
+          "sha256": "331bd340938f02274a9b6718f8a8a2a0bb13cc4cf1d59edd0f87e1fe5f37c8ec",
+          "bytes": 54216,
+          "width": 2048,
+          "cssVarSha256": "2f59a856df3fc7199f9213c58913a2a50af1f83308196af000aefb2d084000ab"
+        },
+        "webp": {
+          "file": "webp/zenithglade19.webp",
+          "sha256": "bbe2a299b0b21a8af93f396a3dfdfa96bde988b762fb6cc30bab6506c4540d93",
+          "bytes": 176806
+        }
+      }
+    },
+    {
+      "slug": "zenithglade20",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade20.svg",
+          "sha256": "08d7c7499c160672926b02d7753ae6c2fd122fb7f8c13adc488ffe11bd09d45b",
+          "bytes": 85404,
+          "width": 2048,
+          "cssVarSha256": "7cc14837775532b05a5b4e494c3691f98abcf768fc4087d25d37a9c97a776486"
+        },
+        "webp": {
+          "file": "webp/zenithglade20.webp",
+          "sha256": "29893b132e067bf5941d7a77af86842d7c044904184e1edf0602ec7b86115930",
+          "bytes": 250354
+        }
+      }
+    },
+    {
+      "slug": "zenithglade21",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade21.svg",
+          "sha256": "fc4eb9eca6d7ac7341219e326d4e8e7ed2235b7c39842e819872f0715ce87807",
+          "bytes": 66407,
+          "width": 2048,
+          "cssVarSha256": "56e254fa62de4ac0e7f00856558324f0acb070287b85b7e13d594e1dab684112"
+        },
+        "webp": {
+          "file": "webp/zenithglade21.webp",
+          "sha256": "df9dda8837a1768b686f0d17e9c0bcbcd78e4d5f001134925da72f5addce9239",
+          "bytes": 182488
+        }
+      }
+    },
+    {
+      "slug": "zenithglade22",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade22.svg",
+          "sha256": "933ccac5daeca47b2a39e441cb1f1120d410e0728ab4890c1b2fda6314b645d2",
+          "bytes": 46006,
+          "width": 2048,
+          "cssVarSha256": "e7f2b73d49d6006c914f3c1ce690f6cf41d24bd08c1526f3c575c26743a55909"
+        },
+        "webp": {
+          "file": "webp/zenithglade22.webp",
+          "sha256": "963b568b1c619b9aad6ed4755ed74971f84ec578e20632c59c3dd2c33e89490f",
+          "bytes": 183080
+        }
+      }
+    },
+    {
+      "slug": "zenithglade23",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade23.svg",
+          "sha256": "4567d56a29028e522d1f5faed8b9eed2368b289fb5f2ed8211805b05d29b44ee",
+          "bytes": 90802,
+          "width": 2048,
+          "cssVarSha256": "0ca5020d2a30d630f03d39865321ba77dc18059ce80e4e4651cdf47f2575e920"
+        },
+        "webp": {
+          "file": "webp/zenithglade23.webp",
+          "sha256": "3ef794005826cf2a55b8551db3c0c9eff2e025f07e2b8a3feb72054e92f7d055",
+          "bytes": 176828
+        }
+      }
+    },
+    {
+      "slug": "zenithglade24",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade24.svg",
+          "sha256": "8e3efc029c0bdbde0a50b996b198288b09e7e3ff1a3c99dea93e16d6dacc5eb1",
+          "bytes": 80171,
+          "width": 2048,
+          "cssVarSha256": "ba419a9141e15fbaaf313aa531ec6858fdfc9aeff08feb7a897aa6d1388a27a2"
+        },
+        "webp": {
+          "file": "webp/zenithglade24.webp",
+          "sha256": "bc48b0ccf878537af7b073fce762e07818d49b504ab79f1a242367cffe895b55",
+          "bytes": 192562
+        }
+      }
+    },
+    {
+      "slug": "zenithglade25",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade25.svg",
+          "sha256": "6bb1aa2910a10167bf8082a46f5449f7ba5a65a6068ec3f174863823d33bddd5",
+          "bytes": 39216,
+          "width": 2048,
+          "cssVarSha256": "c4c36af9d499da2082cfebc0b672fab3ebef3f2f455d40bc520e611d643d4b6c"
+        },
+        "webp": {
+          "file": "webp/zenithglade25.webp",
+          "sha256": "61f04918fa04a69ed589714c86432f98f16039b939305b62d7af49f209f1f5bb",
+          "bytes": 169708
+        }
+      }
+    },
+    {
+      "slug": "zenithglade26",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade26.svg",
+          "sha256": "1524301f7dc9c71095a645cb78ae75ae0e3fdaca29b283f09dfa41f178590792",
+          "bytes": 60975,
+          "width": 2048,
+          "cssVarSha256": "293b62c96a6a268e1010176053a25f1b0d3ce6723d239541e70a72175730547c"
+        },
+        "webp": {
+          "file": "webp/zenithglade26.webp",
+          "sha256": "bfd52b5cfcb4e03f0709d19b469fccb6b4ab8395e14376bf9d6d9a40c62f3dd5",
+          "bytes": 202708
+        }
+      }
+    },
+    {
+      "slug": "zenithglade27",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade27.svg",
+          "sha256": "8e7456da9df9b0f5e664dbd312c92682a4a832604139362485b01d1fb44b7763",
+          "bytes": 79939,
+          "width": 2048,
+          "cssVarSha256": "0f3a8e0d9de08af5cfbc8bf99cc86557e994d79ce8e1141ac33541b4cae4e0cb"
+        },
+        "webp": {
+          "file": "webp/zenithglade27.webp",
+          "sha256": "810af7797a6730b9b304beb218e92bc33bf5b5c9c7d17dfe01720df1c8567971",
+          "bytes": 248076
+        }
+      }
+    },
+    {
+      "slug": "zenithglade28",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade28.svg",
+          "sha256": "cc91b73806995141996193f4c1b84acfe8f18c5d9ee2994dd293a2c2df6a69e9",
+          "bytes": 22392,
+          "width": 2048,
+          "cssVarSha256": "a58638d48f7c69446e9848482305dcd80c47bea1019682312439115def2b249f"
+        },
+        "webp": {
+          "file": "webp/zenithglade28.webp",
+          "sha256": "c308ca796d61e7b4a878adde1d504d0f39af980b4e592501020b75170e5b5395",
+          "bytes": 115676
+        }
+      }
+    },
+    {
+      "slug": "zenithglade29",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade29.svg",
+          "sha256": "51dda6f99fa06248fd1030306687446e25859faa587f2dfaf93ab940b79b2386",
+          "bytes": 73650,
+          "width": 2048,
+          "cssVarSha256": "f84f41d1581e572ddad5b181cc9e88b5cd24a38cb849f225593ae18fdf9a8185"
+        },
+        "webp": {
+          "file": "webp/zenithglade29.webp",
+          "sha256": "bbf09724ca96bc454b1a740beda3752297a45a26fd99ea255eb9d930aa84ac7c",
+          "bytes": 230878
+        }
+      }
+    },
+    {
+      "slug": "zenithglade30",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade30.svg",
+          "sha256": "e61474f5b8094205afcf24ad87f65a5e63443fcad0896c70db26233c7de3889d",
+          "bytes": 64083,
+          "width": 2048,
+          "cssVarSha256": "e29aa6d22a435bd3f2f6025e0833412ad59975ea1eed3ad87a97ddaa2be12720"
+        },
+        "webp": {
+          "file": "webp/zenithglade30.webp",
+          "sha256": "919cc034274412ef8cd058095f1521f36fd3eddd8483d356a243a94a5a38fe37",
+          "bytes": 233458
+        }
+      }
+    },
+    {
+      "slug": "zenithglade31",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade31.svg",
+          "sha256": "cbdc6ca658e7a3913cd53ecb61617ff99cf82619edacc43d4a742eb60388db9a",
+          "bytes": 70980,
+          "width": 2048,
+          "cssVarSha256": "10fd963105553057564d20ff39a5f6623a77048842f7880728559ba323d6bd84"
+        },
+        "webp": {
+          "file": "webp/zenithglade31.webp",
+          "sha256": "a44ff5dbd4e85774d4a8b849ebb0ceb946903cb10e484f6ef24d8d60ad81dd18",
+          "bytes": 219790
+        }
+      }
+    },
+    {
+      "slug": "zenithglade32",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/zenithglade32.svg",
+          "sha256": "e8d3ae33783a3cd5fb20a6831caacff9126cb3d34a513ef983106cd5a9ab74dd",
+          "bytes": 129865,
+          "width": 2048,
+          "cssVarSha256": "9355df79a18b2bca2acdca7656f1a87c4bb0052f62e9c74356a928cc09d73d66"
+        },
+        "webp": {
+          "file": "webp/zenithglade32.webp",
+          "sha256": "4442b386eda68c8a3a459bcb73e3f50d101563a3d46d2bb80631c44d0fab3992",
+          "bytes": 288362
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "slug": "appliances-1930s",
+  "name": "Appliances-1930s",
+  "description": "",
+  "tags": [],
+  "count": 9,
+  "illustrations": [
+    {
+      "slug": "playing-catch",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/playing-catch.svg",
+          "sha256": "5be097ad962e7ac6581af559155a3241cf8db3005472ad83d06f5caca67476db",
+          "bytes": 59902,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/playing-catch.webp",
+          "sha256": "86f41e45538f19cdc0b60989e4a1b423e47bc6e656f8843fd762af777e008be7",
+          "bytes": 30404
+        }
+      }
+    },
+    {
+      "slug": "bicycle-mixer",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/bicycle-mixer.svg",
+          "sha256": "cf0bb5893278a475daa1952259a9e5f5ddd97323e75dd132ee130c397b302566",
+          "bytes": 49977,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/bicycle-mixer.webp",
+          "sha256": "a640d9cb422c0e6c7e7f8b1bdd701d64cdefd49f1294dce2c2fc7d1a5718bb60",
+          "bytes": 25058
+        }
+      }
+    },
+    {
+      "slug": "saxophone-waffle",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/saxophone-waffle.svg",
+          "sha256": "3eeab325904d45229f9aba34f3f4e7060ba20b4290773960fab7d16d0398a41a",
+          "bytes": 88741,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/saxophone-waffle.webp",
+          "sha256": "6615ce04c747b3e1dd9b362ac10828977bd1c43225aa63dd6c6f1ffe744d6163",
+          "bytes": 28294
+        }
+      }
+    },
+    {
+      "slug": "stirring-mixer",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stirring-mixer.svg",
+          "sha256": "26452a5bcfa2d51054e8c202734c4214c73be7d2d809b3e47c018b1429d5f13c",
+          "bytes": 43885,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/stirring-mixer.webp",
+          "sha256": "08aa3c3732abe8739687c30477c77c57e53054bf4c36863973d7da03721ce30c",
+          "bytes": 28100
+        }
+      }
+    },
+    {
+      "slug": "lifting-refrigerator",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/lifting-refrigerator.svg",
+          "sha256": "fd3c41aa896ed6ebc79488ba6bfe52c7e4dd9cbd106338e055a94fa33073ea11",
+          "bytes": 40645,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/lifting-refrigerator.webp",
+          "sha256": "f50a269f8688acbf38f9026ab352f988a708932294d85e9b7455f8ed12af00b0",
+          "bytes": 22646
+        }
+      }
+    },
+    {
+      "slug": "dancing-coffee",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dancing-coffee.svg",
+          "sha256": "103188dce275530b1d4297f999ff4de0f14bd15d9ba2bdeaa40e63b221cc2ab0",
+          "bytes": 40898,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/dancing-coffee.webp",
+          "sha256": "9f20fb1b283735f697136c34bf2b4bfd94228aadc7577f591427c2ab5cc91764",
+          "bytes": 25492
+        }
+      }
+    },
+    {
+      "slug": "blender-mixing",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/blender-mixing.svg",
+          "sha256": "b0ec7a0d96ac015780875d73570478a01adf1b091b5a7495cb63ccf0bbc19e0c",
+          "bytes": 54858,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/blender-mixing.webp",
+          "sha256": "1c9f9f1242374f929823ca591de758849bea5a3d3abfb2714ef589bbb72b8159",
+          "bytes": 26222
+        }
+      }
+    },
+    {
+      "slug": "boiling-typewriter",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/boiling-typewriter.svg",
+          "sha256": "fa81f8ce746812ab209b9fe0611cd25b1af13c75295ceab0aa45f8314269b996",
+          "bytes": 36819,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/boiling-typewriter.webp",
+          "sha256": "88da96f6a3fc33fe2a3e84327ab3ecf8a0854540566ebba165984b74545d3dbc",
+          "bytes": 24248
+        }
+      }
+    },
+    {
+      "slug": "toaster-photography",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/toaster-photography.svg",
+          "sha256": "04f186dac4c5a3bd3ee42ae30ba2ec4d2f81e823b5537eb997ba0fb9fee9a2f1",
+          "bytes": 57232,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/toaster-photography.webp",
+          "sha256": "eab6cff1794e38baa661c703ae8d2a649bd5b38e9176ee81318054adacd2c659",
+          "bytes": 25098
+        }
+      }
+    }
+  ]
+}

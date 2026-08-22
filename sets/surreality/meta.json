@@ -1,0 +1,289 @@
+{
+  "slug": "surreality",
+  "name": "Surreality",
+  "description": "Place your audience in the heart of the impossible with these evocative scenes that blur the lines between dreams and reality. You can use these striking visuals to give your next project a sense of profound wonder and mystery that lingers in the viewer’s mind. Each piece offers a unique way to spark deep curiosity, making your work stand out as something truly unforgettable.",
+  "tags": [],
+  "count": 12,
+  "palette": [
+    {
+      "slot": "background",
+      "label": "Cream Background",
+      "hex": "#F6F4E9",
+      "role": "fixed",
+      "_id": "69d991c6ad24517f749503b3"
+    },
+    {
+      "slot": "outline",
+      "label": "Black Outline",
+      "hex": "#000000",
+      "role": "fixed",
+      "_id": "69d991c6ad24517f749503b4"
+    },
+    {
+      "slot": "skin",
+      "label": "Skin Tone",
+      "hex": "#F6F5F0",
+      "role": "fixed",
+      "_id": "69d991c6ad24517f749503b5"
+    },
+    {
+      "slot": "primary",
+      "label": "Muted Gold",
+      "hex": "#C49527",
+      "role": "themeable",
+      "_id": "69d991c6ad24517f749503b6"
+    },
+    {
+      "slot": "secondary",
+      "label": "Muted Teal",
+      "hex": "#577E75",
+      "role": "themeable",
+      "_id": "69d991c6ad24517f749503b7"
+    },
+    {
+      "slot": "accent",
+      "label": "Terracotta Brown",
+      "hex": "#98634E",
+      "role": "themeable",
+      "_id": "69d991c6ad24517f749503b8"
+    },
+    {
+      "slot": "shadow",
+      "label": "Neutral Grey",
+      "hex": "#A9A9A4",
+      "role": "fixed",
+      "_id": "69d991c6ad24517f749503b9"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "teapot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/teapot.svg",
+          "sha256": "62bbfd913317e559fed413f7e36513f5a03683763d0d68b15ed22963dbe2efb2",
+          "bytes": 158892,
+          "width": 2048,
+          "cssVarSha256": "3def119e3faffe0fbe8553af5b5dbde12567c2592382f12b0a3adaf51d89c93a"
+        },
+        "webp": {
+          "file": "webp/teapot.webp",
+          "sha256": "470bce1320fd8b1df56dfc298c892c4bee0971695cec47ba97b4bbae28518746",
+          "bytes": 140710
+        }
+      }
+    },
+    {
+      "slug": "pet",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pet.svg",
+          "sha256": "094344795c3264a262496d364c5fde529e033ea62ee2703dc97fa3380d0d9151",
+          "bytes": 59468,
+          "width": 2048,
+          "cssVarSha256": "99ec7d3b026edc8fd33779d8a6095b6de9d20209250129934fc212078972495e"
+        },
+        "webp": {
+          "file": "webp/pet.webp",
+          "sha256": "2e6ccd0a7f939823ed4730ba8129203c1d920f8b902740da2e0b6532241e4117",
+          "bytes": 82442
+        }
+      }
+    },
+    {
+      "slug": "umbrella",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/umbrella.svg",
+          "sha256": "065bc6a9700820b73cfef17d7511c28303bb30257eea180a7223ce98736e7adb",
+          "bytes": 85563,
+          "width": 2048,
+          "cssVarSha256": "a0dedb72b89e89bd4faba8a73e68464d322853d318b2393ed655c1d4ab496e13"
+        },
+        "webp": {
+          "file": "webp/umbrella.webp",
+          "sha256": "c58e86323d9703aede964219f855349bd0ae267e633832ba5158c85686313fe5",
+          "bytes": 98106
+        }
+      }
+    },
+    {
+      "slug": "bicycle-octagonal",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/bicycle-octagonal.svg",
+          "sha256": "6ad6a36e2237d565bc6599f32d14c7f859a9d6fa55b5aaa4a55131802e8d5543",
+          "bytes": 37966,
+          "width": 2048,
+          "cssVarSha256": "8349bf441b87ffd14720c4b0b74ffddd0ccc11c12440f999faae58b21c3ddaba"
+        },
+        "webp": {
+          "file": "webp/bicycle-octagonal.webp",
+          "sha256": "26920ef11568b5c4a8c5793f0208cc652ade7167080962b5a1df4db51b95a7b1",
+          "bytes": 75574
+        }
+      }
+    },
+    {
+      "slug": "clock-sundial",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/clock-sundial.svg",
+          "sha256": "428833703c83604f1ea34e6a17c6e18e7fd83ef362fa98d2f5ffb0332ee02ef1",
+          "bytes": 68645,
+          "width": 2048,
+          "cssVarSha256": "3edcb2111375e12dd90d11528dfefae1afc35ae46a86bb630d06cac1d2376bd3"
+        },
+        "webp": {
+          "file": "webp/clock-sundial.webp",
+          "sha256": "dae952e8b54bd524894d7a4ad050a9050b1bc016882b116c417efea3e20a7b02",
+          "bytes": 104466
+        }
+      }
+    },
+    {
+      "slug": "typing-melting",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/typing-melting.svg",
+          "sha256": "08c5c70ceb6f93e82270823d6d32c9c226fe80eaeea45447dc3f6a12c7805999",
+          "bytes": 79314,
+          "width": 1680,
+          "cssVarSha256": "3bf5ebac79cb846b3ebaef0202a991f55bf61767811b5a69423b1a2c31e913a0"
+        },
+        "webp": {
+          "file": "webp/typing-melting.webp",
+          "sha256": "a1bcbec038123c9e2c65c7ff2ce8cf2a39b7cc64886ee962120ecb096b377a22",
+          "bytes": 33012
+        }
+      }
+    },
+    {
+      "slug": "watering-forks",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/watering-forks.svg",
+          "sha256": "dd8f17eaf66919a9b42124ea885d519f687495e72fb5fb13053347f693e64e69",
+          "bytes": 75935,
+          "width": 2048,
+          "cssVarSha256": "36bdfc6e418336c50274e9cbf4e759eb8f06e0aeed219bbf7602cde743c1198f"
+        },
+        "webp": {
+          "file": "webp/watering-forks.webp",
+          "sha256": "c26ba522f6c48dd674e926c5d8b760af758bf7be77ff124d741d365d305adee6",
+          "bytes": 94172
+        }
+      }
+    },
+    {
+      "slug": "stirring-moon-soup",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stirring-moon-soup.svg",
+          "sha256": "ced870547026ca4db97f51608a3eb05545ecdbd718ab2fbe748a42cd8bf154bb",
+          "bytes": 53896,
+          "width": 2048,
+          "cssVarSha256": "f085af792680bc515f375beaccb5f5cf299af0e19171324193b38531f178d967"
+        },
+        "webp": {
+          "file": "webp/stirring-moon-soup.webp",
+          "sha256": "bb8b6ef8507b58bdecb0223d79d28075208119bca6bfa9d6212a2dbfa79c1514",
+          "bytes": 90092
+        }
+      }
+    },
+    {
+      "slug": "drinking-cup",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/drinking-cup.svg",
+          "sha256": "d31d93758a50345a24584a84b98c8b1af33f2907b89fbfcbac94dd4c244a6cb3",
+          "bytes": 57974,
+          "width": 2048,
+          "cssVarSha256": "5289bddf4cd21cf1eb0919ce17e2baf89dd8805974072fc2a44b18cbb497edc3"
+        },
+        "webp": {
+          "file": "webp/drinking-cup.webp",
+          "sha256": "0afbd3ae10a2139caddd13030fb226858df7b018730613033cf277f00668e489",
+          "bytes": 93952
+        }
+      }
+    },
+    {
+      "slug": "painting-door",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/painting-door.svg",
+          "sha256": "d0f2a9ea95244e1135bb859a243c3f614da3d293a7c14642b85469c55016964b",
+          "bytes": 48405,
+          "width": 2048,
+          "cssVarSha256": "def0a009f40130bb44bbf2b8a91dff2b7f072ead816dd80e7ed4dda8cb370de3"
+        },
+        "webp": {
+          "file": "webp/painting-door.webp",
+          "sha256": "d328e93755cfd05ce116ffe20da1605d46b0235c5f46faae2ef4bf804318ed95",
+          "bytes": 72460
+        }
+      }
+    },
+    {
+      "slug": "selfie-television",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-television.svg",
+          "sha256": "b489b9797a25819faa4d8622687dbd7f032e686538d160ff31eb896aab4f2ff0",
+          "bytes": 44682,
+          "width": 2048,
+          "cssVarSha256": "b3d1ab5007537b6410befaaae3a161a4dcadd5e623a346bb07d6f37c7328174f"
+        },
+        "webp": {
+          "file": "webp/selfie-television.webp",
+          "sha256": "466a463d25904bc15049345070d25abcc86af34567a06bec15b702c526b86e58",
+          "bytes": 70962
+        }
+      }
+    },
+    {
+      "slug": "reading-handhead",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-handhead.svg",
+          "sha256": "af4e8d771ee8083785789800aa4faa92883e2a740881404eb85661d8458ae096",
+          "bytes": 47752,
+          "width": 2048,
+          "cssVarSha256": "8086c30d9c168c204e6db567e2f6c5cc33b0ecc09a7679be012bea980294773c"
+        },
+        "webp": {
+          "file": "webp/reading-handhead.webp",
+          "sha256": "00a7db0897343a734090a963dd633d847883f1e2b915695dfca53cf65a125800",
+          "bytes": 78870
+        }
+      }
+    }
+  ]
+}

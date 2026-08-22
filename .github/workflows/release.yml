@@ -1,0 +1,41 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Read registry version
+        id: version
+        run: |
+          VERSION=$(node -e "const m = require('./manifest.json'); process.stdout.write(m.registryVersion ?? '')")
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Extract latest CHANGELOG section
+        id: changelog
+        run: |
+          BODY=$(awk '/^## /{if(found) exit; found=1; next} found{print}' CHANGELOG.md | head -60)
+          {
+            echo "body<<EOF"
+            echo "$BODY"
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Create tag and release
+        if: steps.version.outputs.version != ''
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.version.outputs.version }}
+          name: Registry v${{ steps.version.outputs.version }}
+          body: ${{ steps.changelog.outputs.body }}
+          make_latest: true

@@ -1,0 +1,409 @@
+{
+  "slug": "lakeside-yoga",
+  "name": "Lakeside Yoga",
+  "description": "Elevate your wellness brand with a collection that captures the quiet harmony of a morning stretch by the water's edge. You will give your audience a moment of stillness and connection, turning every design into a restorative retreat from the busy world. These versatile scenes bring a sense of grounded tranquility to your social media posts, studio flyers, or personal journals.",
+  "tags": [],
+  "count": 18,
+  "palette": [
+    {
+      "slot": "background",
+      "label": "Background Cream",
+      "hex": "#F9F9F0",
+      "role": "fixed",
+      "_id": "69e68a93b6a66ad70e704739"
+    },
+    {
+      "slot": "outline",
+      "label": "Outline Black",
+      "hex": "#000000",
+      "role": "fixed",
+      "_id": "69e68a93b6a66ad70e70473a"
+    },
+    {
+      "slot": "primary",
+      "label": "Muted Green",
+      "hex": "#A9D5BD",
+      "role": "themeable",
+      "_id": "69e68a93b6a66ad70e70473b"
+    },
+    {
+      "slot": "secondary",
+      "label": "Muted Purple",
+      "hex": "#ACA3C7",
+      "role": "themeable",
+      "_id": "69e68a93b6a66ad70e70473c"
+    },
+    {
+      "slot": "accent",
+      "label": "Muted Blue",
+      "hex": "#cfeaed",
+      "role": "themeable",
+      "_id": "69e68a93b6a66ad70e70473d"
+    },
+    {
+      "slot": "skin",
+      "label": "Skin Tone",
+      "hex": "#f9bea4",
+      "role": "fixed",
+      "_id": "69e68a93b6a66ad70e70473e"
+    },
+    {
+      "slot": "hair",
+      "label": "Dark Brown",
+      "hex": "#ce907f",
+      "role": "fixed",
+      "_id": "69e68a93b6a66ad70e70473f"
+    },
+    {
+      "slot": "tertiary",
+      "label": "Red Fruits",
+      "hex": "#cf707a",
+      "role": "themeable",
+      "_id": "69e68a93b6a66ad70e704740"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "smartwatch",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/smartwatch.svg",
+          "sha256": "a3bb9a5dab321cc690c2593355f79c5d1fa88d893e5177578264674348cf38a5",
+          "bytes": 17421,
+          "width": 2048,
+          "cssVarSha256": "98b043787168821dd6d4b3db9592adc3b08221a5ce0fc71bdde7fd2a2e4b5c7c"
+        },
+        "webp": {
+          "file": "webp/smartwatch.webp",
+          "sha256": "9b07d0d47f8e01a148e69fef9b5757174c163c3dbb0ba2a57a3db81c1b1bade0",
+          "bytes": 30768
+        }
+      }
+    },
+    {
+      "slug": "guided-meditation",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/guided-meditation.svg",
+          "sha256": "34103fbf889dcd42e4ac59440826a34bdec62cba8e4c088b8ff4a7d51e99e59d",
+          "bytes": 28864,
+          "width": 2048,
+          "cssVarSha256": "bdd5bb99734dfb969d4f77efcf425f707942b0d4f4b73352e69abbc6bf8e6c2d"
+        },
+        "webp": {
+          "file": "webp/guided-meditation.webp",
+          "sha256": "8a63ca4a0e7ce84cb9b73479ba691474631ded9834ebceaaa1c78917fcde4550",
+          "bytes": 46070
+        }
+      }
+    },
+    {
+      "slug": "tying-sneakers",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/tying-sneakers.svg",
+          "sha256": "36770a4309d6b3a984c2b962ae6841c2fdf32fdc6c8308171caaaaddcd9aac39",
+          "bytes": 38927,
+          "width": 2048,
+          "cssVarSha256": "2ab8a4da4f645d302460444ffd2d64e4b3fef1ab5b4134482381df84dac21bc2"
+        },
+        "webp": {
+          "file": "webp/tying-sneakers.webp",
+          "sha256": "21df9d5550ac67470e7b20780fccd8dfcf9b65b7c037c6093dbb9504f546facb",
+          "bytes": 56066
+        }
+      }
+    },
+    {
+      "slug": "smelling-lavender",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/smelling-lavender.svg",
+          "sha256": "8dd71c3cd2f063787290da186c9959def71d896dfc14510a637a80c2d2c50cfa",
+          "bytes": 56634,
+          "width": 2048,
+          "cssVarSha256": "1741044c01487b636daa9a62ea961d8288e3fcc4f18e66d7f572b42e7aaf4aa1"
+        },
+        "webp": {
+          "file": "webp/smelling-lavender.webp",
+          "sha256": "bc893fbf05991591de6a825324ce345903caaa9c1735e4c8ddb65f7ff9909d63",
+          "bytes": 80270
+        }
+      }
+    },
+    {
+      "slug": "avocado-toast",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/avocado-toast.svg",
+          "sha256": "e7582c22f3f6c44229b40f8a699488fb6793f8e3be9d9b3ef414aab927abcc36",
+          "bytes": 24500,
+          "width": 2048,
+          "cssVarSha256": "0f6230b60cdc1705ede14f0c2f674e80e928a3e6ba19d2c1ba99c694cf6e0fdb"
+        },
+        "webp": {
+          "file": "webp/avocado-toast.webp",
+          "sha256": "07ccf44c685c3ea90dfb7e0bf450dc96ea6427152a6276d626ca79fcde25154f",
+          "bytes": 54988
+        }
+      }
+    },
+    {
+      "slug": "leg-massage",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/leg-massage.svg",
+          "sha256": "d21f4635576f36abd08ca547c806ca2b5b1095264540479349e4a04e1ee6edea",
+          "bytes": 27238,
+          "width": 2048,
+          "cssVarSha256": "454819c632f7e02b4b71f399c6fd3d4dadb605524193c4ceaa9ad289f1da2141"
+        },
+        "webp": {
+          "file": "webp/leg-massage.webp",
+          "sha256": "ea20c98540574d1fc77a0d05b2d7329471e96b89a8e443bfd6807b80b2591f0c",
+          "bytes": 44812
+        }
+      }
+    },
+    {
+      "slug": "carrying-bag",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/carrying-bag.svg",
+          "sha256": "9c284d44d966696e8e9ac134018f4069f821ee287009b77cb194e7b6a1b937a9",
+          "bytes": 38922,
+          "width": 2048,
+          "cssVarSha256": "e5ff71c34ba71153b6cdd73f49c4f9aecfec0f79497470e0b7b1cc7375712bcb"
+        },
+        "webp": {
+          "file": "webp/carrying-bag.webp",
+          "sha256": "56636e60535d987cebc64afe5524f2eacadbacbfa3fac4b136595341cec8a62e",
+          "bytes": 56388
+        }
+      }
+    },
+    {
+      "slug": "seated-spinal-twist",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/seated-spinal-twist.svg",
+          "sha256": "c43710283bd47a190332218212ae51e381887fae3995deb78887758abcf2b68b",
+          "bytes": 27184,
+          "width": 2048,
+          "cssVarSha256": "a94f961155d619d52b9171cc2bd15ac3881c44cb16d3d0a4aacf0453779b5ca3"
+        },
+        "webp": {
+          "file": "webp/seated-spinal-twist.webp",
+          "sha256": "12ad67b0a4356c88ecb57878f0a011f9d32e6598952ba96e77d5437e608462c1",
+          "bytes": 60306
+        }
+      }
+    },
+    {
+      "slug": "writing-journal",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/writing-journal.svg",
+          "sha256": "44ced887993b26386c1df681aa139e297f16522e1708150e127668a01efe347f",
+          "bytes": 20661,
+          "width": 2048,
+          "cssVarSha256": "39b578da9290117b49e2c5b66f7ba8368fcef05d38c6af58c3db79abb22153cd"
+        },
+        "webp": {
+          "file": "webp/writing-journal.webp",
+          "sha256": "4907ec41fb863e9ecc456d6517cdb894b720a3b9cfe1addc3b015b2fb32b74a4",
+          "bytes": 46340
+        }
+      }
+    },
+    {
+      "slug": "meditating-lily-pad",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/meditating-lily-pad.svg",
+          "sha256": "90d1fe8406c144ea4c411018825d765248169fc18844fb131ee44b4fcf795694",
+          "bytes": 29470,
+          "width": 2048,
+          "cssVarSha256": "3f76b83c6415058de0d7bdf6845ff721a9e86a334fe611b82bc10d4b7605952e"
+        },
+        "webp": {
+          "file": "webp/meditating-lily-pad.webp",
+          "sha256": "75e72f6df4f5d1391ccea0f8388257eba876da98448c4d9b9707871916e9eed5",
+          "bytes": 40974
+        }
+      }
+    },
+    {
+      "slug": "cycling-willow",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cycling-willow.svg",
+          "sha256": "7cfba4f6f0d166689d64718d677fb2574902f7ef95f41b3835aa02ff521652ce",
+          "bytes": 228657,
+          "width": 2048,
+          "cssVarSha256": "bf22cf23947ee39abde17a100ac176baf770dc2b442100d20c2b87b8009be7bf"
+        },
+        "webp": {
+          "file": "webp/cycling-willow.webp",
+          "sha256": "c036b7b38731e7716683a22fb465ac8f3193c5495e7179d8f55bf30636c6f5f9",
+          "bytes": 94358
+        }
+      }
+    },
+    {
+      "slug": "laptop-sitting",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/laptop-sitting.svg",
+          "sha256": "c440f90b9cd4e0a94fbaf29a164107b83be1e784763d8bcfbf5cf93cb4dd0f1e",
+          "bytes": 26034,
+          "width": 2048,
+          "cssVarSha256": "62604c81b79248569c653db90f00f0a343871f0e29c92a514d0c8eb8bee9c011"
+        },
+        "webp": {
+          "file": "webp/laptop-sitting.webp",
+          "sha256": "7df7328d57c85889180ffadb431d69088af9ea8f56eb1e9300abbb34c90c9f52",
+          "bytes": 33388
+        }
+      }
+    },
+    {
+      "slug": "yoga-lake",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/yoga-lake.svg",
+          "sha256": "ab052581ffa7fb4d3e4b327d02481991023f0f7952a644539eb0c7151fe67241",
+          "bytes": 29081,
+          "width": 2048,
+          "cssVarSha256": "14e8ec1d18dd31ba5d25b208cca3d27f5fbad7ab1fbd954e86efd95d03e4c888"
+        },
+        "webp": {
+          "file": "webp/yoga-lake.webp",
+          "sha256": "77b33d2b68d9b40d8cf2c6edde78fb6c3418e15441baffcd5bd01bab233b9d2b",
+          "bytes": 36920
+        }
+      }
+    },
+    {
+      "slug": "pouring-tea",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pouring-tea.svg",
+          "sha256": "3862193600164f2aec311a1eb08a255787567b391014d68af8ccaca0bfdb691f",
+          "bytes": 25840,
+          "width": 2048,
+          "cssVarSha256": "1f68668bc47f18e1db4d78a42b4d2e474cac7d5f24496aa0eb6c8af0d1ce14be"
+        },
+        "webp": {
+          "file": "webp/pouring-tea.webp",
+          "sha256": "2909c8ae8c23c489ae1005352fa128460b82158427519a8667bf0d364da7484b",
+          "bytes": 34978
+        }
+      }
+    },
+    {
+      "slug": "eating-smoothie-bowl",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/eating-smoothie-bowl.svg",
+          "sha256": "8562eb415281749232cb098cbdef22279f5543127b2b8d79c010ad219de67ea7",
+          "bytes": 39027,
+          "width": 2048,
+          "cssVarSha256": "85df771ec9d343f641cadb907d038a8dffae11cc3187f20a81862a7827a656ab"
+        },
+        "webp": {
+          "file": "webp/eating-smoothie-bowl.webp",
+          "sha256": "df4f88760de76b404316bce7d12d2460fa4d93e31db81ab10446e308b3d90cb2",
+          "bytes": 49098
+        }
+      }
+    },
+    {
+      "slug": "selfie-athletic",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-athletic.svg",
+          "sha256": "160f7b835333ff4a407275fc1c26041affefe920bb3233b9a694beb4fee2f2ad",
+          "bytes": 30030,
+          "width": 2048,
+          "cssVarSha256": "1692caeda47c0ef0f885c206c2c94b03c5bff5a004a280b97a3057edf5d34547"
+        },
+        "webp": {
+          "file": "webp/selfie-athletic.webp",
+          "sha256": "81996989b5704746dbfa1c17d2be1476809709153d65e608f8ddbfd47fb61c3c",
+          "bytes": 39520
+        }
+      }
+    },
+    {
+      "slug": "practicing-yoga",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/practicing-yoga.svg",
+          "sha256": "58b1702ce2f1cac5a7f43fe8f52f5c6e84d6ba7d759dfbe683d5c287a047cc66",
+          "bytes": 40286,
+          "width": 2048,
+          "cssVarSha256": "5740d488e6cc2b885ac93ef0d6c587e04c54d754a1beb91a2240734d4d5076c7"
+        },
+        "webp": {
+          "file": "webp/practicing-yoga.webp",
+          "sha256": "88e74e163d149ddc5331db7cda7e8a41e5064e9265062e0fd3f9a068c595edd0",
+          "bytes": 37594
+        }
+      }
+    },
+    {
+      "slug": "reading-mat",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-mat.svg",
+          "sha256": "f2fbfdac757cfa2a195b62fe3ff86bcd2f3b5d05d47996f7e5339d4438d96fc6",
+          "bytes": 27493,
+          "width": 2048,
+          "cssVarSha256": "cbac1b690c9ccf70e7f33f29433850df8e9b2ed913e0d2a7d441da9fa8c8ad70"
+        },
+        "webp": {
+          "file": "webp/reading-mat.webp",
+          "sha256": "7cd571f3784d811b642aa8b0d9ff4b32e3b24e8cf852d231fed10a9c8fdfe61a",
+          "bytes": 36758
+        }
+      }
+    }
+  ]
+}

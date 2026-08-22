@@ -1,0 +1,26 @@
+name: Bug report
+description: Report a broken or incorrect illustration
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to report an issue!
+  - type: input
+    id: set-slug
+    attributes:
+      label: Set slug
+      description: "The slug of the affected set (e.g. `landings`)"
+    validations:
+      required: true
+  - type: input
+    id: illustration-slug
+    attributes:
+      label: Illustration slug
+      description: The slug of the specific illustration (if known)
+  - type: textarea
+    id: description
+    attributes:
+      label: What went wrong?
+      placeholder: Describe the bug (broken SVG, wrong colours, missing variant, etc.)
+    validations:
+      required: true

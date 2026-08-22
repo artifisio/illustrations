@@ -1,0 +1,27 @@
+{
+  "slug": "strawhat",
+  "name": "Strawhat",
+  "description": "Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory.",
+  "tags": [],
+  "count": 1,
+  "illustrations": [
+    {
+      "slug": "character-taking-selfie",
+      "premium": true,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/character-taking-selfie.svg",
+          "sha256": "da09c1421fc1215a7befc3e2ccb37d691fc6db32642717cbdc5e324c542055e0",
+          "bytes": 73617,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/character-taking-selfie.webp",
+          "sha256": "87242469d171bdabdc5e0d8e75450f5916d52d627a1e10ea9559635eab3d5009",
+          "bytes": 21438
+        }
+      }
+    }
+  ]
+}

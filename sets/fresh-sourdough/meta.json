@@ -1,0 +1,346 @@
+{
+  "slug": "fresh-sourdough",
+  "name": "Fresh sourdough",
+  "description": "Bring the warmth of a sun-drenched kitchen to your next project with these charming illustrations that celebrate the slow art of sourdough. Whether you are designing a cozy bakery menu or sharing your favorite recipe, these visuals capture the soulful connection between the baker and the loaf. You will love how these pieces turn every design into a heartfelt tribute to the craft of handmade bread.",
+  "tags": [],
+  "count": 15,
+  "palette": [
+    {
+      "slot": "primary",
+      "label": "Muted Sage",
+      "hex": "#8b8d70",
+      "role": "themeable",
+      "_id": "6a254c5189ac3298aeed5835"
+    },
+    {
+      "slot": "secondary",
+      "label": "Warm Ochre",
+      "hex": "#b77c3d",
+      "role": "themeable",
+      "_id": "6a254c5189ac3298aeed5836"
+    },
+    {
+      "slot": "tertiary",
+      "label": "Deep Wood",
+      "hex": "#64441e",
+      "role": "themeable",
+      "_id": "6a254c5189ac3298aeed5837"
+    },
+    {
+      "slot": "quaternary",
+      "label": "Metal Grey",
+      "hex": "#c6bfb7",
+      "role": "themeable",
+      "_id": "6a254c5189ac3298aeed5838"
+    },
+    {
+      "slot": "skin",
+      "label": "Skin Tone",
+      "hex": "#eacba2",
+      "role": "fixed",
+      "_id": "6a254c5189ac3298aeed5839"
+    },
+    {
+      "slot": "neutral",
+      "label": "Cream Flour",
+      "hex": "#f5ead9",
+      "role": "fixed",
+      "_id": "6a254c5189ac3298aeed583a"
+    },
+    {
+      "slot": "outline",
+      "label": "Charcoal Brown",
+      "hex": "#37352d",
+      "role": "fixed",
+      "_id": "6a254c5189ac3298aeed583b"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "a-vintage-alarm-clock",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-vintage-alarm-clock.svg",
+          "sha256": "17355708f43a349fc037d8d57affcab8430707d8154f9f5c4ba6d3abbcec44f9",
+          "bytes": 134272,
+          "width": 2048,
+          "cssVarSha256": "01809adef813df7c42971faa00811f51b38085d2a16f42b88fd20be001ef0577"
+        },
+        "webp": {
+          "file": "webp/a-vintage-alarm-clock.webp",
+          "sha256": "6e828c02f2f2084315057898fcf66c37c60a7b2b8a3e5120985ddb0c6c587931",
+          "bytes": 241078
+        }
+      }
+    },
+    {
+      "slug": "a-sealed-envelope",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-sealed-envelope.svg",
+          "sha256": "6214d74505d9ac7cc31dde90673dd1b93f851e2f55d4ec4ce9578bbc3169b345",
+          "bytes": 36172,
+          "width": 2048,
+          "cssVarSha256": "f18a7f5f3c4fe0a6ae7a92943d6f067c3c45a12e4e7ffc576b7b99df1683f010"
+        },
+        "webp": {
+          "file": "webp/a-sealed-envelope.webp",
+          "sha256": "557bb232d206e9dc73cfedb6b9a10efbe778118ffb325027f17966ee18e8e20e",
+          "bytes": 164336
+        }
+      }
+    },
+    {
+      "slug": "a-locked-wooden-flour",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-locked-wooden-flour.svg",
+          "sha256": "06d3294c2386c0f92696bb9861e98e801282b334b360a3841c65e3e00de4db66",
+          "bytes": 52673,
+          "width": 2048,
+          "cssVarSha256": "d30b484db0c66b22db1db1b60666356b2a7cee4439aa2de02ada07a2818583cc"
+        },
+        "webp": {
+          "file": "webp/a-locked-wooden-flour.webp",
+          "sha256": "36a78316074433ad6d4d81f9cd000ba2667aced442c98d340b29a692593dc4e3",
+          "bytes": 176296
+        }
+      }
+    },
+    {
+      "slug": "a-magnifying-glass-and",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-magnifying-glass-and.svg",
+          "sha256": "f71e98a63b0ddf8f239492bfaa393d093d5c7319201a0e27759431751a0222b0",
+          "bytes": 50041,
+          "width": 2048,
+          "cssVarSha256": "43033860576d9b17c7a8bbb69347accf2175be7ca3025051dd2756f941b8f745"
+        },
+        "webp": {
+          "file": "webp/a-magnifying-glass-and.webp",
+          "sha256": "7a03180f5b9df3384989ebd4140a002f9249a3e6be22b3b2a1af176dd39d0c6e",
+          "bytes": 225040
+        }
+      }
+    },
+    {
+      "slug": "a-sourdough-starter-in",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-sourdough-starter-in.svg",
+          "sha256": "ce9013dc471634a55882741306fbee11d754003ca0964d2ef79cfb382ede4c6b",
+          "bytes": 64621,
+          "width": 2048,
+          "cssVarSha256": "6c7d7fd8cbf1a2cec8a45e77154b74df777d9da560d33918b96a8b6dd39f4f60"
+        },
+        "webp": {
+          "file": "webp/a-sourdough-starter-in.webp",
+          "sha256": "780c7a1596f2faa951f88f6e98da3dfb89ec502fca8e2f35ec85db80fcdddb4d",
+          "bytes": 169888
+        }
+      }
+    },
+    {
+      "slug": "a-bread-proofing-basket",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-bread-proofing-basket.svg",
+          "sha256": "231bfb0490d7524ca9c32eeba0cd45e4fb5b6c0aa69301cb5782b44a155b2139",
+          "bytes": 93211,
+          "width": 2048,
+          "cssVarSha256": "7d07c1a0f9492263cce53150214e058e3baa4165f47765ac98b75a19ed66e18c"
+        },
+        "webp": {
+          "file": "webp/a-bread-proofing-basket.webp",
+          "sha256": "cdf2047bf8d90f675cf405ac7b15d65d0543fc09b512a84ab86f1441ab074707",
+          "bytes": 274144
+        }
+      }
+    },
+    {
+      "slug": "a-piece-of-broken",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-piece-of-broken.svg",
+          "sha256": "32b18fc3b68676619ae1b2ed0b307571f5bf57ff036868df9ab34a88a6b7c3a1",
+          "bytes": 77694,
+          "width": 2048,
+          "cssVarSha256": "ad056d041799f2a42ceda19ce7994f05cb63050eb21c8ad7d5cdce94e2330334"
+        },
+        "webp": {
+          "file": "webp/a-piece-of-broken.webp",
+          "sha256": "4f886909e4873e69b03c556afcdf14bfe96aa1f91ffb67f0c3585d07cd0f6ef7",
+          "bytes": 218320
+        }
+      }
+    },
+    {
+      "slug": "bread-baking",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/bread-baking.svg",
+          "sha256": "a4b91a12df0040e90017eda94f1c28da633348b4d64052f2c4ada751c7f6f5b8",
+          "bytes": 49044,
+          "width": 2048,
+          "cssVarSha256": "cab3bfbccacef0e12facc97eba2b5de8303622814ae2fe5e6ba2dd534e526de5"
+        },
+        "webp": {
+          "file": "webp/bread-baking.webp",
+          "sha256": "6ba5892b4f8fa9c7c1e36f512122c44efa88fc807e2e3b3031b4725d8ad0e587",
+          "bytes": 189378
+        }
+      }
+    },
+    {
+      "slug": "folding-dough",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/folding-dough.svg",
+          "sha256": "0b3a7f1ce626eb7bb49cfea1ea08ad578a387eba0e07d8a510c3a9b5ea663560",
+          "bytes": 89819,
+          "width": 2048,
+          "cssVarSha256": "0b3679b2d19c2050a6ea4d3966a0d76fc33ba13a8b370a7d909fc0605df0143c"
+        },
+        "webp": {
+          "file": "webp/folding-dough.webp",
+          "sha256": "4dfe23aca8e0ee40912db81a6fe6a850cd4099a9783aadae26accd906d8381fa",
+          "bytes": 223092
+        }
+      }
+    },
+    {
+      "slug": "cooking-pot-leaf",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cooking-pot-leaf.svg",
+          "sha256": "714b21ba48c1f36cd01cfdab53798e900d7b5eec7e79d03e77406555981c770c",
+          "bytes": 31065,
+          "width": 2048,
+          "cssVarSha256": "484cb0ab8db216034bd6fbb61dd3f11a54c6f5c1e043113271db8c1b7853a005"
+        },
+        "webp": {
+          "file": "webp/cooking-pot-leaf.webp",
+          "sha256": "7669eb95b6575f786045066ebf211f42a37a9dd0ff3a4b2ed9e6c89ffa95b09a",
+          "bytes": 168698
+        }
+      }
+    },
+    {
+      "slug": "proofing-basket",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/proofing-basket.svg",
+          "sha256": "3e9c46cd5e466b1bd22131c2133f002f63ec9189e7ec966e453be65c6ec2218e",
+          "bytes": 53519,
+          "width": 2048,
+          "cssVarSha256": "69bb81a17afc3fb304517bcb7121af7268a02d9fe76f180d1e4189579c052591"
+        },
+        "webp": {
+          "file": "webp/proofing-basket.webp",
+          "sha256": "bd252d08ec17aade7fbebc32b99cd3271d14edc4c19ea41aa098d8431b55f1e2",
+          "bytes": 230570
+        }
+      }
+    },
+    {
+      "slug": "baking-ingredients-tools",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/baking-ingredients-tools.svg",
+          "sha256": "4645e46c3cb3e23caab65d5ee91443d4b1d20a54449055356a6b16346468a876",
+          "bytes": 89126,
+          "width": 2048,
+          "cssVarSha256": "69d1cd70695fb2abf10d599b90290fd6a7d6d3da1ddf955457a170fa42fb56ea"
+        },
+        "webp": {
+          "file": "webp/baking-ingredients-tools.webp",
+          "sha256": "a8e44f2879beda316928584721cf4c4805a1913c48041e9087303135d041ebd7",
+          "bytes": 225220
+        }
+      }
+    },
+    {
+      "slug": "smelling-bread",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/smelling-bread.svg",
+          "sha256": "960d93656429b8fe3d1097be069a4c06bda1190284d22106844fa8efea313c06",
+          "bytes": 113785,
+          "width": 2048,
+          "cssVarSha256": "003ad45975a8187e63ba4b1ade7b980320a256c61c7ce7446446863515321e28"
+        },
+        "webp": {
+          "file": "webp/smelling-bread.webp",
+          "sha256": "a2df1b11f7aeed500959b5edbe831cbfd28297a3d921f9c92e9d902af9798125",
+          "bytes": 231426
+        }
+      }
+    },
+    {
+      "slug": "scoring-wheat",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/scoring-wheat.svg",
+          "sha256": "4de709a23c51b64312dc26fdf022dfc529a03b8ff438d26c9042cabc99206691",
+          "bytes": 193607,
+          "width": 2048,
+          "cssVarSha256": "cd2751dd733aeca49d1e583cdba7778082addb2e188b0afd638c3a6fb84fffd6"
+        },
+        "webp": {
+          "file": "webp/scoring-wheat.webp",
+          "sha256": "d47ee841bbde8b8250002f427d2e9a795a282d948c33db075c9caaf841cd913b",
+          "bytes": 259490
+        }
+      }
+    },
+    {
+      "slug": "sprinkling-flour",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/sprinkling-flour.svg",
+          "sha256": "21cd580258abe797c71f8c214cf0b0545066cf1c5d30362f2e55553b587359d0",
+          "bytes": 158594,
+          "width": 2048,
+          "cssVarSha256": "2ed981d78342d15294b7f69caefc3f090dc99af559c244e68e9fe03c8c06351b"
+        },
+        "webp": {
+          "file": "webp/sprinkling-flour.webp",
+          "sha256": "4b643649796e06d26f3d0b343ba7decacb3c607b618b4ee58bcdbaa4f8c67c75",
+          "bytes": 257054
+        }
+      }
+    }
+  ]
+}

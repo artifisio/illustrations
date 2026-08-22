@@ -1,0 +1,153 @@
+{
+  "slug": "allanpoe",
+  "name": "allanpoe",
+  "description": "Surround your designs with the haunting mystery and dark elegance of a classic gothic tale. Whether you are crafting atmospheric book covers or moody social media posts, these pieces help you tell stories that feel both deeply poetic and slightly unsettling. You will captivate your audience with a sense of timeless drama that breathes life into your most shadow-filled creative visions.",
+  "tags": [],
+  "count": 8,
+  "illustrations": [
+    {
+      "slug": "character-reading-book",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/character-reading-book.svg",
+          "sha256": "3c840ac6634d39d968ba1681f126fc6954c7e11be0db9d390f874fff918c2ad9",
+          "bytes": 23808,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/character-reading-book.webp",
+          "sha256": "314d0dc0fa5a1d94dd9183170308ff512989a555fb037474f9a8d1b0c606d77f",
+          "bytes": 64532
+        }
+      }
+    },
+    {
+      "slug": "character-holding-magnifying-glass",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/character-holding-magnifying-glass.svg",
+          "sha256": "98edd848a99c73f01ea8e0c0d116b85e8d662521297e9d5c9e383d9009530f2a",
+          "bytes": 15017,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/character-holding-magnifying-glass.webp",
+          "sha256": "23a7bb976958486642f82dc06e9e1e45c8fbb43c66468bff72efdd868dc78de3",
+          "bytes": 50410
+        }
+      }
+    },
+    {
+      "slug": "superhero-cape",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/superhero-cape.svg",
+          "sha256": "cd1b5649168d2b193be295dd32dc52556fc8334b870f2677c4f94a6c83b1e31b",
+          "bytes": 17010,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/superhero-cape.webp",
+          "sha256": "d10623479235be01d8de388b8e0c6f3c4a08e0dc6331bd432a7a9e19a50c4b66",
+          "bytes": 22988
+        }
+      }
+    },
+    {
+      "slug": "smiling-man",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/smiling-man.svg",
+          "sha256": "08a0711699b17a093ea27bbbedf197ae2d68110603f68da24bd92ec16c9fe70a",
+          "bytes": 7411,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/smiling-man.webp",
+          "sha256": "b95bb89683a9ab43eaefb0a7675079384e7203daa66c768bc8d97fd01aa8cad1",
+          "bytes": 23868
+        }
+      }
+    },
+    {
+      "slug": "boy-holding-magnifying-glass",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/boy-holding-magnifying-glass.svg",
+          "sha256": "a38e68fd74c2ab9e75c39e0c902a75d0157b4954abe46948cbff3d483b3a0098",
+          "bytes": 15489,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/boy-holding-magnifying-glass.webp",
+          "sha256": "def0e03bf0d4f44b581c36f54a12157d0bf7916a3b39487439cf4edd57952e30",
+          "bytes": 29394
+        }
+      }
+    },
+    {
+      "slug": "girl-taking-selfie",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/girl-taking-selfie.svg",
+          "sha256": "649447699e4a6182a1bf4d55700ae9b77df00b9218e99bf5dcbfe762e4013601",
+          "bytes": 22035,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/girl-taking-selfie.webp",
+          "sha256": "f4449bdde417c0fc180aca91462d9560a2d62cc985d1fe882a4f04cd5b60ce95",
+          "bytes": 48150
+        }
+      }
+    },
+    {
+      "slug": "girl-taking-selfie",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/girl-taking-selfie.svg",
+          "sha256": "51d84d3cd2ba530647b73cce70ed7f94f6e5a705f02713e650fa66e5fc7b26b5",
+          "bytes": 15037,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/girl-taking-selfie.webp",
+          "sha256": "052c1e6016b3a3f1519fcebe0d3913187318ec2ae4563b8480281d1958d5d745",
+          "bytes": 43242
+        }
+      }
+    },
+    {
+      "slug": "man-laptop-black-white",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/man-laptop-black-white.svg",
+          "sha256": "c34317edc81f7ed1df7a7bf7697290aea86636d5a8df52c7800f26de6354ece0",
+          "bytes": 9505,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/man-laptop-black-white.webp",
+          "sha256": "fded6f33c02ce7e2e8d72815b82f8a132bd7432c93f3bd810094b007c4ab50b0",
+          "bytes": 27224
+        }
+      }
+    }
+  ]
+}

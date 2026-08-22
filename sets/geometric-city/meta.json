@@ -1,0 +1,251 @@
+{
+  "slug": "geometric-city",
+  "name": "Geometric City",
+  "description": "Elevate your brand with a sense of modern rhythm and structured energy that captures the pulse of a perfectly organized metropolis. You can easily craft sophisticated backdrops for your next big project, turning simple layouts into vibrant worlds that communicate a vision of progress and precision. These illustrations give you the power to build a professional aesthetic that feels both refreshingly clean and full of life.",
+  "tags": [],
+  "count": 10,
+  "palette": [
+    {
+      "slot": "background",
+      "label": "Background Cream",
+      "hex": "#f8e4c5",
+      "role": "fixed",
+      "_id": "69e68e96ca62bff47126ef3c"
+    },
+    {
+      "slot": "outline",
+      "label": "Outline Black",
+      "hex": "#0b0205",
+      "role": "fixed",
+      "_id": "69e68e96ca62bff47126ef3d"
+    },
+    {
+      "slot": "primary",
+      "label": "Deep Navy",
+      "hex": "#262f50",
+      "role": "themeable",
+      "_id": "69e68e96ca62bff47126ef3e"
+    },
+    {
+      "slot": "accent-gold",
+      "label": "Warm Gold",
+      "hex": "#d39c4c",
+      "role": "themeable",
+      "_id": "69e68e96ca62bff47126ef3f"
+    },
+    {
+      "slot": "accent-terracotta",
+      "label": "Terracotta Red",
+      "hex": "#bc6245",
+      "role": "themeable",
+      "_id": "69e68e96ca62bff47126ef40"
+    },
+    {
+      "slot": "skin",
+      "label": "Skin Tone",
+      "hex": "#e6c49b",
+      "role": "fixed",
+      "_id": "69e68e96ca62bff47126ef41"
+    },
+    {
+      "slot": "shadow",
+      "label": "Muted Shadow",
+      "hex": "#773b3c",
+      "role": "fixed",
+      "_id": "69e68e96ca62bff47126ef42"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "dog-walking",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dog-walking.svg",
+          "sha256": "b5cf18aa2ab9eeb968b90122cbda1ac4db62cdeb0edaa4387457b42ec946d675",
+          "bytes": 23701,
+          "width": 2048,
+          "cssVarSha256": "b846ff60e2279b8b03817bad8a75a8885626463851923c39408149ceb66b7437"
+        },
+        "webp": {
+          "file": "webp/dog-walking.webp",
+          "sha256": "2e170281ddef638ef81642ef6cd28217cab33b8f34c158d00dafc4f7f23fcd8e",
+          "bytes": 69432
+        }
+      }
+    },
+    {
+      "slug": "selfie-portrait",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-portrait.svg",
+          "sha256": "a3a36e50111c7432036827ffb588d0c1242b87a98bd8436fe1595c35317687e6",
+          "bytes": 17183,
+          "width": 2048,
+          "cssVarSha256": "bd723b894dfbc3a7251b4fc31926dadaec3817589d085a560c43978f512946c1"
+        },
+        "webp": {
+          "file": "webp/selfie-portrait.webp",
+          "sha256": "f50324ed965454323793d914c7d812303954295df6a78d74410b4a8acd6669c6",
+          "bytes": 57932
+        }
+      }
+    },
+    {
+      "slug": "dancing-city",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dancing-city.svg",
+          "sha256": "f323b40d740e54da9950555928168b6e6578992cf0e7644a38d81d823a8b8e47",
+          "bytes": 20626,
+          "width": 2048,
+          "cssVarSha256": "c16033b5f11a1e11fa78f2d5b99527c26aea7169af1a49c88e702cc738d26fdd"
+        },
+        "webp": {
+          "file": "webp/dancing-city.webp",
+          "sha256": "501be63226caee02ca9cfc7738dbb4d42b1dd3c5d1d677c9e77d9c0e899fb18a",
+          "bytes": 67932
+        }
+      }
+    },
+    {
+      "slug": "shopping-bags",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/shopping-bags.svg",
+          "sha256": "416ef1aa21e2a9c9c16885d4b547a5be2a3948170b240c8feff655f4ce0eb3e4",
+          "bytes": 25131,
+          "width": 2048,
+          "cssVarSha256": "7405d703f060819e81c5e371163fa15f0ffeb0b239452ab5692790914fe81f2f"
+        },
+        "webp": {
+          "file": "webp/shopping-bags.webp",
+          "sha256": "54bd4f7a5df8277998128e19085b5bdba48a94e48330b66ea90afaf8a2ab9f65",
+          "bytes": 83692
+        }
+      }
+    },
+    {
+      "slug": "drinking-coffee",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/drinking-coffee.svg",
+          "sha256": "6c8382e39efd9cd5aecd7c9c633bb0176d0b5c9967112c3a94c06ab9772084df",
+          "bytes": 26967,
+          "width": 2048,
+          "cssVarSha256": "417dc9702a22a9f4755336cb341853b4bdc47a7d68d314fecf273222a451249e"
+        },
+        "webp": {
+          "file": "webp/drinking-coffee.webp",
+          "sha256": "43dc8aab5358b00b2ab1c3e04f41946697435be768c1f6ef2dc720fa4df73e15",
+          "bytes": 73520
+        }
+      }
+    },
+    {
+      "slug": "gardening",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/gardening.svg",
+          "sha256": "7c6446649e2db3057a091b54f0924e831a1f014bc1a225f95991366d26182f25",
+          "bytes": 25313,
+          "width": 2048,
+          "cssVarSha256": "52efb1c90d4150416703387b4519f6a4f736059e4f9531c4e9778902727a3c6d"
+        },
+        "webp": {
+          "file": "webp/gardening.webp",
+          "sha256": "e7d8e631322043fa5876f79b9752079e0afbc394f3a11952b6c08f45ca04a03a",
+          "bytes": 66416
+        }
+      }
+    },
+    {
+      "slug": "cycling-city",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cycling-city.svg",
+          "sha256": "a7551a7980d7af9883724e7696fb0cd9d4507a1d16218cb6310011d6d539ab28",
+          "bytes": 32822,
+          "width": 2048,
+          "cssVarSha256": "a90b2f4c69a6e291078ce15d515bfc7941ae193ab7266eb66468ec88fb22b08b"
+        },
+        "webp": {
+          "file": "webp/cycling-city.webp",
+          "sha256": "186bc617124d252ed14f78014f70b3929bcb982bddfc15dbece05c57a7545e82",
+          "bytes": 97712
+        }
+      }
+    },
+    {
+      "slug": "computer",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/computer.svg",
+          "sha256": "b7a16cefb2998588467c0cdf67c05bcacbc202707e9fad9ecdef46e0f381d5c1",
+          "bytes": 21476,
+          "width": 2048,
+          "cssVarSha256": "dd3685f6e0079ff27ebd8c17779038c175206e4c1e53124b57bdf2aa9981f04c"
+        },
+        "webp": {
+          "file": "webp/computer.webp",
+          "sha256": "e114a1e4b750952354586b782fe2880119a938bced80e344beff0c9589b5b21b",
+          "bytes": 53696
+        }
+      }
+    },
+    {
+      "slug": "stirring-pot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stirring-pot.svg",
+          "sha256": "3ad4c6b832f54fabd59becea20609feb3aa6181106c19daefe06302ba7684de6",
+          "bytes": 23423,
+          "width": 2048,
+          "cssVarSha256": "d1e7899dfc1419f41102d05021bd78b129eb78deac9cd461a1fbcbd1aae83026"
+        },
+        "webp": {
+          "file": "webp/stirring-pot.webp",
+          "sha256": "6094fd3df147d914b02e75ab80d64571aadb54e16fcef97a5f0d63e743b5647f",
+          "bytes": 57390
+        }
+      }
+    },
+    {
+      "slug": "reading-park",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-park.svg",
+          "sha256": "cde9e184392a227bd479f29603e351dad620ffd086cfb583377f7ce3b241c112",
+          "bytes": 19233,
+          "width": 2048,
+          "cssVarSha256": "63e1d294a8c37f9841ad8d83c9bbd61b09ea467ea9e9969f48ff66457e1d7792"
+        },
+        "webp": {
+          "file": "webp/reading-park.webp",
+          "sha256": "48956093771fc0d66977629041f114623a44de016bb2e0b25134697e42b753c8",
+          "bytes": 59700
+        }
+      }
+    }
+  ]
+}

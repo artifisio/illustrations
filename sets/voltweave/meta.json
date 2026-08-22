@@ -1,0 +1,681 @@
+{
+  "slug": "voltweave",
+  "name": "Voltweave",
+  "description": "Immerse your audience in the rhythmic pulse of creativity with these vibrant scenes of a musician lost in his modular craft. You can use these soulful visuals to give your next music project or tech brand an undeniable sense of energy and human connection. It is the perfect way to make your digital space feel as alive and layered as a live performance.",
+  "tags": [],
+  "count": 33,
+  "palette": [
+    {
+      "slot": "primary",
+      "label": "Main Blue",
+      "hex": "#3963d1",
+      "role": "themeable",
+      "_id": "6a2578615a5f618458663bed"
+    },
+    {
+      "slot": "accent",
+      "label": "Vibrant Orange",
+      "hex": "#e26a27",
+      "role": "themeable",
+      "_id": "6a2578615a5f618458663bee"
+    },
+    {
+      "slot": "ink",
+      "label": "Ink Black",
+      "hex": "#050505",
+      "role": "fixed",
+      "_id": "6a2578615a5f618458663bef"
+    },
+    {
+      "slot": "gray-dark",
+      "label": "Machine Dark Gray",
+      "hex": "#4b4b4c",
+      "role": "fixed",
+      "_id": "6a2578615a5f618458663bf0"
+    },
+    {
+      "slot": "gray-light",
+      "label": "Machine Light Gray",
+      "hex": "#9d9c9c",
+      "role": "fixed",
+      "_id": "6a2578615a5f618458663bf1"
+    },
+    {
+      "slot": "background",
+      "label": "Paper White",
+      "hex": "#f8f6f3",
+      "role": "fixed",
+      "_id": "6a2578615a5f618458663bf2"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "control-panel-large-buy",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/control-panel-large-buy.svg",
+          "sha256": "14900611357e5f59dad6cd29b6c92b80ce45e9dfd5a41e91fb3d87ee8d7865a2",
+          "bytes": 34460,
+          "width": 2048,
+          "cssVarSha256": "2d8e90b751f7a3c50f886e233454a085f6118a36f44fd6234fca47e2292a2542"
+        },
+        "webp": {
+          "file": "webp/control-panel-large-buy.webp",
+          "sha256": "09e33dcd95c54ed80e69a9b21bc957010323fd2f4ce33e4fece085d803ee7af1",
+          "bytes": 204904
+        }
+      }
+    },
+    {
+      "slug": "padlock-synthesizer-module",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/padlock-synthesizer-module.svg",
+          "sha256": "caa8aee756e1bbb8f5280aecbfe5d2dc3bb950cbe8cb84a994b8d617dc94f74c",
+          "bytes": 38605,
+          "width": 2048,
+          "cssVarSha256": "172dba9e6a5d324d12a10d0310c9c4d3e3fd4289d50f2fb7cf9fe30b2b0ad60d"
+        },
+        "webp": {
+          "file": "webp/padlock-synthesizer-module.webp",
+          "sha256": "ebcecbb8e891b720d71e17c2ab222ea84b59ace270acf5527aa543ec143148e8",
+          "bytes": 167588
+        }
+      }
+    },
+    {
+      "slug": "young-man-messy-black-3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-man-messy-black-3.svg",
+          "sha256": "7c5dc900e40a85cdbca9f66fb70d1321990d1226144d4efc93628d35f34d9826",
+          "bytes": 26133,
+          "width": 2048,
+          "cssVarSha256": "201d3cc7291e49ad3321f787a4133d6ba7bb6623e93662f27ab13fbd3707becd"
+        },
+        "webp": {
+          "file": "webp/young-man-messy-black-3.webp",
+          "sha256": "040fe3bf824035497328e549e052e274a7125edaf86828e75693a1a2c6f2a514",
+          "bytes": 176380
+        }
+      }
+    },
+    {
+      "slug": "hexagonal-bitcoin-device-wires",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/hexagonal-bitcoin-device-wires.svg",
+          "sha256": "d2540e788d46a322e94fbe8e8088450735a1ad8e1f31da60cd6a55bf05619f35",
+          "bytes": 43605,
+          "width": 2048,
+          "cssVarSha256": "be3de9af647ffe535fe6e21278b9814eee3d6d71c72ce3badfad09afbc8cfc06"
+        },
+        "webp": {
+          "file": "webp/hexagonal-bitcoin-device-wires.webp",
+          "sha256": "c85a7d6415ca3d14c10e48e142c1d5c11c3f0864ebf214ca327dbc75d3c3ce24",
+          "bytes": 209604
+        }
+      }
+    },
+    {
+      "slug": "electronic-device-printing-receipt",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/electronic-device-printing-receipt.svg",
+          "sha256": "5630b5c6c75caa38d63022eed052d393461faa51fe1f4606d57bc9ae9d8f7a23",
+          "bytes": 29157,
+          "width": 2048,
+          "cssVarSha256": "9b60271774834d885a962ec3a88ce5647e09a3103300f646e21d0a7cb0dbc6b3"
+        },
+        "webp": {
+          "file": "webp/electronic-device-printing-receipt.webp",
+          "sha256": "d2ca172d1e510b9760b6ecc3b9d65139d76ba03ef3c383f13ee3bf9624e24358",
+          "bytes": 167234
+        }
+      }
+    },
+    {
+      "slug": "young-musician",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-musician.svg",
+          "sha256": "fcc79f3d8453e932126478a43bf24db7c3dd875f9143855b3f25d231d495807b",
+          "bytes": 42738,
+          "width": 2048,
+          "cssVarSha256": "2a23b123ef470db4b3754e8d663904d401f81dd468be2024d7e82962801a2bb3"
+        },
+        "webp": {
+          "file": "webp/young-musician.webp",
+          "sha256": "1d1eaa3381a791a07ff5c41c8c5ba25502260a8efa7960b88852aa45925f8c53",
+          "bytes": 203706
+        }
+      }
+    },
+    {
+      "slug": "bank-vault-door",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/bank-vault-door.svg",
+          "sha256": "92c2f9fb2499f9b9b9a10e58b4f1cdc41a832b0ece2440035c04566d2f759ec4",
+          "bytes": 69435,
+          "width": 2048,
+          "cssVarSha256": "8e23c47ec4483bfadd778ee350d25988c9352af030e0fbb4916cde69b57b34dc"
+        },
+        "webp": {
+          "file": "webp/bank-vault-door.webp",
+          "sha256": "f63121ec8d219da54f82ddf2656d6154df3d72da5779b956e1b4d258d7f47319",
+          "bytes": 272644
+        }
+      }
+    },
+    {
+      "slug": "oscilloscope",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/oscilloscope.svg",
+          "sha256": "2c589fdec6945c92ee6ffea845c304904f2cf2da478626d83c327e6a237cceca",
+          "bytes": 50172,
+          "width": 2048,
+          "cssVarSha256": "06cbec49d285ed85502799022435b76d3559017d5e6356c8172b4d452b0150c7"
+        },
+        "webp": {
+          "file": "webp/oscilloscope.webp",
+          "sha256": "bde11209519041d32663615fdb765be891b6ffe98d7406bae74ebd901cbf44cd",
+          "bytes": 201796
+        }
+      }
+    },
+    {
+      "slug": "man-black-hair",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/man-black-hair.svg",
+          "sha256": "a85c624125a27bed96b61d7318c20e08076cdcb7e71f74d7165e501c1c053b45",
+          "bytes": 38793,
+          "width": 2048,
+          "cssVarSha256": "f37e527129602331624b959a33d1b6eb45ab8e18e9a942d1e7cf5f4a29f810b2"
+        },
+        "webp": {
+          "file": "webp/man-black-hair.webp",
+          "sha256": "b3f77d43b7156b720daaa10e8312e208f0a6c6587570ab93c4948ecede10b32d",
+          "bytes": 220076
+        }
+      }
+    },
+    {
+      "slug": "person-interacting-mechanical-brain",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/person-interacting-mechanical-brain.svg",
+          "sha256": "f52ad71bf32f1e9bb009f7e482309b131fb2dc09073897a19eac0f719fd39b47",
+          "bytes": 72467,
+          "width": 2048,
+          "cssVarSha256": "d13736f4ad09d0c3035bf2bb83276dd2f7d505a01d4204a01157c7f980e28590"
+        },
+        "webp": {
+          "file": "webp/person-interacting-mechanical-brain.webp",
+          "sha256": "e182b7d89e287dd84f635d689d430423a8be7c986eb7919fef86bb84ba75523d",
+          "bytes": 216280
+        }
+      }
+    },
+    {
+      "slug": "worried-person-holding-broken",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/worried-person-holding-broken.svg",
+          "sha256": "7fd042aa413a49aabcfbba495c6b72b461822bc71ce2547dddee2e00351aa589",
+          "bytes": 36020,
+          "width": 2048,
+          "cssVarSha256": "a471e6221a7fc9966bfed585696716a5e41a01da67035e16b0313d9a1e45fe18"
+        },
+        "webp": {
+          "file": "webp/worried-person-holding-broken.webp",
+          "sha256": "f8d06cb6dc95a82ea828486521339336174d1393d3eebfc7c3ddcdf0bb2912b8",
+          "bytes": 206290
+        }
+      }
+    },
+    {
+      "slug": "small-round-robot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-round-robot.svg",
+          "sha256": "7fba3997f3e048375466aa886707623c680fd594820dc1c15e840d60daec7db4",
+          "bytes": 46042,
+          "width": 2048,
+          "cssVarSha256": "006754f2409acada66193931237c71f388117c764d4b879f577f0a4e9dad859d"
+        },
+        "webp": {
+          "file": "webp/small-round-robot.webp",
+          "sha256": "8500e1b52efcf55fc7a5c7fecc2b5116783761317f8b0a9b1c3afbf6aadc9cb1",
+          "bytes": 165766
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-synthesizers",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-synthesizers.svg",
+          "sha256": "3b55a0b63e41af8a439693f00e2a9c9d53ebd700eb51fea1db5d112a6f02cbaa",
+          "bytes": 120988,
+          "width": 2048,
+          "cssVarSha256": "b953cd7a8b1fbdf7c7594c37785e10c85ca1fd08024f7e37844867de7871af9f"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-synthesizers.webp",
+          "sha256": "0258036904c825806d311bf36c606e620d9885c36e386ae88202f12b9803898e",
+          "bytes": 232638
+        }
+      }
+    },
+    {
+      "slug": "digital-data-transfer",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/digital-data-transfer.svg",
+          "sha256": "db66cd50fb220819865a605d769a8418fca9605d38b06084c3754c72d14d0cee",
+          "bytes": 62843,
+          "width": 2048,
+          "cssVarSha256": "020c32f92a8c6c87ffd5d506bfe78ad722107acaddcba5d35c84a53f72749392"
+        },
+        "webp": {
+          "file": "webp/digital-data-transfer.webp",
+          "sha256": "d4222fc5e4c57bcce33b3e5fc7feada16aacb02632216690cc8176a46294f087",
+          "bytes": 194430
+        }
+      }
+    },
+    {
+      "slug": "young-man-messy-black-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-man-messy-black-2.svg",
+          "sha256": "3347bdbee23304806d28f4bea72b7173fbd8db2acdbd20226230969fd7d6e475",
+          "bytes": 78910,
+          "width": 2048,
+          "cssVarSha256": "8571d6c8e214ce73a4197e91216996c3470e76675f9c54caabefd381cd44433a"
+        },
+        "webp": {
+          "file": "webp/young-man-messy-black-2.webp",
+          "sha256": "d43ea0c27b963872ab7c8629fe3b77a81ef292c8ddd0c2b27df246feef6cc1fa",
+          "bytes": 207424
+        }
+      }
+    },
+    {
+      "slug": "young-man-black-hair-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-man-black-hair-2.svg",
+          "sha256": "3802f8900b84ae70ff565d60b4bb4b0d7bd56a6458cde46323f9ed183b9d9b24",
+          "bytes": 40345,
+          "width": 2048,
+          "cssVarSha256": "6059b8da85de3f3098cc1555d694d56b9a5ea262670d0f300affdeb0352762cd"
+        },
+        "webp": {
+          "file": "webp/young-man-black-hair-2.webp",
+          "sha256": "23096ba329e50f0203c9f355c9bbb3c27c5b1edef7fce3da11a4e684a6ace1a9",
+          "bytes": 170344
+        }
+      }
+    },
+    {
+      "slug": "young-man-black-hair",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-man-black-hair.svg",
+          "sha256": "b47f7e37467affb6a6e5229bfb01b37e7f169fcea2a0ee14cbe4a80d02ab49b7",
+          "bytes": 58854,
+          "width": 2048,
+          "cssVarSha256": "3aecf02b3636ab341f0c4332cfd539debec9c2bb7c5c779f0129a7371b1df8c1"
+        },
+        "webp": {
+          "file": "webp/young-man-black-hair.webp",
+          "sha256": "f685ed92a940edc5039a89dbd66193ec0f3b8e901269989806dc97dfc178e78f",
+          "bytes": 193168
+        }
+      }
+    },
+    {
+      "slug": "young-man-messy-black",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-man-messy-black.svg",
+          "sha256": "c2d7eaeac342129e515c71f6d12eba8e8fbc4df9635e40bf35afdade68683047",
+          "bytes": 63929,
+          "width": 2048,
+          "cssVarSha256": "fb352eea81bd2acde2bf8cf3a613b477f60dfe6fbfa590c9403613a0d94f9a66"
+        },
+        "webp": {
+          "file": "webp/young-man-messy-black.webp",
+          "sha256": "3926e56300ac3635d2c2df949ca2e4c22934551e44677178217c7c228cd2e71d",
+          "bytes": 209628
+        }
+      }
+    },
+    {
+      "slug": "person-blue-sunglasses-headset",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/person-blue-sunglasses-headset.svg",
+          "sha256": "cbc495e279db73c133094e15e9ccc9a128117ecd5109ed002ef540520832786f",
+          "bytes": 27639,
+          "width": 2048,
+          "cssVarSha256": "2f455ac5cdc335398e0605a213692fcc81f82adeda6723033929b0d5cd89d711"
+        },
+        "webp": {
+          "file": "webp/person-blue-sunglasses-headset.webp",
+          "sha256": "24c55c6dd38ac46ca3b6e421beb0a4ee519222f8b1fc2a5aa2e6a5977d9de766",
+          "bytes": 192672
+        }
+      }
+    },
+    {
+      "slug": "synthesizer-module-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/synthesizer-module-2.svg",
+          "sha256": "7e81dca10d157982952180f89f5820a265ee8140a2d6ce9596890e31e2394b9f",
+          "bytes": 22449,
+          "width": 2048,
+          "cssVarSha256": "9408031856a5a2145050db2dd4ad08477ffbe1395d4d1c7aefa9cd475ec6dbbb"
+        },
+        "webp": {
+          "file": "webp/synthesizer-module-2.webp",
+          "sha256": "1830caa4c9e23628ef78e51a61460e28250aa43be013680f76a4c71068bd8e07",
+          "bytes": 121894
+        }
+      }
+    },
+    {
+      "slug": "person-spiky-black-hair-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/person-spiky-black-hair-2.svg",
+          "sha256": "ad84c315df03a811947db646028e28fc2994d07055952ee982ea214aa0de6e90",
+          "bytes": 44120,
+          "width": 2048,
+          "cssVarSha256": "f1acb316961e5461f8c608e90043df5b5af3ce0964247920e7e33b0b46024d87"
+        },
+        "webp": {
+          "file": "webp/person-spiky-black-hair-2.webp",
+          "sha256": "adf127941d271d062908a8d086a35fcd04b1cce06d71327639bc139b78e71ba7",
+          "bytes": 200742
+        }
+      }
+    },
+    {
+      "slug": "young-man-spiky-black",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-man-spiky-black.svg",
+          "sha256": "d094290070f290aa4f0a0ee829ada9104b59f67fe9ae4ded97d20827b9918513",
+          "bytes": 31402,
+          "width": 2048,
+          "cssVarSha256": "9d88a2bb8969a47be897251cebe9a67d1ce6a56859dd3e1f0e326e137ebe6a88"
+        },
+        "webp": {
+          "file": "webp/young-man-spiky-black.webp",
+          "sha256": "999960f80cf9e0d355d553771c92b65af14342c052e85f89f14f45bef706c1f8",
+          "bytes": 183984
+        }
+      }
+    },
+    {
+      "slug": "control-dial",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/control-dial.svg",
+          "sha256": "a853268bc7be410349d974d58e7f1de16d7d000e885d774078f108e36c41fa80",
+          "bytes": 28557,
+          "width": 2048,
+          "cssVarSha256": "a10f23d7f855a9cd1fac707ef92d6a9199f451160b3d503428caf80bb29bb08a"
+        },
+        "webp": {
+          "file": "webp/control-dial.webp",
+          "sha256": "9ac52a5077d5b22feee71eb7d296097b04730d759dce3ae901cf272c4df04740",
+          "bytes": 224210
+        }
+      }
+    },
+    {
+      "slug": "blue-cable-shaped-like",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/blue-cable-shaped-like.svg",
+          "sha256": "b600a18c9e73faf5fb87ab3985896724b331a72df9e1f7f0b64fee5b1bda8512",
+          "bytes": 14937,
+          "width": 2048,
+          "cssVarSha256": "59f3f1f9e6b21d92db394cea3b8caeb2411c1e3ef643d4109bf9375f11ebf0f1"
+        },
+        "webp": {
+          "file": "webp/blue-cable-shaped-like.webp",
+          "sha256": "be5d0c03878694c3bb671d04a4ef4d4a37a9829e125497a0a55c2b6aae7cd242",
+          "bytes": 83086
+        }
+      }
+    },
+    {
+      "slug": "dark-server-rack-404",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dark-server-rack-404.svg",
+          "sha256": "f36edc54b417bd1a0d46fa3ebe2186a2616f8f58b8ef59443011ccaab6ba92c5",
+          "bytes": 23425,
+          "width": 2048,
+          "cssVarSha256": "ff083777f8b188f748a1b8cce6cba6eceb2f22123306c0f8df9eb7a8fb326f75"
+        },
+        "webp": {
+          "file": "webp/dark-server-rack-404.webp",
+          "sha256": "f879f8fe5dd01ee2f43af614979296e9d36964507de6fe7b51e556f72500fc6f",
+          "bytes": 118136
+        }
+      }
+    },
+    {
+      "slug": "angry-young-man-holding",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/angry-young-man-holding.svg",
+          "sha256": "21e30ec24e97add03b232a292f3971dbea7d2fad09e9a46bb4fea5de8d7cc4dd",
+          "bytes": 28265,
+          "width": 2048,
+          "cssVarSha256": "7f6e28674199d3c37c3107bf6ca889bf541a7f44df6da8c52f49468d4674557e"
+        },
+        "webp": {
+          "file": "webp/angry-young-man-holding.webp",
+          "sha256": "d0ead2800ae88a35861c96748a22732d844e22266f41a30ea522817fe025bc9a",
+          "bytes": 179744
+        }
+      }
+    },
+    {
+      "slug": "person-spiky-black-hair",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/person-spiky-black-hair.svg",
+          "sha256": "1db862ff02cf2afe7b3525c1ea32eabf0318ed678da1d63bde102396d3691f72",
+          "bytes": 34973,
+          "width": 2048,
+          "cssVarSha256": "3965f2a1085ab55abb553c49e7e33f965b8c6a605ad34fa2036e76b45c052f71"
+        },
+        "webp": {
+          "file": "webp/person-spiky-black-hair.webp",
+          "sha256": "b611e92589a556f65b1a016e3bcadb7de788a8aa61dc4c43eaa45ff6eedaede0",
+          "bytes": 199644
+        }
+      }
+    },
+    {
+      "slug": "man-spiky-black-hair",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/man-spiky-black-hair.svg",
+          "sha256": "fb95446c0bd046ba7ef08ee9cbf2111f4ac461493b2615ebd243ddf7329ced52",
+          "bytes": 20762,
+          "width": 2048,
+          "cssVarSha256": "428cddc1f1fc389ba1f02b0a1691efd1372d2431986a30360e51690ff78da092"
+        },
+        "webp": {
+          "file": "webp/man-spiky-black-hair.webp",
+          "sha256": "d7db24df97de5a75c42e1424bcda1c648417bf7749aab755061fd13a8e7074a7",
+          "bytes": 166994
+        }
+      }
+    },
+    {
+      "slug": "synthesizer-module",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/synthesizer-module.svg",
+          "sha256": "389b53682603ba285d1098f812b3a7193ced5333cc19e853047ddef8bf81ac09",
+          "bytes": 78872,
+          "width": 2048,
+          "cssVarSha256": "f9a3b90579d094c614336dd108086bc5316f72de1a9086cbfc1e30bece513611"
+        },
+        "webp": {
+          "file": "webp/synthesizer-module.webp",
+          "sha256": "03124bd4609f39631b3b226415bbee2937979a4a0c35194923f963fe68e96d8d",
+          "bytes": 272762
+        }
+      }
+    },
+    {
+      "slug": "pile-tangled-cables",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pile-tangled-cables.svg",
+          "sha256": "9c4b59acb9cfc52fc4ac3b5d2c57c5f20a3fa663e02f8945a9a8bfb3b1a339d9",
+          "bytes": 70244,
+          "width": 2048,
+          "cssVarSha256": "a715068292566c708b155bb0adb71418d960514c4026b8f715d35ecac9ca0f33"
+        },
+        "webp": {
+          "file": "webp/pile-tangled-cables.webp",
+          "sha256": "9ea3f749c8c50143acb152017d71c354ed63e492999d98d7e43167ceb0b951f6",
+          "bytes": 270122
+        }
+      }
+    },
+    {
+      "slug": "young-music-producer-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/young-music-producer-2.svg",
+          "sha256": "83e7e42607dede458005d133b095bebd4405caf86093b06046a43b71a412215a",
+          "bytes": 57322,
+          "width": 2048,
+          "cssVarSha256": "d2c1a08e48374b339ffb532783a52c179a0025f7771e1dfd7884ba87f13aee1a"
+        },
+        "webp": {
+          "file": "webp/young-music-producer-2.webp",
+          "sha256": "c293bf13cb8d8340074b020b4e5f015af59754f1f4c3ad56ccbe009fa12e4396",
+          "bytes": 231562
+        }
+      }
+    },
+    {
+      "slug": "modular-synthesizer",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/modular-synthesizer.svg",
+          "sha256": "53f032bc0171a2b7661d67d4f0e43b1fc488da6116f94188a4672eca6d68b601",
+          "bytes": 63674,
+          "width": 2048,
+          "cssVarSha256": "f6b5546da13acc2bb8522482dad25d89aac4835432707ceaf355f0f1ac0fac84"
+        },
+        "webp": {
+          "file": "webp/modular-synthesizer.webp",
+          "sha256": "0d885b250d89dd8cf4fe74e5fd768404b925e5db3f73261e58a6958e5e6f579b",
+          "bytes": 230598
+        }
+      }
+    },
+    {
+      "slug": "person-buried-tangled-cables",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/person-buried-tangled-cables.svg",
+          "sha256": "48f7590f686dedc44fc37828b56940958ed08a6b514245da93593fa0f64b209b",
+          "bytes": 126819,
+          "width": 2048,
+          "cssVarSha256": "3c5f800fafea3e22d63e0bcbd7aa64e2805f7a48638da3a9ff2ea9ae8601fb01"
+        },
+        "webp": {
+          "file": "webp/person-buried-tangled-cables.webp",
+          "sha256": "5efcbd09b05e5f551ed94dc21720e6a9614297b8b479bc78ea96068ed0d07aed",
+          "bytes": 368270
+        }
+      }
+    }
+  ]
+}

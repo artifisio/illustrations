@@ -1,0 +1,658 @@
+{
+  "slug": "deoxyribonucleic",
+  "name": "deoxyribonucleic",
+  "description": "You can transform your complex scientific concepts into a story of wonder and human connection with these vibrant scenes of discovery. These illustrations provide the perfect backdrop for your biotech blog or educational materials, making the mysteries of the genetic code feel both accessible and exciting. Witness the power of teamwork as your projects come to life with the glow of a shared breakthrough.",
+  "tags": [],
+  "count": 36,
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "a-mobile-payment-illustration",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-mobile-payment-illustration.svg",
+          "sha256": "3c9091e45e1c6e4bc0d6a99c60199387eee50abf27e540a21fa63bc99a5c40b1",
+          "bytes": 19161,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-mobile-payment-illustration.webp",
+          "sha256": "eca9d60545012312ab50e956f4c63c095a243fbe38cf935ab997b41d74e27a7b",
+          "bytes": 147978
+        }
+      }
+    },
+    {
+      "slug": "a-woman-carrying-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-woman-carrying-a.svg",
+          "sha256": "0a2827e71d256fd8300d10f4a06f6e347ac80af3d0301188346c44837a833a6d",
+          "bytes": 42300,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-woman-carrying-a.webp",
+          "sha256": "cc6ae7596e1ef24e7e5874c24a2da8c43f97221d2c8e84ac516432abf26e6236",
+          "bytes": 150188
+        }
+      }
+    },
+    {
+      "slug": "a-bank-vault-door",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-bank-vault-door.svg",
+          "sha256": "211d8d5e49efb0a0f84b044bb5345ec4ccfa66bb14d2ce813e88ef18fab9be5c",
+          "bytes": 39165,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-bank-vault-door.webp",
+          "sha256": "d91e3f9a8e77f3de09fe309b33c9b7aa60c2483d76da5a1fc78df803688cbdde",
+          "bytes": 188978
+        }
+      }
+    },
+    {
+      "slug": "a-young-man-holding",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-young-man-holding.svg",
+          "sha256": "f005084bee1e3d80b64d0968526c7024269308d83c29829b4dc78ed656e7ac8a",
+          "bytes": 29323,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-young-man-holding.webp",
+          "sha256": "22b80f2b322e0de62f667b0ee32646266e27004b94b248bea81860d8568f0c13",
+          "bytes": 180298
+        }
+      }
+    },
+    {
+      "slug": "a-giant-bitcoin-coin",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-giant-bitcoin-coin.svg",
+          "sha256": "cc9b20d2d04807e49b58cbdb83f87fef3fde1f50c999acefbd7744cff35599ee",
+          "bytes": 33581,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-giant-bitcoin-coin.webp",
+          "sha256": "ebe2ceb34bed896dc02eddc0836d29c2785d9f7c698ce570ef83baecd754d163",
+          "bytes": 181812
+        }
+      }
+    },
+    {
+      "slug": "a-man-carrying-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-man-carrying-a.svg",
+          "sha256": "81c05b25297e035fe73295c160525c6ebe6266427918c6417faab9e87c3ccb50",
+          "bytes": 21536,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-man-carrying-a.webp",
+          "sha256": "8db6074d941f8900abe64c3befd872c8c936612a6c0bdb3ca119670f3524624b",
+          "bytes": 176186
+        }
+      }
+    },
+    {
+      "slug": "a-pink-piggy-bank",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-pink-piggy-bank.svg",
+          "sha256": "da833ef67a12cc3b3b47a3686a8ecb6d673f81627139403f6a5bf88c8a0d5985",
+          "bytes": 15900,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-pink-piggy-bank.webp",
+          "sha256": "5d7471771bbf85a872695466b83cd6894d8e46277ee8770af91c80ea41216542",
+          "bytes": 127380
+        }
+      }
+    },
+    {
+      "slug": "a-man-on-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-man-on-a.svg",
+          "sha256": "e6f254f99f451f4ffa299321e0c0dfc8e729122408c9fea37de44f791146a5d1",
+          "bytes": 24963,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-man-on-a.webp",
+          "sha256": "d83454932b8e165a83d6a33edf8d9186e7cc1446ec61a45887b568542379c620",
+          "bytes": 127546
+        }
+      }
+    },
+    {
+      "slug": "a-contactless-mobile-payment",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-contactless-mobile-payment.svg",
+          "sha256": "cb177a07bfdef8c7d403d6c689b3bdf01100c781f1999a71eb22ce8beb746489",
+          "bytes": 20577,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-contactless-mobile-payment.webp",
+          "sha256": "f9f5f0ef450120ce3e100c31446219d25c2eb6aac819407aea939391e7eaa7c2",
+          "bytes": 202316
+        }
+      }
+    },
+    {
+      "slug": "a-man-with-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-man-with-a.svg",
+          "sha256": "c53e5cc1551f8067139854e9ee2ecb5d7b5fa66e225ba2bd41e170fb3d5f51dd",
+          "bytes": 21898,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-man-with-a.webp",
+          "sha256": "de5aa9dd3ee722f21fd62cac4406f8ab085ad6665abeb86df6264c66b810efc8",
+          "bytes": 133362
+        }
+      }
+    },
+    {
+      "slug": "a-friendly-robot-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-friendly-robot-2.svg",
+          "sha256": "aa61ca34c032b5f1fc212c32482d085517b1ba49f85e23d9ba73a5bd417e1aa7",
+          "bytes": 28108,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-friendly-robot-2.webp",
+          "sha256": "dee6537c43d11354d1ecf8670a4389e4e87db91fd0306ab37750eb646a6678fa",
+          "bytes": 192578
+        }
+      }
+    },
+    {
+      "slug": "a-friendly-robot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-friendly-robot.svg",
+          "sha256": "4db6107bebac9d44d62a9ffbdc92c0d37d10ef64655c474e1ec8db9383d3e7dd",
+          "bytes": 26968,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-friendly-robot.webp",
+          "sha256": "08dce68d54e27266b156b85b2dfa28c1c2cb76c4fe774ce63ac2e90cee438a70",
+          "bytes": 153582
+        }
+      }
+    },
+    {
+      "slug": "robotic-arms-building-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arms-building-a.svg",
+          "sha256": "b855dcf37f05eb888c17c6fb30d142a30386b70cbea3ca38ed12dc362813f5cf",
+          "bytes": 41710,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/robotic-arms-building-a.webp",
+          "sha256": "07a0e88d1b404607eb099924d88d73469ed148997a4923138f30c94cbd0122bb",
+          "bytes": 194264
+        }
+      }
+    },
+    {
+      "slug": "a-girl-building-with",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-girl-building-with.svg",
+          "sha256": "4a2a36a37d73c580ca80e85a6a0704ee01642d4ff58717204e6fa1702899156d",
+          "bytes": 52336,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-girl-building-with.webp",
+          "sha256": "06848fbbcf65f2690cbce8d0a6bd1c23028cb08dcc602befa5a453895f96b1e8",
+          "bytes": 201024
+        }
+      }
+    },
+    {
+      "slug": "a-man-connecting-to",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-man-connecting-to.svg",
+          "sha256": "b10b48c1741e3e57050c81c9b266ff9d56af5d90340a573082e3bbc168a8c213",
+          "bytes": 29116,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-man-connecting-to.webp",
+          "sha256": "c35e975833381e876c62e08556a0abeba103dd9764713ce7b326310e0de981f3",
+          "bytes": 114536
+        }
+      }
+    },
+    {
+      "slug": "a-rocket-launching-from",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-rocket-launching-from.svg",
+          "sha256": "0a6bcbafa9a991af14719982bf9f08f18b0fec279a10cd271bdbe93d8b5fb5d8",
+          "bytes": 24033,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-rocket-launching-from.webp",
+          "sha256": "4f814486e3a2b92ab5a70b543b16074179d3b98f6699869bf0db21c256cc6317",
+          "bytes": 124408
+        }
+      }
+    },
+    {
+      "slug": "a-woman-in-a-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-woman-in-a-2.svg",
+          "sha256": "5e00e67758e838a455c5314ef1ce9fbd97d7f8c39d64bfd6c806bd974355e8ca",
+          "bytes": 65896,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-woman-in-a-2.webp",
+          "sha256": "116423734b832b5e282a325c96c5bf32a587e03a98d4b293ae136973c96deeb7",
+          "bytes": 226514
+        }
+      }
+    },
+    {
+      "slug": "a-young-programmer",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-young-programmer.svg",
+          "sha256": "d9d84f76f989a79cf5fd26f7b638a1de8989c2261a59ff8248b41fd480e4215c",
+          "bytes": 29111,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-young-programmer.webp",
+          "sha256": "0ffd8cc2e22e8e478e7e1070f409476caf672fb33500c7a85819365d9a509ed0",
+          "bytes": 157896
+        }
+      }
+    },
+    {
+      "slug": "a-female-doctor-in",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-female-doctor-in.svg",
+          "sha256": "35089055fadfee84e6c54b7b12149ff12561930a1acd815d1f3df5e90deb2fc4",
+          "bytes": 27233,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-female-doctor-in.webp",
+          "sha256": "ceebbf33075f2442228b371aad6169e765cac8f59ee0dd0f7574e531da4806c3",
+          "bytes": 139064
+        }
+      }
+    },
+    {
+      "slug": "a-mail-carrier",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-mail-carrier.svg",
+          "sha256": "ffa4e06b6f07dd89688beb2dd1b5be99018718bd3ae9b8148d3ee129db77a237",
+          "bytes": 27558,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-mail-carrier.webp",
+          "sha256": "d22705680dddf673d82f64be7ece020209a1ed5d1755b12f18a63e8dad1d11a0",
+          "bytes": 179626
+        }
+      }
+    },
+    {
+      "slug": "a-doctor-holding-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-doctor-holding-a.svg",
+          "sha256": "b717b514acc22cf86c10206358792462590051b41a995f057e8267ff3bf270c4",
+          "bytes": 24339,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-doctor-holding-a.webp",
+          "sha256": "51e67e9b750c0eaf0e21e77daaf2adb86ca890c3098048e6fb92dcbc98b6c48f",
+          "bytes": 161048
+        }
+      }
+    },
+    {
+      "slug": "a-young-detective",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-young-detective.svg",
+          "sha256": "3a33f0ae876b87c322b14627e0cea4c7a90c360fe9f1bd237c2381fab3d94b8f",
+          "bytes": 21231,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-young-detective.webp",
+          "sha256": "65e8ad33b9d256c5c2fe93bf4b6a730c3e12cc2f365feac9db01bc824255067a",
+          "bytes": 145828
+        }
+      }
+    },
+    {
+      "slug": "a-woman-in-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-woman-in-a.svg",
+          "sha256": "402d8f1442aa973e9e811ba4f43bea1e7b8668c69b2b876d3469e4f5c6c65c17",
+          "bytes": 38769,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-woman-in-a.webp",
+          "sha256": "3790da02df81d2400bf3c8d87d9fc92e2972e22ffb3cf7b5a5a97866bc01d98a",
+          "bytes": 179044
+        }
+      }
+    },
+    {
+      "slug": "a-curious-scientist",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-curious-scientist.svg",
+          "sha256": "17d83ef267c21c3e32f15125fb1400fabc425423c0188c569f9ed2e04043da5c",
+          "bytes": 18558,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-curious-scientist.webp",
+          "sha256": "03294fef4eac01d30c83ebc7790626d006e0a16d29402f8d5fe4f16846f6fc45",
+          "bytes": 173858
+        }
+      }
+    },
+    {
+      "slug": "a-young-hiker",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-young-hiker.svg",
+          "sha256": "8e98417f1bad78a0ed2d0bfb9dbf3c47b27eea51fcf30f66ba133709c3b9949a",
+          "bytes": 51239,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-young-hiker.webp",
+          "sha256": "57b1344a4db96375d82fafa09d45b5a5668efdcfcd855d4259e4a0e233751656",
+          "bytes": 179172
+        }
+      }
+    },
+    {
+      "slug": "a-female-scientist-in",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-female-scientist-in.svg",
+          "sha256": "5ba4deafdc1a5177f46b2fa30768e050b552dbd41becceec4bf900501226d866",
+          "bytes": 22040,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-female-scientist-in.webp",
+          "sha256": "2caf30d868a2f764396c474b3f3b7e7b4ae2c12e5855011935bf26e5087a45ac",
+          "bytes": 152768
+        }
+      }
+    },
+    {
+      "slug": "a-scientist-holding-a",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/a-scientist-holding-a.svg",
+          "sha256": "92f5cb54dab8478b2391d3be45ab836f83fecd5f552da8969d47012a0fac1296",
+          "bytes": 27691,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/a-scientist-holding-a.webp",
+          "sha256": "4ff4e6a8451a6fdeabc5044039edaa6ad1bbc2117b34a59d3ba0874408d12af5",
+          "bytes": 143656
+        }
+      }
+    },
+    {
+      "slug": "pointing-genetic",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pointing-genetic.svg",
+          "sha256": "6b06b3ba2edf77fc0f8986199e8f5fe5f9844fc852a9343c6768da47682ac42e",
+          "bytes": 29530,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/pointing-genetic.webp",
+          "sha256": "392b5844e84616728e36a2c397dcbf75deb9b6344d6c96fc1c0ff607527ebbd1",
+          "bytes": 194462
+        }
+      }
+    },
+    {
+      "slug": "assembling-hexagonal-icons",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/assembling-hexagonal-icons.svg",
+          "sha256": "2df7ae89b1a8e2703c92353c26c005fffcab48947a5f8b705d534f0e5a5afebe",
+          "bytes": 70875,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/assembling-hexagonal-icons.webp",
+          "sha256": "c465bdca75a91f9bcae3264284dbb1c013fd27ed1da299fc9972f66589d510fa",
+          "bytes": 248750
+        }
+      }
+    },
+    {
+      "slug": "dna-experiment",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dna-experiment.svg",
+          "sha256": "f1c087511a04d1febbf8298080e407eb92954bc4c4a0b184265a68ae543e73b1",
+          "bytes": 32882,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/dna-experiment.webp",
+          "sha256": "82936227b50fe8159c7c12aaac73af53120e2d26f6b3a34b0b02c52b37b41741",
+          "bytes": 194152
+        }
+      }
+    },
+    {
+      "slug": "examining-test-tube",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/examining-test-tube.svg",
+          "sha256": "79834c2c068471af736731cb2c180b7eede77751219e68ba2c22d193fc89e8ba",
+          "bytes": 31065,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/examining-test-tube.webp",
+          "sha256": "736eb182991f08212bc87d331116baf92ada6083e9221ff69d22e3cd3b70d210",
+          "bytes": 162550
+        }
+      }
+    },
+    {
+      "slug": "dna-analysis-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dna-analysis-2.svg",
+          "sha256": "004c6afcd4158e0ad4d093896be90865f3c1da1f8b37cc0669918b7806a9fde8",
+          "bytes": 38043,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/dna-analysis-2.webp",
+          "sha256": "2b515b029139ba34ba6954653a484213e9135c738592a63fda631407c42b6b86",
+          "bytes": 177506
+        }
+      }
+    },
+    {
+      "slug": "assembling-molecule",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/assembling-molecule.svg",
+          "sha256": "406ff9483f78b91ce60a30f89f623fe05a2c0aa79634a206b715074a8c1f0fdc",
+          "bytes": 33013,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/assembling-molecule.webp",
+          "sha256": "5a16af67a4ed9e4bb06b0cbaad2fc902a33b5a5fc8f6a3e6b0f9ddcbb5152f68",
+          "bytes": 154922
+        }
+      }
+    },
+    {
+      "slug": "studying-dna",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/studying-dna.svg",
+          "sha256": "9bee6f42028a41c418540fad32380f8a1b252f048057b4e9660c45efce2846b6",
+          "bytes": 43805,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/studying-dna.webp",
+          "sha256": "56fc0b5fd315f50097dd01ac89c2fc24144a3f17f03224aec3ba5ac0cb8c08eb",
+          "bytes": 203932
+        }
+      }
+    },
+    {
+      "slug": "dna-analysis",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/dna-analysis.svg",
+          "sha256": "8b574a731f5637be7f27945657993adc47f2883180ed8c078230b9cc0361e84e",
+          "bytes": 39092,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/dna-analysis.webp",
+          "sha256": "518ba843cb85a64d4887a7dce1562f1e54bb7c578fa164277f2f184567c20e7b",
+          "bytes": 179876
+        }
+      }
+    },
+    {
+      "slug": "carrying-dna",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/carrying-dna.svg",
+          "sha256": "733c092b5c31a9c53bc6c1bc9f51f81d5b99fb9fa1b75ca1ac58a7f4558fee0a",
+          "bytes": 62360,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/carrying-dna.webp",
+          "sha256": "38cf154d609eceaa778027f83e1e8d4eec84b2b90056ca5b1d8fddf0fe930a3d",
+          "bytes": 237446
+        }
+      }
+    }
+  ]
+}

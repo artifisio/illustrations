@@ -1,0 +1,529 @@
+{
+  "slug": "fernforge",
+  "name": "Fernforge",
+  "description": "Transform your designs with a serene vision of technology and nature working in perfect, nurturing harmony as mechanical arms tend to delicate succulents. You will find endless inspiration in these gentle guardians that bring a sense of quiet wonder and modern tranquility to your digital or physical spaces. This collection is the perfect choice for infusing your branding or decor with a unique atmosphere of care and futuristic peace.",
+  "tags": [],
+  "count": 25,
+  "palette": [
+    {
+      "slot": "outline",
+      "label": "Deep Black",
+      "hex": "#030403",
+      "role": "fixed",
+      "_id": "6a25990fe1fbd1f70a394dd8"
+    },
+    {
+      "slot": "cream",
+      "label": "Cream White",
+      "hex": "#e0d9bd",
+      "role": "fixed",
+      "_id": "6a25990fe1fbd1f70a394dd9"
+    },
+    {
+      "slot": "primary-blue",
+      "label": "Muted Blue",
+      "hex": "#475a6a",
+      "role": "themeable",
+      "_id": "6a25990fe1fbd1f70a394dda"
+    },
+    {
+      "slot": "secondary-teal",
+      "label": "Forest Teal",
+      "hex": "#37493d",
+      "role": "themeable",
+      "_id": "6a25990fe1fbd1f70a394ddb"
+    },
+    {
+      "slot": "leaf-green",
+      "label": "Leaf Green",
+      "hex": "#78824b",
+      "role": "themeable",
+      "_id": "6a25990fe1fbd1f70a394ddc"
+    },
+    {
+      "slot": "accent-orange",
+      "label": "Terracotta Orange",
+      "hex": "#d4764a",
+      "role": "themeable",
+      "_id": "6a25990fe1fbd1f70a394ddd"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "robotic-arm-stacking-coins",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-stacking-coins.svg",
+          "sha256": "20535c9ef889aa8b38be20bd14fd10d393ea5f88c37a38a83a19c7e97adc091d",
+          "bytes": 130002,
+          "width": 2048,
+          "cssVarSha256": "3bc469dac0b944aed51cec2eb51e676923f6c6f4d42a64cfdb1cb7e3763c2630"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-stacking-coins.webp",
+          "sha256": "fae5aa75f111830234436e1262b381fe59cfddbd8d73c24da67dcbd83d0f3164",
+          "bytes": 255264
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-watering-plant",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-watering-plant.svg",
+          "sha256": "03de4d827e38224b6d1f427d02ed5aa35180daa3418627c1ce26126f431aecf0",
+          "bytes": 154701,
+          "width": 2048,
+          "cssVarSha256": "7395930bf480c98b64dc78a6c7d508446c8e61e372d2253c3ad72beb82477d3d"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-watering-plant.webp",
+          "sha256": "881855390b8e8dbdc7212eb6b9a8ed0929b5a4f41d4c1cd2071c63e38ae11531",
+          "bytes": 254120
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-protecting-small",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-protecting-small.svg",
+          "sha256": "2545ac50eb14cefba1bd9f454427393518c9fc2c637b4939c92c8791c3a7ff0a",
+          "bytes": 84567,
+          "width": 2048,
+          "cssVarSha256": "47b97548fa472e69e257614f946800e13a6bf10b08032730733b221f4c21aa2d"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-protecting-small.webp",
+          "sha256": "3eefecb32d2122b20df719c1da6e3dd506ced06555ccd96240c2a857aa4fb5c2",
+          "bytes": 217876
+        }
+      }
+    },
+    {
+      "slug": "robotic-hand-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-hand-2.svg",
+          "sha256": "423c5430aba5e59989b2cf90337b1801a41dde3cbbee665e1675135758eff9b6",
+          "bytes": 65532,
+          "width": 2048,
+          "cssVarSha256": "ecd4698fb69222915c2a801bf727cb0c772dd037e0ca18000699411a820e63d1"
+        },
+        "webp": {
+          "file": "webp/robotic-hand-2.webp",
+          "sha256": "fb35c73def94c341d16fd00071d72474cc2c62ac6d794e8899f0d985c0566e6e",
+          "bytes": 220568
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-trimming-cactus",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-trimming-cactus.svg",
+          "sha256": "13f5ae14e9c91210007309cbc0095d491cd8eb2ca893dd69a72c7ee5316b8a4b",
+          "bytes": 149997,
+          "width": 2048,
+          "cssVarSha256": "52a10567625d5c4d94d22419078a68873d7fa5c23a07096691caddee0f9df13d"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-trimming-cactus.webp",
+          "sha256": "84e3422750bd08ab6367e988a1e26e47c22ec375cab84a8dae1e8875f8e44474",
+          "bytes": 243738
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-holding-receipt",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-holding-receipt.svg",
+          "sha256": "077997e39c56ec0423db155dd5a44d11d3f17d3f0d3c7c79fa2dd8a0a2c1b90d",
+          "bytes": 50198,
+          "width": 2048,
+          "cssVarSha256": "ccd7f25717323ce702f7d9bc64ec5dfe83e689bf6066660cbc8262ad30856834"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-holding-receipt.webp",
+          "sha256": "4534831cbcaaff633da7098ec04445fece8716c09cc4fb9a1ac7d3f866ecfcf3",
+          "bytes": 183204
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-6",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-6.svg",
+          "sha256": "33e0758585ab4e860a7e45ccc505b528a4350ab77f8fde338c7e529893e63e8a",
+          "bytes": 164056,
+          "width": 2048,
+          "cssVarSha256": "e5f20b227b15fd621747a7c5642557f7c2bbe97bc56b3fc33bc11ca0036837fc"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-6.webp",
+          "sha256": "ccc8ab942052e8eb31ffefa28ce9dcdc04035cf28aec8c6c01a978c99089d09b",
+          "bytes": 222314
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-pressing-pay",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-pressing-pay.svg",
+          "sha256": "19bd8d54580546aa6fff46c9303bb3df28fb1f2a3b86c1887b6dc522876c40fa",
+          "bytes": 108524,
+          "width": 2048,
+          "cssVarSha256": "808227225f2ddf6741474f7e82c9622aea545ac4c2ab7cf26164a8b1e13a82f1"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-pressing-pay.webp",
+          "sha256": "205f1bd427a230724163b230fd7f4614f9ee476253b5d05aa54cb50792ca0aee",
+          "bytes": 218984
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-5",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-5.svg",
+          "sha256": "133763d5690a57c23efdbb6302c293c637f553198f9fc065fffd81566c74e753",
+          "bytes": 91576,
+          "width": 2048,
+          "cssVarSha256": "4dd1391be818124cf6b1c5b141bc772496791e8baceb80f533fa3d9557723217"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-5.webp",
+          "sha256": "b1d857980650c064b71eeb98501d59f21a8414e9126fbacf7bd1bb60cfa9ef69",
+          "bytes": 241164
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-4",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-4.svg",
+          "sha256": "8cdbbe7ce1037c93cffe5718eb6a968874a06a92d54a73c65fbc74e25be72007",
+          "bytes": 68025,
+          "width": 2048,
+          "cssVarSha256": "9bde2b0cec5c8f801582345eadb15920c517217d004e9a4b1408441853c83a03"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-4.webp",
+          "sha256": "23ea04fc39f30aa4714f2cf67eaea2e929803eccf6441ac73a0a69c3454c8709",
+          "bytes": 195094
+        }
+      }
+    },
+    {
+      "slug": "robotic-plant-mechanical-arm",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-plant-mechanical-arm.svg",
+          "sha256": "30ac9edd64006531c1b016e467e1f02055b0d34d1475f1f73224aefe42fea2a8",
+          "bytes": 143934,
+          "width": 2048,
+          "cssVarSha256": "b1f476a0e2f7e25cfae2436bb66315ae63fd9795148b1dcf3f0a0e38d41e7473"
+        },
+        "webp": {
+          "file": "webp/robotic-plant-mechanical-arm.webp",
+          "sha256": "a145744d0d0cd08f5849ddbd7564858427238db03dd7e941329e6bf137ef3b67",
+          "bytes": 228430
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-tending-plant",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-tending-plant.svg",
+          "sha256": "54dc1b09846651b7e5047ac200973531dd0d72a7b2d5eeec38b5c79573072097",
+          "bytes": 92751,
+          "width": 2048,
+          "cssVarSha256": "03a4ba32506b6620f9d421fdb68579d07a00021f4e48f03f27db790c34c56568"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-tending-plant.webp",
+          "sha256": "e54f73530c404273090df224ae6cf93c18aede162343e34f770dabced9364260",
+          "bytes": 188726
+        }
+      }
+    },
+    {
+      "slug": "robotic-gardening-arms",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-gardening-arms.svg",
+          "sha256": "64d4307fcf5eac3f1d76819a35d268dae61f49d49475486e70f0f1413ee6d58d",
+          "bytes": 202643,
+          "width": 2048,
+          "cssVarSha256": "4af721564361fca4e0ae5a8ff49e664abcf7075f9c33d63d457734072fef3c65"
+        },
+        "webp": {
+          "file": "webp/robotic-gardening-arms.webp",
+          "sha256": "2a1034e05b566950a70444261ca0dfb6ce1b422177cd574f265380b57a04cc97",
+          "bytes": 287426
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-3.svg",
+          "sha256": "c9a88ecd537cddc5609331307adc98abe2c1121231707d1a05df0e07c0727529",
+          "bytes": 136724,
+          "width": 2048,
+          "cssVarSha256": "e35fe54108a9bae29368dac80e7e8c18587bc9a7f48834891393bdd881f39e3f"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-3.webp",
+          "sha256": "0d02e463e1d43413f80f3c48dacd67296803ed0e6068961ca07e01adacf45d09",
+          "bytes": 212454
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-cleaning-plants",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-cleaning-plants.svg",
+          "sha256": "fc3ae6a8d9c3555e0bd7216d1f7c4976b284db6181d21bd3ef98ee0c3092c197",
+          "bytes": 61484,
+          "width": 2048,
+          "cssVarSha256": "b76775b7899d59c1c926b4545ddd470031dd8a28d9244be9fc7769d2196d1db0"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-cleaning-plants.webp",
+          "sha256": "7da836ef4a5a313e25a19145345a9db653f9f2f7260c44c62742b3fbe1b46fc5",
+          "bytes": 223786
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-tending-terrarium-3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-tending-terrarium-3.svg",
+          "sha256": "609e0adb5d07744d30910ab376b0de2300fb7eebe712e084427c096e04a67d8d",
+          "bytes": 136655,
+          "width": 2048,
+          "cssVarSha256": "4ee5b661f1576fc94ebce8ac19e8f7d21a385ff9bf83104aa9985dd1035b4f2e"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-tending-terrarium-3.webp",
+          "sha256": "8421e97da2993f6535b0fb29f74a4dd6bc965fe79876a80e51790a403c643d43",
+          "bytes": 229284
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-shaving-cactus",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-shaving-cactus.svg",
+          "sha256": "35c0850b5c6d06b3bcace659c12f26b48912988b1908311662929bf4baa96e64",
+          "bytes": 99390,
+          "width": 2048,
+          "cssVarSha256": "a4fa393dc17267d80159e66667464490f2b414ae46ff31c630f9c92670a78f36"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-shaving-cactus.webp",
+          "sha256": "9ee64848aa38a90940e885d0ed0be2f650c3c04b734ea6f93014d185a8db58b0",
+          "bytes": 182552
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-2.svg",
+          "sha256": "8e0e18ca5274bcc242012b876a8de24bfba43459fdaaec554375e7f913a914dc",
+          "bytes": 133977,
+          "width": 2048,
+          "cssVarSha256": "8d03a5963f4895f4229a1d46a382c0f6cc99daeea39f66cf791cd413dc8d2889"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-2.webp",
+          "sha256": "387a61e033526562a1a91b41ccc0cbf5733f3d1f1a8785de5d6ca631312e8fc7",
+          "bytes": 190944
+        }
+      }
+    },
+    {
+      "slug": "hanging-geometric-terrarium",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/hanging-geometric-terrarium.svg",
+          "sha256": "22049ca7f80c2337144ac01558c455f694d512055361571b31386b831851ced2",
+          "bytes": 84814,
+          "width": 2048,
+          "cssVarSha256": "f07b429c926ec79e50a99278bf3891d228263a1c6456399304e76c8013c99a0b"
+        },
+        "webp": {
+          "file": "webp/hanging-geometric-terrarium.webp",
+          "sha256": "ffed7b6e4873c8b0259aabaf09b1ad811482d9fa7205fb05b603555d4892838c",
+          "bytes": 163564
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-tending-terrarium-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-tending-terrarium-2.svg",
+          "sha256": "bef5802a953f5b1ecefd168e667a52ec791f111c6b830bb803229f9b8a9fb79f",
+          "bytes": 89238,
+          "width": 2048,
+          "cssVarSha256": "197d8a7d4332f6b2677132ebedd53c8649ec4d10c0440265d6624db1aae3fdad"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-tending-terrarium-2.webp",
+          "sha256": "42f3060bfab303eef3381332fe5ee3968bc9d99483eac69abb2fbd1864921217",
+          "bytes": 217344
+        }
+      }
+    },
+    {
+      "slug": "small-terrarium",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-terrarium.svg",
+          "sha256": "48fbbeee7964d2425a2f4a8de5e41f631bc4d720696fb528bce7869e2a9b626d",
+          "bytes": 112186,
+          "width": 2048,
+          "cssVarSha256": "98f6078985dd20db9af914e949211fb9674338fd52a00a6631eb935c15c20a8b"
+        },
+        "webp": {
+          "file": "webp/small-terrarium.webp",
+          "sha256": "54dd6e8f9b0dc4e82b8598833ff27a2f0b19f4a5156f7986d5a262d2cafb2b88",
+          "bytes": 179022
+        }
+      }
+    },
+    {
+      "slug": "robotic-hand",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-hand.svg",
+          "sha256": "f0e011a9299c014a30a787135e4a87f42edfc39af8e62b49b6e0d2e659c983d8",
+          "bytes": 57295,
+          "width": 2048,
+          "cssVarSha256": "9a9b1f6c72826c1b1f439ab7750efac525f45d648d6a6259b497a3cf86c9f9bf"
+        },
+        "webp": {
+          "file": "webp/robotic-hand.webp",
+          "sha256": "caa0f2f707e9c82738ba8f9eab7c2ba818827b857e687bf7afc69570f3b4e01a",
+          "bytes": 181220
+        }
+      }
+    },
+    {
+      "slug": "hanging-succulent-terrarium",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/hanging-succulent-terrarium.svg",
+          "sha256": "b628f26bc33f0af5742e91a70b13bba9a26b334e989dc94e04a818e7271562b4",
+          "bytes": 67574,
+          "width": 2048,
+          "cssVarSha256": "9cdb72acbb3d4efc77c9dd801e9ac0ede124520999f006dabde9724fa0947e05"
+        },
+        "webp": {
+          "file": "webp/hanging-succulent-terrarium.webp",
+          "sha256": "13e068d754246bd548dd1a989a45381cb7d665852a44e0522f7874d9d8ed5d07",
+          "bytes": 187264
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-watering-plants",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-watering-plants.svg",
+          "sha256": "703022cc9ce38431c8e08e69b932fd4268e2c2c4bc9c5511759d2c70967d3f7a",
+          "bytes": 79343,
+          "width": 2048,
+          "cssVarSha256": "6815f0dd2984d986ffa2405e49249d6b33bd1fda0765c73fd0768a833093e755"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-watering-plants.webp",
+          "sha256": "41c5257a1c40744e14fa86a9c66006d6e289d2c87d2985a1d48b2983eb641d93",
+          "bytes": 196172
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm-tending-terrarium",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm-tending-terrarium.svg",
+          "sha256": "2572f9b55e92512ce81c3cc12f347e63f94352c7e90d5f4edf70ca02a9b2d1ec",
+          "bytes": 59060,
+          "width": 2048,
+          "cssVarSha256": "aa25fc640db9f177aeb4edb8b74dcd1a96357d667651c7be50203079ac08a590"
+        },
+        "webp": {
+          "file": "webp/robotic-arm-tending-terrarium.webp",
+          "sha256": "74c1d9f5004bc7b533d8c44dac0893d55c4d3dde4e3024ab109e4e78eeb9119e",
+          "bytes": 226890
+        }
+      }
+    }
+  ]
+}

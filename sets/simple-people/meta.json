@@ -1,0 +1,414 @@
+{
+  "slug": "simple-people",
+  "name": "Simple People",
+  "description": "Infuse your brand with a sense of genuine connection using these friendly characters that make every interaction feel more personal and inviting. Whether you are designing a landing page or a social media post, these versatile figures help you communicate complex ideas with a warm, human touch. This set is your secret tool for building instant trust and making your audience feel right at home.",
+  "tags": [],
+  "count": 19,
+  "palette": [
+    {
+      "slot": "background",
+      "label": "Background",
+      "hex": "#F6F6EC",
+      "role": "fixed",
+      "_id": "69dffd1c391606023b5932de"
+    },
+    {
+      "slot": "lines",
+      "label": "Lines",
+      "hex": "#000000",
+      "role": "fixed",
+      "_id": "69dffd1c391606023b5932df"
+    },
+    {
+      "slot": "primary",
+      "label": "Coral Red",
+      "hex": "#FE6C51",
+      "role": "themeable",
+      "_id": "69dffd1c391606023b5932e0"
+    },
+    {
+      "slot": "secondary",
+      "label": "Warm Orange",
+      "hex": "#F9AC3F",
+      "role": "themeable",
+      "_id": "69dffd1c391606023b5932e1"
+    },
+    {
+      "slot": "tertiary",
+      "label": "Sage Green",
+      "hex": "#99B295",
+      "role": "themeable",
+      "_id": "69dffd1c391606023b5932e2"
+    },
+    {
+      "slot": "neutral",
+      "label": "Soft Grey",
+      "hex": "#C3BCB3",
+      "role": "fixed",
+      "_id": "69dffd1c391606023b5932e3"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "vr-headset",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/vr-headset.svg",
+          "sha256": "6e01f9551c01908e932f86c81661bb927c6ede6ac10da6fc18e8187915b56957",
+          "bytes": 15478,
+          "width": 2048,
+          "cssVarSha256": "0293092e54c8c1ec0c1fffa264c55746d3ac992fb7342c31f6c661680c5d3b4f"
+        },
+        "webp": {
+          "file": "webp/vr-headset.webp",
+          "sha256": "e04757edb5109fa8e73d680dd40e7da192d14423a3b8ad02b639363f0c63879b",
+          "bytes": 40662
+        }
+      }
+    },
+    {
+      "slug": "watering",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/watering.svg",
+          "sha256": "3fa4de93e7d1f1a638fb9d603beff109b670f482e385aa6f2e533c36fe894b7a",
+          "bytes": 11327,
+          "width": 2048,
+          "cssVarSha256": "1f242f25f89da9a3486b6cd2252f6acfc981e5b98e922150c7f280d8350eeca6"
+        },
+        "webp": {
+          "file": "webp/watering.webp",
+          "sha256": "751ec545dc15e387fffe4b6813e9cd457c3b8df39206f5b6b316314aba4efbdb",
+          "bytes": 40880
+        }
+      }
+    },
+    {
+      "slug": "magnifying-glass",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/magnifying-glass.svg",
+          "sha256": "c610a909f28e46e360cd67aadfe88624bcb3543a729e7c97bc41a9fd3f55f38d",
+          "bytes": 13165,
+          "width": 2048,
+          "cssVarSha256": "96c96fa12facf34c72dca666f48c4555277c04bf25387e5ccb2de4af05f9cd17"
+        },
+        "webp": {
+          "file": "webp/magnifying-glass.webp",
+          "sha256": "b048ac08b32a757f7ad343c8758c67fb70cb714b2cc85447401f64c2573beeb7",
+          "bytes": 49254
+        }
+      }
+    },
+    {
+      "slug": "binoculars",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/binoculars.svg",
+          "sha256": "912010d0181e0a2614171757299ca23b72777d302185fcfa351a37066584563e",
+          "bytes": 9973,
+          "width": 2048,
+          "cssVarSha256": "c8eef46bcaade08a3d0a30662ae3780b17f58c2386afc23acf6becc143bbcad3"
+        },
+        "webp": {
+          "file": "webp/binoculars.webp",
+          "sha256": "0773b2f2a8e3db23682fb011794bdf0c2f0bf531c181647f3f432997031e1de4",
+          "bytes": 37856
+        }
+      }
+    },
+    {
+      "slug": "whiteboard",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/whiteboard.svg",
+          "sha256": "a683a95598a1f1bd4523376442745a0828fd385a1be1dcec3af7207d5ab047e4",
+          "bytes": 17077,
+          "width": 2048,
+          "cssVarSha256": "97ab886ee90d11ea415587b120516aacf3ec749cc402566ecaadc1930e72e3a6"
+        },
+        "webp": {
+          "file": "webp/whiteboard.webp",
+          "sha256": "b2eb5346e6125123eefaa0ee7c136962c50961ee1df0b6122c914794a9343b78",
+          "bytes": 39116
+        }
+      }
+    },
+    {
+      "slug": "drink",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/drink.svg",
+          "sha256": "e1d55f6cde66bb6b24e4af0457c6cbeeb74806f77d61935b55bff146236b9bf1",
+          "bytes": 9031,
+          "width": 2048,
+          "cssVarSha256": "72cd75057ed2ad7867f4e313132f13ce78a847c9fe789069c213d451b84f10e6"
+        },
+        "webp": {
+          "file": "webp/drink.webp",
+          "sha256": "05a50a5f14ffde900dbb36ec2be2d686d79bdad3d9fb1811c5234e7d1edc9c2d",
+          "bytes": 41144
+        }
+      }
+    },
+    {
+      "slug": "wrist-watch",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/wrist-watch.svg",
+          "sha256": "67dae9c18308dbb6cec19f3d59c3be6c1e0453976876b6a875cddf2d946b86bf",
+          "bytes": 8129,
+          "width": 2048,
+          "cssVarSha256": "00975bbdfd2732484cb02753f0588cd470e45757fe0f8974c20b2351986f1b0f"
+        },
+        "webp": {
+          "file": "webp/wrist-watch.webp",
+          "sha256": "ce72503b1420c3a979372c0eaaf8c5f6c84edb441ec2e262edd6eb8760d41abd",
+          "bytes": 37934
+        }
+      }
+    },
+    {
+      "slug": "photo-camera",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/photo-camera.svg",
+          "sha256": "f5cc956209cc4cf9a1dff43f211a148b525f44dca08bb605569be8876bec3c81",
+          "bytes": 10378,
+          "width": 2048,
+          "cssVarSha256": "b8e7da62981eb9bd9ea439cfdac9cdb2b0c25dc8f1ce591ebf51b080d4f98194"
+        },
+        "webp": {
+          "file": "webp/photo-camera.webp",
+          "sha256": "2628e92ed151cf7ede3d0fc07a414d20b4b6782d99bc13924856960fc6895da0",
+          "bytes": 38384
+        }
+      }
+    },
+    {
+      "slug": "reading-book",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-book.svg",
+          "sha256": "6855b99932bb87710faf75cea722c14b61c985ac0d63b800f844cac4a845b106",
+          "bytes": 12673,
+          "width": 2048,
+          "cssVarSha256": "7920b26ec23555642d1dced3240088832e779e326c0895e2cb8d7fe39fc32831"
+        },
+        "webp": {
+          "file": "webp/reading-book.webp",
+          "sha256": "d88716496174dfd01a748e8980434589e8cc1a0affc4b368eeeeebbf9aa4d92b",
+          "bytes": 39268
+        }
+      }
+    },
+    {
+      "slug": "bar-chart",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/bar-chart.svg",
+          "sha256": "1a6ff2e631121dffa361009ac5eed33773618d9b27cb909479d79fb18d6ec3bd",
+          "bytes": 12825,
+          "width": 2048,
+          "cssVarSha256": "ee96c3b0e3cc87f740da5aee8558e69bdc3b07546d42c2db2d34d54cc1fdc737"
+        },
+        "webp": {
+          "file": "webp/bar-chart.webp",
+          "sha256": "426e30832ff10d380f4516cc5bbdd955b0435f4876ddc8ac55668b6ece865deb",
+          "bytes": 35834
+        }
+      }
+    },
+    {
+      "slug": "riding-bicycle",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/riding-bicycle.svg",
+          "sha256": "31d278db1f5cd25dc93d515dca6152d15d06cb556c99998bc86179c64f1ffd34",
+          "bytes": 11417,
+          "width": 2048,
+          "cssVarSha256": "a23dfac54ff0de9826684bcb797148d720dc9b7225de0a367517d67e77845703"
+        },
+        "webp": {
+          "file": "webp/riding-bicycle.webp",
+          "sha256": "cdbb5c813cc0707746ef428120295a00322ea39c9cc8d4a99340877760628fa6",
+          "bytes": 30684
+        }
+      }
+    },
+    {
+      "slug": "walking-dog",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/walking-dog.svg",
+          "sha256": "ad761585bf43cf97f5f2a312b96ef9d4865f5c8d936c23b567f2edf5461a9057",
+          "bytes": 11118,
+          "width": 2048,
+          "cssVarSha256": "975468f0a4f38a906ae1f32a99dd88c3b9ccaea5235f62d36b6dc6317a52cad6"
+        },
+        "webp": {
+          "file": "webp/walking-dog.webp",
+          "sha256": "edc19f2634d3e5af7dcd0ce7df97a784f71b611ab98a60e0e7a3d8fd5cbd4e25",
+          "bytes": 25784
+        }
+      }
+    },
+    {
+      "slug": "tending-plant",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/tending-plant.svg",
+          "sha256": "fd359179a36196be2c5eb70077feaabb509db912947c5d5f25da3c5da07f31cc",
+          "bytes": 10309,
+          "width": 2048,
+          "cssVarSha256": "f9938eea8f58ce1b26bed572dd55c77b59c806404495da0b2fe36857425fdf5a"
+        },
+        "webp": {
+          "file": "webp/tending-plant.webp",
+          "sha256": "420912839ab6b40153b2b65e8432452232e5d81018425539ca07995507de7ab7",
+          "bytes": 29470
+        }
+      }
+    },
+    {
+      "slug": "drinking-mug",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/drinking-mug.svg",
+          "sha256": "88d8a66c6145008abeb390e0d039afd2e574ecbaeb5c372bb31e3b147d9d3b7c",
+          "bytes": 10261,
+          "width": 2048,
+          "cssVarSha256": "7cc0e849069f931e553bde4934e1b3c2c6b8cd02d88dfd822c42620f2447756e"
+        },
+        "webp": {
+          "file": "webp/drinking-mug.webp",
+          "sha256": "1f398941bb6381d1e4b05f592e76645ffd87c1507f4cb1042fcde5ed12ec30cf",
+          "bytes": 24460
+        }
+      }
+    },
+    {
+      "slug": "selfie-smartphone",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-smartphone.svg",
+          "sha256": "364c677ebde79cd643a5673c41c7a1102162bcae7ece174db644a23cda4e0688",
+          "bytes": 8483,
+          "width": 2048,
+          "cssVarSha256": "0465198488306bb80b53470d233fb5ed496585ef2a3feb3bcc5f047b5202e002"
+        },
+        "webp": {
+          "file": "webp/selfie-smartphone.webp",
+          "sha256": "8ca8a44a5644f6182c00304a3c98d450219d136b47f58a36dbb52a177280468b",
+          "bytes": 20674
+        }
+      }
+    },
+    {
+      "slug": "listening-headphones",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/listening-headphones.svg",
+          "sha256": "f4840c2220bc69939db37379809efcf20a8748ade8c69e00880bede81f4552b5",
+          "bytes": 8247,
+          "width": 2048,
+          "cssVarSha256": "db56a1d2bef9285059a59f373a9423ae378a31a1405267763c16497abe5cafae"
+        },
+        "webp": {
+          "file": "webp/listening-headphones.webp",
+          "sha256": "ddece39d679158b84cc15c6d2b7e189428971d97a6716069322556907e228bbd",
+          "bytes": 24410
+        }
+      }
+    },
+    {
+      "slug": "tossing-food",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/tossing-food.svg",
+          "sha256": "db7f9f9498a421be165b7a6ee0e9a05f043ced9ccf89bc0b65daaad9a3e3f951",
+          "bytes": 10786,
+          "width": 2048,
+          "cssVarSha256": "829d659ea624f0339435bc1bff072725b2197cf94ab22e46b7318aa05858eb1f"
+        },
+        "webp": {
+          "file": "webp/tossing-food.webp",
+          "sha256": "e1a15a3ceac6b4921b7fbd5c726a18bd0029d9495c74b07b028b1548306c61fd",
+          "bytes": 25650
+        }
+      }
+    },
+    {
+      "slug": "using-tablet",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/using-tablet.svg",
+          "sha256": "d7f6006958d820c85f9ee563b8a048928706b3b12b0760956c1136c00d76e0c5",
+          "bytes": 8400,
+          "width": 2048,
+          "cssVarSha256": "d9372083f4a828912ff49b7c63b497b0f32195e16231473d2ce119dada6264e9"
+        },
+        "webp": {
+          "file": "webp/using-tablet.webp",
+          "sha256": "b7b6d38b20308670f5c15a8618f08428f6b3ac9c46858afa821ab7a6639d2d8a",
+          "bytes": 24084
+        }
+      }
+    },
+    {
+      "slug": "typing-laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/typing-laptop.svg",
+          "sha256": "5e5ebbe4f0d1f0dd406d9b506a01b62efae09c7ad4defa2bd5abc59dd6800d0e",
+          "bytes": 6134,
+          "width": 2048,
+          "cssVarSha256": "19735e43cfdcec3122f9f119ffb5ada753a5b6056b741e1804662ae66cfba97c"
+        },
+        "webp": {
+          "file": "webp/typing-laptop.webp",
+          "sha256": "f0d98bfd364d9c085951d8c2d514e48c59f63d460bbb99e43bfa95a976554839",
+          "bytes": 18932
+        }
+      }
+    }
+  ]
+}

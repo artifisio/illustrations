@@ -1,0 +1,326 @@
+{
+  "slug": "unicorn-life",
+  "name": "Unicorn Life",
+  "description": "Infuse your next creative project with pure magic as you follow this lovable unicorn through its most whimsical daily adventures. Whether you are designing heartwarming stationery or brightening up your digital workspace, these illustrations bring a sense of wonder that will leave you and your audience smiling.",
+  "tags": [],
+  "count": 14,
+  "palette": [
+    {
+      "slot": "outline",
+      "label": "Dark Outline",
+      "hex": "#222035",
+      "role": "fixed",
+      "_id": "69de3cf9882108a64b180129"
+    },
+    {
+      "slot": "body",
+      "label": "Body White",
+      "hex": "#FFFFFF",
+      "role": "fixed",
+      "_id": "69de3cf9882108a64b18012a"
+    },
+    {
+      "slot": "primary",
+      "label": "Soft Purple",
+      "hex": "#C2B0D3",
+      "role": "themeable",
+      "_id": "69de3cf9882108a64b18012b"
+    },
+    {
+      "slot": "secondary",
+      "label": "Soft Teal",
+      "hex": "#A6D7D0",
+      "role": "themeable",
+      "_id": "69de3cf9882108a64b18012c"
+    },
+    {
+      "slot": "accent",
+      "label": "Warm Pink",
+      "hex": "#EE9D99",
+      "role": "themeable",
+      "_id": "69de3cf9882108a64b18012d"
+    },
+    {
+      "slot": "skin",
+      "label": "Muzzle Peach",
+      "hex": "#FBD3C9",
+      "role": "fixed",
+      "_id": "69de3cf9882108a64b18012e"
+    },
+    {
+      "slot": "shadow",
+      "label": "Muted Shadow",
+      "hex": "#626482",
+      "role": "fixed",
+      "_id": "69de3cf9882108a64b18012f"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "shopping-basket",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/shopping-basket.svg",
+          "sha256": "3907163b4b76271d2aacfa70fcd816cc7b1584fa0ffcf059210019d3493b9b8e",
+          "bytes": 35058,
+          "width": 2048,
+          "cssVarSha256": "2d0a0c0682b709824fb99675b39a2190a41a9e2fe5bac7a8bb98c49403b3adc5"
+        },
+        "webp": {
+          "file": "webp/shopping-basket.webp",
+          "sha256": "782fac7c3017e4626d32c6b8c7460b538152ed652aea25e3bca7b2ec2c47bc5c",
+          "bytes": 60978
+        }
+      }
+    },
+    {
+      "slug": "hearth-balloon",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/hearth-balloon.svg",
+          "sha256": "e7be92b4246421847fbad231a745ddc1b57e775165af251ac1145d146990e466",
+          "bytes": 15067,
+          "width": 2048,
+          "cssVarSha256": "9761061d59d7d82e57a4f2406a2897f8e6e0153726d3f676e7d08be315af026c"
+        },
+        "webp": {
+          "file": "webp/hearth-balloon.webp",
+          "sha256": "bc7be2fd46787b17d8b064af5fd80e775ebbaf22ff466204d64123df53f7086f",
+          "bytes": 37102
+        }
+      }
+    },
+    {
+      "slug": "key",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/key.svg",
+          "sha256": "e376d463fb9a716f210893a1df1eee31b27a09a3dc50df72776a1a3a6d2c9bb3",
+          "bytes": 33833,
+          "width": 2048,
+          "cssVarSha256": "c2b64c358a509cd5c39034d0eed0eeafba0a53b98021e4e429dc2fe080c34921"
+        },
+        "webp": {
+          "file": "webp/key.webp",
+          "sha256": "6e5afc8240c528982c8216f321eaadef80381779996ad44df5d7e85d6f53e66e",
+          "bytes": 56154
+        }
+      }
+    },
+    {
+      "slug": "writing",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/writing.svg",
+          "sha256": "2edbe476123c3f59243bc6422fd5ae2c892b3e3c6cfb65234da341619baa6eea",
+          "bytes": 23998,
+          "width": 2048,
+          "cssVarSha256": "19e2951e330ec8f3b43828fa96daf9cfff0d168d901edc5f3b1535b9bf971db2"
+        },
+        "webp": {
+          "file": "webp/writing.webp",
+          "sha256": "860071d9bd2434283a7767ea46ba3e9972d474e8b1a8133262630a81f0a437f8",
+          "bytes": 71238
+        }
+      }
+    },
+    {
+      "slug": "pizza",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pizza.svg",
+          "sha256": "7335a38a02af1f73fbba561c6101dfe1db8fa64461d85e69095958af42c63fe7",
+          "bytes": 35356,
+          "width": 2048,
+          "cssVarSha256": "d26f415d499af9ae3649aa2fd755526ca37cfb40625b55b6ed72b4cc2f4fd37c"
+        },
+        "webp": {
+          "file": "webp/pizza.webp",
+          "sha256": "91057dda160062c91c678e2b4563114b394ddd760f63644d1773f21e0249f563",
+          "bytes": 61456
+        }
+      }
+    },
+    {
+      "slug": "guitar",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/guitar.svg",
+          "sha256": "f58bfd13ad761a00402eae794801a9d1be52f8e0b34e2265453a19de24042662",
+          "bytes": 36307,
+          "width": 2048,
+          "cssVarSha256": "dfca2c246a500462cf39d111dc1ca08bdf7d59aeddb82d3e63056ccb52b6b442"
+        },
+        "webp": {
+          "file": "webp/guitar.webp",
+          "sha256": "4d1ed687f81ea5645c8d6cae1316f63784d0f8d14be6a94985fc1e6cfb475bd9",
+          "bytes": 78014
+        }
+      }
+    },
+    {
+      "slug": "yoga",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/yoga.svg",
+          "sha256": "a4fb96d4f337eed2e2084a969499f3ebb1ea3aabc7de4ae42180b001bb51aebf",
+          "bytes": 23382,
+          "width": 2048,
+          "cssVarSha256": "b0e191ad11de7f1e17bfa76d4a3fada5dad8db9d5eb09c42191783094ea6ae80"
+        },
+        "webp": {
+          "file": "webp/yoga.webp",
+          "sha256": "0a20f9cc774d96b8c8040b1751ec87375a36efa9a9d0b9b1a9fe27c7856cc0e2",
+          "bytes": 57680
+        }
+      }
+    },
+    {
+      "slug": "painting-landscape",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/painting-landscape.svg",
+          "sha256": "b2e7b95f24e3a41545469e1f38ada341d27914a4babdb1ce7722bf897b5ad51b",
+          "bytes": 20563,
+          "width": 2048,
+          "cssVarSha256": "1993030c19b492215214a9622082fe578b558e510d8991c12c07c7f1cb72560b"
+        },
+        "webp": {
+          "file": "webp/painting-landscape.webp",
+          "sha256": "4466f84d0b041e7162939c32c8c94c7c751a730e1bc7223cbd538146e9364096",
+          "bytes": 58840
+        }
+      }
+    },
+    {
+      "slug": "watering-plant",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/watering-plant.svg",
+          "sha256": "e61711ec9a88d9f9d870998dfa7a5dad99a60c28d6f55d344197725cc2a7e7d4",
+          "bytes": 17544,
+          "width": 2048,
+          "cssVarSha256": "362850cbe5f76c8e30a2b0180b512578ad4441699af165f84f8f8a75a9a5d94b"
+        },
+        "webp": {
+          "file": "webp/watering-plant.webp",
+          "sha256": "59db8a94ba6fea309de7e1973dba3b8d540f7a240ba3cac6f8030c5274973c83",
+          "bytes": 50348
+        }
+      }
+    },
+    {
+      "slug": "holding-mug",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/holding-mug.svg",
+          "sha256": "9ab2910c1a9dce6cf15624b5adbf6db5419ec30d247bf04866f4284581ab5816",
+          "bytes": 15898,
+          "width": 2048,
+          "cssVarSha256": "954c38aa7d5a7d415d15335793464cea187b5e650a119526c6a7c6c170f04bb2"
+        },
+        "webp": {
+          "file": "webp/holding-mug.webp",
+          "sha256": "6b57487eae8b925acd5ad0ffd1dde555dadd31687c1e433159a0b06c821550f8",
+          "bytes": 44806
+        }
+      }
+    },
+    {
+      "slug": "reading-unicorn",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-unicorn.svg",
+          "sha256": "7d058ade8c21da37a87dfbc370b655aeb1a32beeed038b02986c917461cab7ed",
+          "bytes": 17964,
+          "width": 2048,
+          "cssVarSha256": "749ef5a817d8bc0654d0eb9bd5d75a2b8ec6c9aecd04579f89caa29b4fb74ada"
+        },
+        "webp": {
+          "file": "webp/reading-unicorn.webp",
+          "sha256": "678ebab371172c75629233088cf3c6fac0821c2afc876c21bdddb362672b4152",
+          "bytes": 44896
+        }
+      }
+    },
+    {
+      "slug": "riding-bicycle-flower",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/riding-bicycle-flower.svg",
+          "sha256": "7ab48379ffb156890dc71e869dadf54c40c2dba1997df7eb6f839537557be1d5",
+          "bytes": 26395,
+          "width": 2048,
+          "cssVarSha256": "fda41a9954ad595505cdbe7f0881c05f321e7622c2a406d6b36e220cc515222f"
+        },
+        "webp": {
+          "file": "webp/riding-bicycle-flower.webp",
+          "sha256": "08dfa13f129fe20842c779f851e4e5f44fdb9b57bc8329c30b8edf4c9d9d392a",
+          "bytes": 64318
+        }
+      }
+    },
+    {
+      "slug": "selfie-unicorn",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-unicorn.svg",
+          "sha256": "601cb9c32caeaa8728ea3a316f0d7c4249a2c724ecfc1ba8c9261472031fcbc2",
+          "bytes": 11298,
+          "width": 2048,
+          "cssVarSha256": "4799bfe0fddf04ed92982a507f6d67119dd5545c5ca4eee0069dcaf3ed47487a"
+        },
+        "webp": {
+          "file": "webp/selfie-unicorn.webp",
+          "sha256": "1e4439325f4e0896bcc4eeff9f2a4d1cb096b6aad30fe267475ef22a580bb132",
+          "bytes": 36488
+        }
+      }
+    },
+    {
+      "slug": "typing-unicorn",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/typing-unicorn.svg",
+          "sha256": "fc9c95b75279008f104e39912187784bde6e2c099f3a73c4a4183010a9f110e3",
+          "bytes": 13272,
+          "width": 2048,
+          "cssVarSha256": "26d402defa3a4da72d78539236cd0fd65ca40df344af56ffeb7c30fdb9ee3683"
+        },
+        "webp": {
+          "file": "webp/typing-unicorn.webp",
+          "sha256": "67ae2563fdfe6e1edd43fb117a015abd286d9d81fdc15aa7ad9c78b28da7dd8f",
+          "bytes": 41288
+        }
+      }
+    }
+  ]
+}

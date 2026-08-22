@@ -1,0 +1,419 @@
+{
+  "slug": "scribble-people",
+  "name": "scribble-people",
+  "description": "Infuse your next project with a sense of raw, human connection using these expressive figures that capture the beauty of a fleeting moment. These characters add an approachable, heartfelt charm to your designs, making your brand feel instantly more relatable and alive. You can easily transform any digital layout into a warm, storytelling experience that resonates deeply with your audience.",
+  "tags": [],
+  "count": 20,
+  "palette": [
+    {
+      "slot": "lines",
+      "label": "Line Color",
+      "hex": "#000000",
+      "role": "fixed",
+      "_id": "69df4f188733bfe3827da786"
+    },
+    {
+      "slot": "primary",
+      "label": "Accent Yellow",
+      "hex": "#FBDC1D",
+      "role": "themeable",
+      "_id": "69df4f188733bfe3827da787"
+    },
+    {
+      "slot": "dark-gray",
+      "label": "Dark Gray",
+      "hex": "#444446",
+      "role": "fixed",
+      "_id": "69df4f188733bfe3827da788"
+    },
+    {
+      "slot": "white",
+      "label": "White Fill",
+      "hex": "#FFFFFF",
+      "role": "fixed",
+      "_id": "69df4f188733bfe3827da789"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "404",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/404.svg",
+          "sha256": "989bf36e36a29284131387b53039e76834df3b26b8e46327a4cea543c31f63cc",
+          "bytes": 98641,
+          "width": 2048,
+          "cssVarSha256": "a51afa06e6dab6829e20fb168f3c61eb49f6d6cdd0a6f05402db54e65df4eff6"
+        },
+        "webp": {
+          "file": "webp/404.webp",
+          "sha256": "7bfd6992ead90cd1a1bf13c44c0f3e6a06659cd774bccf1699c605d6d060b84c",
+          "bytes": 105212
+        }
+      }
+    },
+    {
+      "slug": "credit-card",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/credit-card.svg",
+          "sha256": "e71b2639de5d114cb23f1269c9541409a3c6a903ab2bfcd1a08cbf1263fc6881",
+          "bytes": 43337,
+          "width": 2048,
+          "cssVarSha256": "df5902e15a61729a384eb882194bee13004f7584f265c2c87d8170bcc4c8ca36"
+        },
+        "webp": {
+          "file": "webp/credit-card.webp",
+          "sha256": "35a0eb04266a2545b4d8533a4127b0c16d0799f0c2399fa8a760284323d7c30e",
+          "bytes": 67710
+        }
+      }
+    },
+    {
+      "slug": "vr-headset",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/vr-headset.svg",
+          "sha256": "b2ca477159cce2e3cb283f0a555707e71007d72f32219d1de0ddd9885fe71afd",
+          "bytes": 62534,
+          "width": 2048,
+          "cssVarSha256": "c1b586025223679bbec9d96c131a44a5a6c59d5866f96443b91ef4ac8e9034d7"
+        },
+        "webp": {
+          "file": "webp/vr-headset.webp",
+          "sha256": "f5998f0e1f50b5c4c717e6879a3ab12c35d4a6d0a44fc52098afbd3dab267e92",
+          "bytes": 58566
+        }
+      }
+    },
+    {
+      "slug": "shopping-bags",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/shopping-bags.svg",
+          "sha256": "18279fa2b89dbad8d4e8a5c30297362138aa9b8768452959ac3d8914ad6f8f55",
+          "bytes": 44151,
+          "width": 2048,
+          "cssVarSha256": "e2d091ea9e450afa2607dbb15801d79d7d3435292ff56598f243521405c4354d"
+        },
+        "webp": {
+          "file": "webp/shopping-bags.webp",
+          "sha256": "f97e303fd18e64c52013c206145348d61af722653fcb295366408cb89c13e819",
+          "bytes": 57804
+        }
+      }
+    },
+    {
+      "slug": "umbrella",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/umbrella.svg",
+          "sha256": "5ce123e115fd52ad85ed0fce50df3e10fafc8731fdd23ff7ecc04571659a3150",
+          "bytes": 40039,
+          "width": 2048,
+          "cssVarSha256": "7d53e4fa452906560e36e485721dcaa7d9d29156fa97058659167857a764eb7f"
+        },
+        "webp": {
+          "file": "webp/umbrella.webp",
+          "sha256": "3c3deb0e6ef3f90df8b7dd8f15b0489a2d8463eeeb7433029f9cda489ed5fcec",
+          "bytes": 54842
+        }
+      }
+    },
+    {
+      "slug": "photo-camera",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/photo-camera.svg",
+          "sha256": "af16749f6a413c3c8c6edff2c881488693f96b40d1a4a5bcf6e56a69ee472baf",
+          "bytes": 106490,
+          "width": 2048,
+          "cssVarSha256": "c982c207efc87616693d68e9bde2a386c0334fc19c59f19ea3c605e1529f257d"
+        },
+        "webp": {
+          "file": "webp/photo-camera.webp",
+          "sha256": "1bce2163d1c5cd951268bbe44608f0c6a5f1319a948ef7bb2431006879621370",
+          "bytes": 99280
+        }
+      }
+    },
+    {
+      "slug": "guitar",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/guitar.svg",
+          "sha256": "31e90a5435f9d3b39e31b28602693012cc26f461dd2c428d8b0b0f90ecbf97c7",
+          "bytes": 75908,
+          "width": 2048,
+          "cssVarSha256": "b295aece6bf84e73f00bef114b2adcccb8c0ea2a331530db6f5dbbbea3a0bd00"
+        },
+        "webp": {
+          "file": "webp/guitar.webp",
+          "sha256": "c6e5822721e1c1d5a65ba28cd2e8a6ab15364b93280331256a4d3cc307bd843d",
+          "bytes": 82374
+        }
+      }
+    },
+    {
+      "slug": "journaling",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/journaling.svg",
+          "sha256": "9e65c41e00ee477e89d6804db2697704b8a2cb2ae79479455c2b304aab95fa9e",
+          "bytes": 76856,
+          "width": 2048,
+          "cssVarSha256": "af46fc5a06072efec971c037eb823323a1197d3daea8795cb1ac20d99d5cc274"
+        },
+        "webp": {
+          "file": "webp/journaling.webp",
+          "sha256": "a1436e69e4cf9761fda0f01867beed7960d555c3a6a296bee7fe03bf4d13a8a4",
+          "bytes": 94416
+        }
+      }
+    },
+    {
+      "slug": "gaming",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/gaming.svg",
+          "sha256": "660b41b03dd7c106df3ceedfd6622a38e727a1f7e343e26caa303970eb940dd7",
+          "bytes": 72944,
+          "width": 2048,
+          "cssVarSha256": "a49a0716a9c1f4b2d6054118c0c83365d903b24929b22a6f8570e0b5a552e6f4"
+        },
+        "webp": {
+          "file": "webp/gaming.webp",
+          "sha256": "e5fc7714af7ddb22559b49724611611848ae6d63c94d13366aee60f89c0ff531",
+          "bytes": 79820
+        }
+      }
+    },
+    {
+      "slug": "pizza",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pizza.svg",
+          "sha256": "3761122d5a5c5136a09ae5a23793065d6392477f5ffcb3e4e9da83cc5a09c370",
+          "bytes": 85992,
+          "width": 2048,
+          "cssVarSha256": "fea54e906eaa38e7a3d26dac892ca735aa51e8ef1ba6de8e9ba1d97032f4c792"
+        },
+        "webp": {
+          "file": "webp/pizza.webp",
+          "sha256": "ed22e892db1f35457157ede285e5f9460e72c4edb8cf05c134552160d6d146c5",
+          "bytes": 59908
+        }
+      }
+    },
+    {
+      "slug": "painting",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/painting.svg",
+          "sha256": "c03beaa968ed8166f3e3e5c0db13dd421dc5b8bf978efb9afe686d73cd20429b",
+          "bytes": 60863,
+          "width": 2048,
+          "cssVarSha256": "9363eac8edc2590f0bfd014b811c82455e3ee761ab1744ace4bb6ceec3c7d2ad"
+        },
+        "webp": {
+          "file": "webp/painting.webp",
+          "sha256": "f8427f5ddd3a328d669da7f2909972490641871a1f7a079b02ae3f1a03e9774b",
+          "bytes": 85002
+        }
+      }
+    },
+    {
+      "slug": "listening-headphones",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/listening-headphones.svg",
+          "sha256": "87a9caab1cefbe1ba452bfc9fcb377be3d2f6149f38b4193e8f87112ad7850bd",
+          "bytes": 32963,
+          "width": 2048,
+          "cssVarSha256": "0beef7bb47bb40f0e2dcd8bf1064e93cdfca65ed5f6668ff2bcd0919f9a18eae"
+        },
+        "webp": {
+          "file": "webp/listening-headphones.webp",
+          "sha256": "74181d52035e04c4b6b7f139499e289a49448a21ae9a8fae51071a2005376db5",
+          "bytes": 66084
+        }
+      }
+    },
+    {
+      "slug": "stirring-pot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stirring-pot.svg",
+          "sha256": "4b55f821aa8f036979b581c929fa707ebf07621af6e65bc8b5a327bbf0775972",
+          "bytes": 32176,
+          "width": 2048,
+          "cssVarSha256": "1ba360458495139051b89864a54a807e88194a0ed32732e2aa0351aef6ec1618"
+        },
+        "webp": {
+          "file": "webp/stirring-pot.webp",
+          "sha256": "6e0ac392247215cc17dc91b45767d7b720fd53c4aa8dc9a412ea1c69d760a928",
+          "bytes": 57118
+        }
+      }
+    },
+    {
+      "slug": "reading-sitting",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-sitting.svg",
+          "sha256": "f072520cd68c04b2bf712697ef9808876fa8dc81c6813e46aa419bece58df540",
+          "bytes": 49147,
+          "width": 2048,
+          "cssVarSha256": "527cbcdfaa122bd2de4ed48ab752162ba4feb978cc43b1fc67769a6c9da80246"
+        },
+        "webp": {
+          "file": "webp/reading-sitting.webp",
+          "sha256": "e9337130bfe199cb1de47e70b4761a6b4d13bec691b653c5d8c74c7917e74c7e",
+          "bytes": 84424
+        }
+      }
+    },
+    {
+      "slug": "selfie-smartphone",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-smartphone.svg",
+          "sha256": "5054081490b6e467d3ee4d02c49135a9ab57cc89a891109f71cf8183d9653d32",
+          "bytes": 22674,
+          "width": 2048,
+          "cssVarSha256": "9b1de2c9424fc2593ca596672d7df21ace10b2baf5cc1e649d586fde960494db"
+        },
+        "webp": {
+          "file": "webp/selfie-smartphone.webp",
+          "sha256": "97d456f07fe65d146159b489a7ba3b65e8bf8b69fa48dfac1c02160db1f81474",
+          "bytes": 42090
+        }
+      }
+    },
+    {
+      "slug": "blowing-mug",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/blowing-mug.svg",
+          "sha256": "5dba9fdffb24490589e49031c8fecbe54e6e3fd033fb951c5d746575bf2eb9ad",
+          "bytes": 30975,
+          "width": 2048,
+          "cssVarSha256": "31a3863113922647cd462588302db31ae8cc7d60fd51d110b317a8f135a56067"
+        },
+        "webp": {
+          "file": "webp/blowing-mug.webp",
+          "sha256": "47ddcf8d8fef92dc87f5a0ad51702d5d24d8085004c08103879c7ca2da9a5193",
+          "bytes": 67286
+        }
+      }
+    },
+    {
+      "slug": "cycling-speed",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cycling-speed.svg",
+          "sha256": "36d37377eeaaa3d7e8b83bd4d557c29affa41e4ecf22044de38d10e445056b56",
+          "bytes": 41707,
+          "width": 2048,
+          "cssVarSha256": "41301158a7718cb56426661668903247b6878c02a4837ab762f644f257e0caa7"
+        },
+        "webp": {
+          "file": "webp/cycling-speed.webp",
+          "sha256": "dc3ca78cac88a22c3ab517d91a3d7fc24a53bf4cbfc02f851242435fe25e23ce",
+          "bytes": 87638
+        }
+      }
+    },
+    {
+      "slug": "watering-gardening",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/watering-gardening.svg",
+          "sha256": "92649b6b602295e0d5cff8dd33ded0e8d9535c5bc7c3d45dff4cdc8f7aeddc6f",
+          "bytes": 38001,
+          "width": 2048,
+          "cssVarSha256": "3dc138fe35f3b8ac2f3dadc8d60f6b71648fa5eb1490bb279aa7ef23f3b2bff2"
+        },
+        "webp": {
+          "file": "webp/watering-gardening.webp",
+          "sha256": "f01dfcd0c0efcf58db63f14775799854572d57cc34e227630401c7a4d3b23b65",
+          "bytes": 71538
+        }
+      }
+    },
+    {
+      "slug": "typing-laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/typing-laptop.svg",
+          "sha256": "02ccf10e9fa970bf2ecf4d847d9ff2daf2415f144124fc8d740966e62fdb18c3",
+          "bytes": 50256,
+          "width": 2048,
+          "cssVarSha256": "2eebc576e4e2d2e60d382e8492576ac2891b6e9fbd0b30e33cbed5078ca00f10"
+        },
+        "webp": {
+          "file": "webp/typing-laptop.webp",
+          "sha256": "b4308c783c1c179d27b9251147c3bb0b99c183b285ddbf7d3de7dd4180779901",
+          "bytes": 70428
+        }
+      }
+    },
+    {
+      "slug": "walking-dog",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/walking-dog.svg",
+          "sha256": "572a113d2e3eca3192fbcb871bc5b7553bc908c2be559c64dfff9b3bad21850f",
+          "bytes": 56226,
+          "width": 2048,
+          "cssVarSha256": "975b863bccfdb150a8d82f955daf4c9198d3b9f74b1c93b537da828e1a4d9d9b"
+        },
+        "webp": {
+          "file": "webp/walking-dog.webp",
+          "sha256": "b3491040035713b7c5d70b8d005b511dec720456ed825f04a118c639ba90a7e3",
+          "bytes": 59330
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "slug": "neoclassic-street-art",
+  "name": "neoclassic-street-art",
+  "description": "",
+  "tags": [],
+  "count": 13,
+  "palette": [
+    {
+      "slot": "primary",
+      "label": "Neon Cyan",
+      "hex": "#3DCCC3",
+      "role": "themeable",
+      "_id": "69dbc97f553643c4bb307aba"
+    },
+    {
+      "slot": "secondary",
+      "label": "Neon Magenta",
+      "hex": "#C54CBA",
+      "role": "themeable",
+      "_id": "69dbc97f553643c4bb307abb"
+    },
+    {
+      "slot": "accent",
+      "label": "Neon Yellow",
+      "hex": "#e6ef2c",
+      "role": "themeable",
+      "_id": "69dbc97f553643c4bb307abc"
+    },
+    {
+      "slot": "statue",
+      "label": "Statue Gray",
+      "hex": "#B5B4B4",
+      "role": "fixed",
+      "_id": "69dbc97f553643c4bb307abd"
+    },
+    {
+      "slot": "shadow",
+      "label": "Deep Shadow",
+      "hex": "#424242",
+      "role": "fixed",
+      "_id": "69dbc97f553643c4bb307abe"
+    },
+    {
+      "slot": "black",
+      "label": "Outline Black",
+      "hex": "#0E0A0A",
+      "role": "fixed",
+      "_id": "69dbc97f553643c4bb307abf"
+    }
+  ],
+  "illustrations": [
+    {
+      "slug": "centurion-electric-scooter",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/centurion-electric-scooter.svg",
+          "sha256": "3e1bd866a86354499e193db6bbe8a6de7aaf46ee8f19f4c34d529d6d8dc33ba7",
+          "bytes": 588863,
+          "width": 2048,
+          "cssVarSha256": "bcb9064d2abeb7869f8cefa7d0c74da6164d539e3e5d513081fb355df8d5835b"
+        },
+        "webp": {
+          "file": "webp/centurion-electric-scooter.webp",
+          "sha256": "37cd097b520b19cefc76c14ca338ff59581dea7a652ceb2af8e1b728b228cde5",
+          "bytes": 163028
+        }
+      }
+    },
+    {
+      "slug": "cupid-bubble-tea",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cupid-bubble-tea.svg",
+          "sha256": "e09d29d6fcab26082a019253d963c0283ed3b2928104057f4f8fa5f904e3bbb5",
+          "bytes": 917357,
+          "width": 2048,
+          "cssVarSha256": "fdb6e7c44334e0ec7bf071535551ddb52588db535efd5be31a0bf89e4a519bf2"
+        },
+        "webp": {
+          "file": "webp/cupid-bubble-tea.webp",
+          "sha256": "dd08865a3943383da75da0dc1cf51653d673aaa0cfe76a2c7ff178ea0f2c1728",
+          "bytes": 263952
+        }
+      }
+    },
+    {
+      "slug": "medusa-polaroid",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/medusa-polaroid.svg",
+          "sha256": "5f030acd33631900eb5bc2661ee65e82d0d4a9e41d0ae96c1534ddbfb3e5febd",
+          "bytes": 561142,
+          "width": 2048,
+          "cssVarSha256": "2a5441035a3d85eb64c8ccfa283419e928e20b49f01978efc6c950de061d1db7"
+        },
+        "webp": {
+          "file": "webp/medusa-polaroid.webp",
+          "sha256": "f09d24788b1f6f1b927274796e3a6eb9e81d3ecfed329ea64191bb16fa8c92be",
+          "bytes": 203082
+        }
+      }
+    },
+    {
+      "slug": "david-headphones",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/david-headphones.svg",
+          "sha256": "15216b95356b374c09b28ccbac9137f98330ff3afd5a893fa0c489fc72a6aa86",
+          "bytes": 628912,
+          "width": 2048,
+          "cssVarSha256": "acaf2af535f48dca481fefe40d77f04dfbc51a5859b9059a8ee38a65a7380a76"
+        },
+        "webp": {
+          "file": "webp/david-headphones.webp",
+          "sha256": "3486962f53235774db832e6d33f67f3dae477331c8ce1f777f994b13eb983403",
+          "bytes": 187330
+        }
+      }
+    },
+    {
+      "slug": "statue-boombox-tablet",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/statue-boombox-tablet.svg",
+          "sha256": "3113bcd77a1f24ef830202e945414b7e3fff1139956bcf63bb561582a5b8c573",
+          "bytes": 621881,
+          "width": 2048,
+          "cssVarSha256": "dfbf9275c3df9f3e3d63c4cd2ed369df4a4ffcaa4eaad64f5147bb9ec0f15652"
+        },
+        "webp": {
+          "file": "webp/statue-boombox-tablet.webp",
+          "sha256": "570d73cd0b86cd85576a617495fa0fd61ce2bcda4390c5d3190f66d46f73ec4e",
+          "bytes": 192836
+        }
+      }
+    },
+    {
+      "slug": "mythology-vr",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/mythology-vr.svg",
+          "sha256": "972744b68e210463351f4e4985b44e63aa09ed99df40621b68181a9484c7b10b",
+          "bytes": 816280,
+          "width": 2048,
+          "cssVarSha256": "631a790c04f7393d21fac93e289cc8d5c668540ac88d598788a05a7ed4838f57"
+        },
+        "webp": {
+          "file": "webp/mythology-vr.webp",
+          "sha256": "22afdc9bc9ea37b123066fc40fcb3044fdd5e8452a37d887d5b97503b1f71120",
+          "bytes": 189626
+        }
+      }
+    },
+    {
+      "slug": "graffiti-spraying",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/graffiti-spraying.svg",
+          "sha256": "ff5316416defb8864ed58a55f102716def322cc2760597a1c9132e26be40c85c",
+          "bytes": 918283,
+          "width": 2048,
+          "cssVarSha256": "fccea398f0bba93fcb4fac46b1c0d1eb043a5bd469a5d72fdbccc73c2264568a"
+        },
+        "webp": {
+          "file": "webp/graffiti-spraying.webp",
+          "sha256": "e33c7a3a1a157ab9d77f51362dc4062f5430a27e852b6bdf3f951118a9814dfb",
+          "bytes": 194706
+        }
+      }
+    },
+    {
+      "slug": "carrying-box",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/carrying-box.svg",
+          "sha256": "76e8c3dfe9d55b84f0466bf0eea20670a191bfb1b2054e75a3ee21b7f39ba2f3",
+          "bytes": 551297,
+          "width": 2048,
+          "cssVarSha256": "b23e639432cb6dedf6b045ad083a09c3ab7be90f1bf21f6e99850f772a15ca47"
+        },
+        "webp": {
+          "file": "webp/carrying-box.webp",
+          "sha256": "639f5c9840054f5bb2e6f555ef6e350193a1d4b69a195132e5f2d89dacfe0ead",
+          "bytes": 158480
+        }
+      }
+    },
+    {
+      "slug": "winged-statue-bmx",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/winged-statue-bmx.svg",
+          "sha256": "b56162430d56dbda09c270bb747c48375dd7d80630335044e0d0b2e4e435f20b",
+          "bytes": 1172967,
+          "width": 2048,
+          "cssVarSha256": "4a2e402438537209b439a8229b7578b2b896f0b85033d7054ac8312fcf020c6a"
+        },
+        "webp": {
+          "file": "webp/winged-statue-bmx.webp",
+          "sha256": "794a943cab7c69047a04d8148a39a2ee1e6dae036e602c282f8e1a57f54c52b0",
+          "bytes": 224120
+        }
+      }
+    },
+    {
+      "slug": "tangled-snake-cables",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/tangled-snake-cables.svg",
+          "sha256": "7077272abccbe1ae24844997654a34aa3177bb20ae1e20f768d6978c35eb0cad",
+          "bytes": 668138,
+          "width": 2048,
+          "cssVarSha256": "5f7c45d80d09bb74bc738a3567177047124c307ba46d043dfb8eb4ca33046873"
+        },
+        "webp": {
+          "file": "webp/tangled-snake-cables.webp",
+          "sha256": "271c54086b5305f4f6c608e35e49107ff9e4032cd0e00e05a6d60c4c1de03c07",
+          "bytes": 240178
+        }
+      }
+    },
+    {
+      "slug": "pizza-dough",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pizza-dough.svg",
+          "sha256": "f0b39a622e36ab44829b1c15754ea15ad8913f854841364f4323764d457dd56c",
+          "bytes": 393950,
+          "width": 2048,
+          "cssVarSha256": "02023c39ce6cd292af62eafd6702e2e91c2a00548dcd16cfeb02e7c6728e7d8d"
+        },
+        "webp": {
+          "file": "webp/pizza-dough.webp",
+          "sha256": "0bf414a56a7093b2e742db5c82eaa1e396bd975f271898c8fd30f3a29dd57c63",
+          "bytes": 132728
+        }
+      }
+    },
+    {
+      "slug": "robotic-venus",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-venus.svg",
+          "sha256": "656f8a719166c1df4d97938735306cf9ccfac824e046bcc8d01496e4a942fc8f",
+          "bytes": 610635,
+          "width": 2048,
+          "cssVarSha256": "2ccf1a0944828c1eac99a82f02fa38c29c1466112838046263abd3281538fe2f"
+        },
+        "webp": {
+          "file": "webp/robotic-venus.webp",
+          "sha256": "2e46799c2f29afa05b3f57383ba54711ce6e47bba44d87e9814ec9f2e1c3f853",
+          "bytes": 176190
+        }
+      }
+    },
+    {
+      "slug": "selfie-statue",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-statue.svg",
+          "sha256": "d7e4913f282b8626cb86285bd075cb723f72eeeeed1737a578be3c4b4d8f8100",
+          "bytes": 1079548,
+          "width": 2048,
+          "cssVarSha256": "55f6964a10b578ff3a9597371da53d4b5d80488d9b8eff549173f4103f5e2f4b"
+        },
+        "webp": {
+          "file": "webp/selfie-statue.webp",
+          "sha256": "a04e0a371ef44c00be04f19beabc942e16cef68c3cef516fb525804844f0bfce",
+          "bytes": 226492
+        }
+      }
+    }
+  ]
+}

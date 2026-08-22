@@ -1,0 +1,733 @@
+{
+  "slug": "lumenaut",
+  "name": "Lumenaut",
+  "description": "Plunge into the silent, glowing depths of the ocean and bring a sense of profound mystery to your creative projects. These scenes invite your audience to explore the unreachable, making them ideal for immersive world-building or evocative editorial designs. You will transform your work into a captivating journey through the dark, where every glimmer of light tells a story of wonder and survival.",
+  "tags": [],
+  "count": 35,
+  "palette": [
+    {
+      "slot": "navy",
+      "label": "Deep Navy",
+      "hex": "#0b2148",
+      "role": "fixed",
+      "_id": "6a25929d1cf23994220843ab"
+    },
+    {
+      "slot": "dark-blue",
+      "label": "Dark Slate Blue",
+      "hex": "#1c3f5d",
+      "role": "themeable",
+      "_id": "6a25929d1cf23994220843ac"
+    },
+    {
+      "slot": "teal",
+      "label": "Seafoam Teal",
+      "hex": "#4e9b96",
+      "role": "themeable",
+      "_id": "6a25929d1cf23994220843ad"
+    },
+    {
+      "slot": "coral",
+      "label": "Coral Pink",
+      "hex": "#de8b87",
+      "role": "themeable",
+      "_id": "6a25929d1cf23994220843ae"
+    },
+    {
+      "slot": "lavender",
+      "label": "Soft Lavender",
+      "hex": "#9e9ad6",
+      "role": "themeable",
+      "_id": "6a25929d1cf23994220843af"
+    },
+    {
+      "slot": "steel",
+      "label": "Steel Blue",
+      "hex": "#8386a5",
+      "role": "themeable",
+      "_id": "6a25929d1cf23994220843b0"
+    },
+    {
+      "slot": "mist",
+      "label": "Light Mist",
+      "hex": "#ddf7f8",
+      "role": "fixed",
+      "_id": "6a25929d1cf23994220843b1"
+    },
+    {
+      "slot": "paper",
+      "label": "Paper White",
+      "hex": "#f5f8f8",
+      "role": "fixed",
+      "_id": "6a25929d1cf23994220843b2"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "two-small-robots",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/two-small-robots.svg",
+          "sha256": "de612b0b04b5653b6b37f262d4b61f37fa69716ccbb7af5d0680a5150af5f096",
+          "bytes": 42763,
+          "width": 2048,
+          "cssVarSha256": "dff6384cbc964162aa4c2a2e3f74c856021ae31c6942cec8ec3440a5b9a15bab"
+        },
+        "webp": {
+          "file": "webp/two-small-robots.webp",
+          "sha256": "af12b043767c35ecb8f2009d20d669e17a33a33b62802feab67d74b6eb1b3bb2",
+          "bytes": 228802
+        }
+      }
+    },
+    {
+      "slug": "robotic-submarine-filled-dice",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-submarine-filled-dice.svg",
+          "sha256": "3f0f8bdb8ae314914cdb720c2d6d41ba6551e7fb2b5b663bf2340d6cac42f367",
+          "bytes": 50500,
+          "width": 2048,
+          "cssVarSha256": "474105ed8c8b5098bd3f9b591232404ea6666ae354b8e8f8f385309b781ce054"
+        },
+        "webp": {
+          "file": "webp/robotic-submarine-filled-dice.webp",
+          "sha256": "f15cf6ff28d8da29021ebfc7d27471951f2ef72ee9927d935570d23dbb8a1fa5",
+          "bytes": 251498
+        }
+      }
+    },
+    {
+      "slug": "geometric-underwater-scene",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/geometric-underwater-scene.svg",
+          "sha256": "9c3bbee78230aa0f820fed263c6ff4befb3e5c264002bdf302271b90400231be",
+          "bytes": 62431,
+          "width": 2048,
+          "cssVarSha256": "a49c9295302282fa05a3df55b9fb8a83d259a54d94581591e057137f9218b1d7"
+        },
+        "webp": {
+          "file": "webp/geometric-underwater-scene.webp",
+          "sha256": "992fff95edfc8a0df708e9384f1b5685c2ce0e85e56a057b21bc642ef7e25a09",
+          "bytes": 253150
+        }
+      }
+    },
+    {
+      "slug": "mechanical-submarine-padlock",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/mechanical-submarine-padlock.svg",
+          "sha256": "bae814cb0f0e98bafd9b8f89e97492b08e2856610ea0cd38dd4ce45353e3ab77",
+          "bytes": 38514,
+          "width": 2048,
+          "cssVarSha256": "f1b7ba1220c3d07d42a6a51d69b97d3ee7e5c81ab7a00005f87124dcefd6aa4a"
+        },
+        "webp": {
+          "file": "webp/mechanical-submarine-padlock.webp",
+          "sha256": "0e1db984a6becf33be747d26f66ce63a60c2377d5ef01bc6bed66baccc8116fc",
+          "bytes": 202858
+        }
+      }
+    },
+    {
+      "slug": "purple-trident-emblem",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/purple-trident-emblem.svg",
+          "sha256": "f89575812b6a4ac4f2a2fb6918478b337364b27a2bb1342fb07a53a63b35baea",
+          "bytes": 20584,
+          "width": 2048,
+          "cssVarSha256": "43a346b37fc13017f0502ccd0c3764ac1bf62fd5f87012b649380f75df97a119"
+        },
+        "webp": {
+          "file": "webp/purple-trident-emblem.webp",
+          "sha256": "92b5282da21263972156b931bfc243e9fcd894a93b7dd5e7f7fa691eac842639",
+          "bytes": 246192
+        }
+      }
+    },
+    {
+      "slug": "stylized-jellyfish-4",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-jellyfish-4.svg",
+          "sha256": "b262801acfcb7ef618994cb8f6bfd0a29e8f1983c22f50ee9a4f438f73d14fb5",
+          "bytes": 40793,
+          "width": 2048,
+          "cssVarSha256": "002ba691fafe03a58739ee7d39406fbce98bb161d2a726a5af9d868aae5a5504"
+        },
+        "webp": {
+          "file": "webp/stylized-jellyfish-4.webp",
+          "sha256": "9c44f61420c85ea545e92346f5132687e4dccde4454995ae8db47d7f2fc1340c",
+          "bytes": 283320
+        }
+      }
+    },
+    {
+      "slug": "small-robotic-submarine",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-robotic-submarine.svg",
+          "sha256": "625134e6f52aee94c1ae1d84f95ba86e5559b9bd2649750991ad4fb22f8d3704",
+          "bytes": 52323,
+          "width": 2048,
+          "cssVarSha256": "b72258d9bcb00a71c86ee27fc62a73085e8b77f5add802949c388a35c98164da"
+        },
+        "webp": {
+          "file": "webp/small-robotic-submarine.webp",
+          "sha256": "90d6cbce2d6a4e59c4e5c5e615772e8e0f77cb6ce52274c06dea01b815751aa3",
+          "bytes": 222052
+        }
+      }
+    },
+    {
+      "slug": "open-seashell-glowing-tech",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/open-seashell-glowing-tech.svg",
+          "sha256": "513f9a67b1bf7588f19f2192241b79b2dca8f6ca0fab78a6873715475ac7af30",
+          "bytes": 78061,
+          "width": 2048,
+          "cssVarSha256": "63b08e75c14c3b53a356de0359e7e668f75097772a8aaf77fc442e6e842cc8c8"
+        },
+        "webp": {
+          "file": "webp/open-seashell-glowing-tech.webp",
+          "sha256": "54caeea1b408c34fa4c1587905e0e26e588dc066975d36ebc731e543765bf946",
+          "bytes": 235696
+        }
+      }
+    },
+    {
+      "slug": "small-submarine-4",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-submarine-4.svg",
+          "sha256": "d5a110e58d6ee6e522f0369f68002b51bb4128e5d6ef5144f9e5c58d2c7a9c68",
+          "bytes": 52195,
+          "width": 2048,
+          "cssVarSha256": "227d2649e085ae1c4ef5d7987afb3a7e25254192b4ec3a3261138ea44fda988d"
+        },
+        "webp": {
+          "file": "webp/small-submarine-4.webp",
+          "sha256": "0815353e9c837f27039d82adc8bee6dd5b9c59f49b30780a6ddc6aae6c2f3b65",
+          "bytes": 230216
+        }
+      }
+    },
+    {
+      "slug": "stylized-submarine-3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-submarine-3.svg",
+          "sha256": "d343a6c8616cbaba9d6a0fd0c5850ca0c5c16763e244b241f9c22a1457ca0c87",
+          "bytes": 32889,
+          "width": 2048,
+          "cssVarSha256": "f9182f3e3443d452f6f3f6cf5406953f8ffeaf7025d24cee69978d582e72287a"
+        },
+        "webp": {
+          "file": "webp/stylized-submarine-3.webp",
+          "sha256": "d1ebf7b451e6dac642a325d4d4dd2cbe81c2e45f7f90197f39e923711a1b9e48",
+          "bytes": 193304
+        }
+      }
+    },
+    {
+      "slug": "stylized-minecraft-guardian",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-minecraft-guardian.svg",
+          "sha256": "e879eedb94a26f73823fa59a1dfee22924abd5a57f3b3d1c29e3885a48eb5244",
+          "bytes": 75976,
+          "width": 2048,
+          "cssVarSha256": "8e8903230ef02771ee0f9e48cc553a130917b0afd7d595b90348addc8a756419"
+        },
+        "webp": {
+          "file": "webp/stylized-minecraft-guardian.webp",
+          "sha256": "453092efc9ba87fafd67806014507eca41c98bd731b42cf540e27aff38b7094b",
+          "bytes": 256118
+        }
+      }
+    },
+    {
+      "slug": "octopus-astronaut",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/octopus-astronaut.svg",
+          "sha256": "43b2450c11e4653a8dfc489a05ebbb29d2d44f2cc9750fe607fe602db64a94e1",
+          "bytes": 70077,
+          "width": 2048,
+          "cssVarSha256": "57ed53ac9906c916e77b5fcf794cc570446852a82f26106ca6340a5c8a816a82"
+        },
+        "webp": {
+          "file": "webp/octopus-astronaut.webp",
+          "sha256": "82339d31587eed52106e8069f21fe20a773bbfa51af5a693c991f070e10b8026",
+          "bytes": 211524
+        }
+      }
+    },
+    {
+      "slug": "small-submarine-robotic-arm",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-submarine-robotic-arm.svg",
+          "sha256": "62c55431092f2f3a216829b13fc2286794dc3300498d85007a395cbc0b093eb8",
+          "bytes": 77398,
+          "width": 2048,
+          "cssVarSha256": "6b95415f7ebab7d5fba4b0265b82cb4199ffa591c41424de36f4bd05b7acae10"
+        },
+        "webp": {
+          "file": "webp/small-submarine-robotic-arm.webp",
+          "sha256": "9e9e04b3edd66099440116c9996a145c085dbc8f9fbddcae8641af867ea04b5b",
+          "bytes": 162788
+        }
+      }
+    },
+    {
+      "slug": "swarm-small-robotic-creatures",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/swarm-small-robotic-creatures.svg",
+          "sha256": "037e13140d5b86ca61d6f67e530a992e8d8769170ad6b519b303a424d2d4af6e",
+          "bytes": 142164,
+          "width": 2048,
+          "cssVarSha256": "bb16ce9a78e58fbbfd7b41405a83f1a47fc247abdc8014e1414dd909cbc7f836"
+        },
+        "webp": {
+          "file": "webp/swarm-small-robotic-creatures.webp",
+          "sha256": "5bc2c1d97e7fb5ac7f17919228f21e89491b9c51178ae4c5801160f3bd1ec682",
+          "bytes": 218760
+        }
+      }
+    },
+    {
+      "slug": "stylized-jellyfish-3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-jellyfish-3.svg",
+          "sha256": "8735e7ea1a2a2e56133f7bed1b67373257992b84b149d18508afd6ddd5fe6546",
+          "bytes": 123318,
+          "width": 2048,
+          "cssVarSha256": "447a13d89cc83b78f9984fd4404266e2442d1ff6656397cdbcf98acdfb4dc3ac"
+        },
+        "webp": {
+          "file": "webp/stylized-jellyfish-3.webp",
+          "sha256": "6cc0e1908c3e699a32e0693fc80804754702bcbe6d94850314e89bd65a02c682",
+          "bytes": 295486
+        }
+      }
+    },
+    {
+      "slug": "stylized-submarine-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-submarine-2.svg",
+          "sha256": "34e741d8fb98a5fdb79279b23d9981a91d52d17dee8eb2e22238119a0cf95e18",
+          "bytes": 60120,
+          "width": 2048,
+          "cssVarSha256": "650861b164f2cf9f4d53b254f7497893b8c76e3d5b419d4374ac99e888da6906"
+        },
+        "webp": {
+          "file": "webp/stylized-submarine-2.webp",
+          "sha256": "5346928c88d6a5a8e45653aff8a69358df3d873ae4581024360b5643eca3d05c",
+          "bytes": 127970
+        }
+      }
+    },
+    {
+      "slug": "small-robotic-spider",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-robotic-spider.svg",
+          "sha256": "8064c11610d85957e5c000ffa70b845821d3d71d169b963f05d096bb1df86c85",
+          "bytes": 63005,
+          "width": 2048,
+          "cssVarSha256": "4d1bb3f653cf6eecb626e8ecf827dc0c95917d17da525140e2a27f081eccbb93"
+        },
+        "webp": {
+          "file": "webp/small-robotic-spider.webp",
+          "sha256": "3549e7a0e911014611f397c34c9af4c2ff688ff5953d7e1d664fa3072d531f58",
+          "bytes": 205486
+        }
+      }
+    },
+    {
+      "slug": "small-research-submarine",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-research-submarine.svg",
+          "sha256": "a153d26cc330dc3cab9ceec17b5476c39656b57125aaa807d08bb9f4626be476",
+          "bytes": 59768,
+          "width": 2048,
+          "cssVarSha256": "8599575afb09d78eab48b8b1ac2f0992959a11aabb65c29f94a57dbf29ff83d9"
+        },
+        "webp": {
+          "file": "webp/small-research-submarine.webp",
+          "sha256": "ef0ea9124fc5e6c5a311090e97c305cfdb56561132b2c33a66af4108407ef74d",
+          "bytes": 169730
+        }
+      }
+    },
+    {
+      "slug": "spherical-robot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/spherical-robot.svg",
+          "sha256": "176f6505bcd03e15dc6b2f38e376b04fab586edba0de59465c58126d3c5a4915",
+          "bytes": 28431,
+          "width": 2048,
+          "cssVarSha256": "b81604c4532eb81bc4890325232ff92027ac437476a69b6d31f5acf02dc23a65"
+        },
+        "webp": {
+          "file": "webp/spherical-robot.webp",
+          "sha256": "b462491e97dcc9769a7212e048dcd05a0165ea7e4cf91f2e51b7d84f03e73043",
+          "bytes": 145252
+        }
+      }
+    },
+    {
+      "slug": "robotic-fish-carrying-envelope",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-fish-carrying-envelope.svg",
+          "sha256": "8fcd5cf1a7b1acf6dcc220822c84afba832e009fb39a4bed4a54e73f06b45173",
+          "bytes": 35969,
+          "width": 2048,
+          "cssVarSha256": "28d8746eca7e61674b5f04e552b35638e02c526e8f2a72948d68d294556488df"
+        },
+        "webp": {
+          "file": "webp/robotic-fish-carrying-envelope.webp",
+          "sha256": "feb2d564fbdae06cc6f72cf47918d10199d8c4c55804f6f72df9603fa2780562",
+          "bytes": 238292
+        }
+      }
+    },
+    {
+      "slug": "robotic-arm",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/robotic-arm.svg",
+          "sha256": "e9952929eeefaafb7fb61d7d9020010ebecd25fbe7a205ebc2cc22e4d8a93a7e",
+          "bytes": 79936,
+          "width": 2048,
+          "cssVarSha256": "d3f33d7653c3f6978201d18fb9bbca377acd76216cc250a954c934b8e9c45d9b"
+        },
+        "webp": {
+          "file": "webp/robotic-arm.webp",
+          "sha256": "47fafe81c49ab98152ffbcde439d145ce917cc27e9e27b7f421ccd6e332f0b45",
+          "bytes": 231488
+        }
+      }
+    },
+    {
+      "slug": "small-underwater-robot",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-underwater-robot.svg",
+          "sha256": "7b1fd18faf92ba3ed8f6a716ebed9c8215acbd502eee5c245b11cc187e47c78b",
+          "bytes": 52173,
+          "width": 2048,
+          "cssVarSha256": "4c9f6c10de401f477fb041bd9e534809180332d4053a9cfb177e746a44fca1ac"
+        },
+        "webp": {
+          "file": "webp/small-underwater-robot.webp",
+          "sha256": "30fbc423aafa70056e6778a207d59d9d2a977930a65f004c7d272f15d8a3dfdb",
+          "bytes": 189932
+        }
+      }
+    },
+    {
+      "slug": "small-stylized-submarine",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-stylized-submarine.svg",
+          "sha256": "d4ff30f4003bbe6a19155c232d85877e44be00bedc3aa9ad36221def5bec7c9a",
+          "bytes": 26735,
+          "width": 2048,
+          "cssVarSha256": "d1fe81b93016388f5bb308b4cbf1ed5ac9048688615653552d40915615e44321"
+        },
+        "webp": {
+          "file": "webp/small-stylized-submarine.webp",
+          "sha256": "0628fe7948b11ee5c13d3331028e10bb50c64f031025b36411d932657bf0a6f0",
+          "bytes": 179286
+        }
+      }
+    },
+    {
+      "slug": "futuristic-glass-chamber",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/futuristic-glass-chamber.svg",
+          "sha256": "8350ad50072db7bbbb4fe498418d91774706dc7d3e6efb1d1405b4102f5cc565",
+          "bytes": 35623,
+          "width": 2048,
+          "cssVarSha256": "513768480b05934f239dd885140c10f06b0619641759431c21e6c8d3bedc24d4"
+        },
+        "webp": {
+          "file": "webp/futuristic-glass-chamber.webp",
+          "sha256": "f41938efcee3514944f8b245539cb88d7db718c4fe7e794d77fffbba30fb232f",
+          "bytes": 162172
+        }
+      }
+    },
+    {
+      "slug": "stylized-jellyfish-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-jellyfish-2.svg",
+          "sha256": "338c125113d62dc2d28eda4733c2f8cefafda65da55d0d26d2cbe2a4fc27cd66",
+          "bytes": 111384,
+          "width": 2048,
+          "cssVarSha256": "4ce7329a025d968a4d3c39be1188f5f4a511d7b73b9817401da320f4252fd985"
+        },
+        "webp": {
+          "file": "webp/stylized-jellyfish-2.webp",
+          "sha256": "4c66256ab9c559af5803253d6f7e3d3c4ec3c621120356c04e32bc29e22fa638",
+          "bytes": 358624
+        }
+      }
+    },
+    {
+      "slug": "stylized-submarine",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-submarine.svg",
+          "sha256": "ea224a6952628c0ec9a5861a38db56a34ddee27a0912022673aaf6a45ee9e0fd",
+          "bytes": 76635,
+          "width": 2048,
+          "cssVarSha256": "85b440c0b1896a333c74d40323246c3a18768fdc930157e06035d103f11209a7"
+        },
+        "webp": {
+          "file": "webp/stylized-submarine.webp",
+          "sha256": "fd0bab56d2a0fd66e2925d1276d91b665d1dd043d809a4c565314117ed6320c2",
+          "bytes": 226852
+        }
+      }
+    },
+    {
+      "slug": "small-submarine-3",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-submarine-3.svg",
+          "sha256": "8a69d355015d5c38ffc2a9a0355dfdd0aa27cebc44a85c8e7cc82fe370cb3dbc",
+          "bytes": 60744,
+          "width": 2048,
+          "cssVarSha256": "919e0ab7c68f027492e51fded4cabac9c13e5252986dbf0f5372e3d3b87b7832"
+        },
+        "webp": {
+          "file": "webp/small-submarine-3.webp",
+          "sha256": "de1d381039564924b24be871ac4d5b0232f223d1fa1c6f656e76b3c53975a7a0",
+          "bytes": 257456
+        }
+      }
+    },
+    {
+      "slug": "submarine-radar-screen",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/submarine-radar-screen.svg",
+          "sha256": "03fa9dd5760ac7b906aca1645df5c7bcc591bcdfb227e46363217234b40b1556",
+          "bytes": 72666,
+          "width": 2048,
+          "cssVarSha256": "fe5a3c4f479d6d77cd26eec85e8f69620b89aa0e6f2aa1ba26db79c1c5e464aa"
+        },
+        "webp": {
+          "file": "webp/submarine-radar-screen.webp",
+          "sha256": "df0b1b6117b7191d7a0375f453fd651c5216f322805bb65afe86a40c0191cb5d",
+          "bytes": 287032
+        }
+      }
+    },
+    {
+      "slug": "ornate-octagonal-underwater-object",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/ornate-octagonal-underwater-object.svg",
+          "sha256": "b3181f6aafee9aa57400f49c851628af1b0c8e596af8df86a7610b10f37f2686",
+          "bytes": 47495,
+          "width": 2048,
+          "cssVarSha256": "ed0d5ed8e3dab1a9994dcb830768aa4a7487c65941e023619e2dfd4e2af4dd20"
+        },
+        "webp": {
+          "file": "webp/ornate-octagonal-underwater-object.webp",
+          "sha256": "c87c81ce99d11243179875ee8bdbf014f5085d60470d128c3d083f3d24707dff",
+          "bytes": 279976
+        }
+      }
+    },
+    {
+      "slug": "stylized-anglerfish",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-anglerfish.svg",
+          "sha256": "c2862427a492682a0d93cbffac1d1c92ad68c08d317ea231c6030abbe6bfa897",
+          "bytes": 27990,
+          "width": 2048,
+          "cssVarSha256": "f1fa42a8f211bd5722c1a5c7003214ed2e68957bfdb06e2e30356393dee32683"
+        },
+        "webp": {
+          "file": "webp/stylized-anglerfish.webp",
+          "sha256": "b769942c0475704fb4a1b46358e1bd5cc144a757ec7b54b3a1f99e308df8be26",
+          "bytes": 189900
+        }
+      }
+    },
+    {
+      "slug": "geometric-fish",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/geometric-fish.svg",
+          "sha256": "afda9484033ad6168c4122729bb22e598e336ca949a77ff6562be602886d8bdd",
+          "bytes": 48533,
+          "width": 2048,
+          "cssVarSha256": "603176e1dcff117ac4974205c31c7969c49d907b985777e6b1d797a53346b6eb"
+        },
+        "webp": {
+          "file": "webp/geometric-fish.webp",
+          "sha256": "59254c9344feec7ca73eef6d2dc65001bfed69086ccc892728db1bf37285cd31",
+          "bytes": 229794
+        }
+      }
+    },
+    {
+      "slug": "geometric-crystals",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/geometric-crystals.svg",
+          "sha256": "495f09822126e3e9d14ffcea2c7746c1c4e7baff9fecee5f23d83da36837cfdb",
+          "bytes": 40111,
+          "width": 2048,
+          "cssVarSha256": "0c1afd53ed390822e58d14c819ccfd214efd2d90a4bb1694c55171efca2d9fe2"
+        },
+        "webp": {
+          "file": "webp/geometric-crystals.webp",
+          "sha256": "ea880e5ae81841a02cdd28b51bff522c5ac825b7a9c75adc5e05be0f0f811388",
+          "bytes": 221950
+        }
+      }
+    },
+    {
+      "slug": "scuba-diver-jellyfish",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/scuba-diver-jellyfish.svg",
+          "sha256": "dd68aec048c9627e32dda872c546d7532f2f6e891c23e8a743c862ea4ee51130",
+          "bytes": 84876,
+          "width": 2048,
+          "cssVarSha256": "27f17667c89b892efffab5675b679adaa5de61eec57b546c6a1f2b34bc60b153"
+        },
+        "webp": {
+          "file": "webp/scuba-diver-jellyfish.webp",
+          "sha256": "cbceef628c2c23de4babf7aeae97ec0cd8d519e4f76b1ee798b988673d9524a3",
+          "bytes": 266334
+        }
+      }
+    },
+    {
+      "slug": "stylized-jellyfish",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stylized-jellyfish.svg",
+          "sha256": "4b40237b48e039cf715cd25d1292f22d51f8d5ebd2f60fd44fa0b711caf83b43",
+          "bytes": 82236,
+          "width": 2048,
+          "cssVarSha256": "91e99bc9bcbe696aecec271a820063441605f9dd569a9c68b062c28077a8c2ee"
+        },
+        "webp": {
+          "file": "webp/stylized-jellyfish.webp",
+          "sha256": "09da51534fa776fed684f651d5bc805cbf66ba2ed155884763ef6b38a206eeda",
+          "bytes": 343756
+        }
+      }
+    },
+    {
+      "slug": "small-submarine",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/small-submarine.svg",
+          "sha256": "00c7c891a5b1ccd62940b175075d86d6f6d4a246054f96222432ea28189574a8",
+          "bytes": 52914,
+          "width": 2048,
+          "cssVarSha256": "1b2bf71ca880899fde8c91216889bec1d7222827e721d34b2508d18fa98ef93a"
+        },
+        "webp": {
+          "file": "webp/small-submarine.webp",
+          "sha256": "ecf723bcf6c8627d1d80194cdbe2165c1b084ad835a3645dfaf7e4434ed3ac15",
+          "bytes": 212930
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "sumi-e-ink",
+  "name": "Sumi-e Ink",
+  "description": "Infuse your designs with a sense of Zen-like calm and modern grace using these soulful portraits that capture a quiet, thoughtful strength. You will find these fluid illustrations perfect for adding a touch of timeless sophistication to your branding, social media, or personal storytelling. Each piece invites your audience to slow down and appreciate the poetic beauty found in a single, expressive moment.",
+  "tags": [],
+  "count": 9,
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "pruning-bonsai",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/pruning-bonsai.svg",
+          "sha256": "a0fffa243d54e526bf863b43045b582f750660d2315e119bf457971663fd44ce",
+          "bytes": 1092936,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/pruning-bonsai.webp",
+          "sha256": "2a1991bd4869b0d638804b27786b34d07a11d72c9decc9d8369ebdd92be90a83",
+          "bytes": 246504
+        }
+      }
+    },
+    {
+      "slug": "mountain-laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/mountain-laptop.svg",
+          "sha256": "8b0c912a881fbb6892bdaa4cd35648cd2cd0dafa4a8c9a44f8cae9fab86cb8c4",
+          "bytes": 819826,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/mountain-laptop.webp",
+          "sha256": "8127e3d1997e2982e186dd50775771e765d3bc37d105a2c191b36ce635b70d5d",
+          "bytes": 229914
+        }
+      }
+    },
+    {
+      "slug": "using-tablet-mountain",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/using-tablet-mountain.svg",
+          "sha256": "6e2d8b19bfb4da49f177eed3363c4ac369af2e99fd46a0f50c4a86a8534d8bad",
+          "bytes": 815202,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/using-tablet-mountain.webp",
+          "sha256": "1be3f2650b0611071bf9501087cd7e47ba0adb4a72ff16f7f64c1d55e5c216f3",
+          "bytes": 230058
+        }
+      }
+    },
+    {
+      "slug": "meditating-mountains",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/meditating-mountains.svg",
+          "sha256": "58fe003277f8ff94ef46c4be77120d03ff3d59ac32c794850641d61f0c5f8403",
+          "bytes": 729469,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/meditating-mountains.webp",
+          "sha256": "bab430bd61c87b6a56990f3fff9f9ea14448de415e9831d370be2698ba000a81",
+          "bytes": 220212
+        }
+      }
+    },
+    {
+      "slug": "whisking-tea-mountains",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/whisking-tea-mountains.svg",
+          "sha256": "f45c5ffb936ed5a12df177237a58bb9acf1e9f574d602de6584c20742fb0c42a",
+          "bytes": 901378,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/whisking-tea-mountains.webp",
+          "sha256": "9abf67828015126357f2a535b5163cc09684e155ac168061241c377144eff237",
+          "bytes": 229460
+        }
+      }
+    },
+    {
+      "slug": "drinking-mountains",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/drinking-mountains.svg",
+          "sha256": "510eba56cea10fc3a0f8d7e3e96dd320381f463cc10a79ea73581c6151c67517",
+          "bytes": 755630,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/drinking-mountains.webp",
+          "sha256": "21469eddb436af2c92561ddcb040428b48a10290e6fc297ebcf85ff2af11a37b",
+          "bytes": 199700
+        }
+      }
+    },
+    {
+      "slug": "selfie-mountain",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie-mountain.svg",
+          "sha256": "4cf076ff54c8d88ea7553bba0b473a38de1493fa7248357fc38e51405d0a8a87",
+          "bytes": 793418,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/selfie-mountain.webp",
+          "sha256": "fd909db3f71cfa4275c3b5942afc4e7fa9bb003b742f9167c70f2ce878d9da85",
+          "bytes": 207466
+        }
+      }
+    },
+    {
+      "slug": "analyzing-charts",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/analyzing-charts.svg",
+          "sha256": "f094d521f452607cea81b83af08e99137df0bcedede9b3a0b2e72e7a06b64fb2",
+          "bytes": 676905,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/analyzing-charts.webp",
+          "sha256": "9d67d42211df920b0c8ac06698bc7e49079195a795868b74aab236dd82ac80b4",
+          "bytes": 203252
+        }
+      }
+    },
+    {
+      "slug": "cycling-mountains",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cycling-mountains.svg",
+          "sha256": "badb7048f7f3b17911b76adf912233feeedda2ca01032cfcfc055605e8468a7a",
+          "bytes": 1106579,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/cycling-mountains.webp",
+          "sha256": "620d043dc339449a8089794b1330a4397eeed5ea450e7785318fcd6d3f372f23",
+          "bytes": 246546
+        }
+      }
+    }
+  ]
+}

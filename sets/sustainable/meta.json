@@ -1,0 +1,239 @@
+{
+  "slug": "sustainable",
+  "name": "Sustainable",
+  "description": "Bring your eco-conscious vision to life and inspire your audience to embrace a more mindful way of living. These illustrations provide the perfect touch for your green branding or environmental advocacy, making your message feel both grounded and hopeful. You can transform your digital presence into a sanctuary of growth that resonates with nature lovers everywhere.",
+  "tags": [],
+  "count": 9,
+  "palette": [
+    {
+      "slot": "background",
+      "label": "Background Cream",
+      "hex": "#f5f3ec",
+      "role": "fixed",
+      "_id": "69e66f629c8ec03c51e612c3"
+    },
+    {
+      "slot": "ink",
+      "label": "Line Art",
+      "hex": "#120100",
+      "role": "fixed",
+      "_id": "69e66f629c8ec03c51e612c4"
+    },
+    {
+      "slot": "primary",
+      "label": "Sage Green",
+      "hex": "#959e8c",
+      "role": "themeable",
+      "_id": "69e66f629c8ec03c51e612c5"
+    },
+    {
+      "slot": "secondary",
+      "label": "Terracotta",
+      "hex": "#c3866c",
+      "role": "themeable",
+      "_id": "69e66f629c8ec03c51e612c6"
+    },
+    {
+      "slot": "accent",
+      "label": "Muted Blue",
+      "hex": "#717f88",
+      "role": "themeable",
+      "_id": "69e66f629c8ec03c51e612c7"
+    },
+    {
+      "slot": "skin",
+      "label": "Skin Tone",
+      "hex": "#dbc8b0",
+      "role": "fixed",
+      "_id": "69e66f629c8ec03c51e612c8"
+    },
+    {
+      "slot": "hair",
+      "label": "Hair Brown",
+      "hex": "#584e4c",
+      "role": "fixed",
+      "_id": "69e66f629c8ec03c51e612c9"
+    },
+    {
+      "slot": "neutral",
+      "label": "Soft Grey",
+      "hex": "#cccbc9",
+      "role": "fixed",
+      "_id": "69e66f629c8ec03c51e612ca"
+    }
+  ],
+  "hasBackground": false,
+  "illustrations": [
+    {
+      "slug": "walking-vegetables",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/walking-vegetables.svg",
+          "sha256": "c633bf4e21971caeaa7c8f548ca502bd2ce52bff8816aaa0f4e96ad8458726de",
+          "bytes": 34744,
+          "width": 2048,
+          "cssVarSha256": "185c2438922d48d555ec6fca7b2220dafb80fabb4c370ee7f7838b3fb5a7556f"
+        },
+        "webp": {
+          "file": "webp/walking-vegetables.webp",
+          "sha256": "52f3e8bf6e309a26b4cc50f65610616710f7a210c5ed02ef160bc94eef3451ed",
+          "bytes": 105520
+        }
+      }
+    },
+    {
+      "slug": "folding-clothes",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/folding-clothes.svg",
+          "sha256": "522b2ac854ca966dd1ee9d80b6cd5d4aec1b5c68f0e2e7b359afbf9b3e1562de",
+          "bytes": 103441,
+          "width": 2048,
+          "cssVarSha256": "2af1758195ad7ac98fd40c4a845cfdadd79bb444b7b3a44d5da0d76d8d861380"
+        },
+        "png": {
+          "file": "png/folding-clothes.png",
+          "sha256": "0411a9b9be36270e6a3d99c2b3de0924c4058f8b85249c78bd4198594f26202a",
+          "bytes": 149425
+        }
+      }
+    },
+    {
+      "slug": "coffee-chat",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/coffee-chat.svg",
+          "sha256": "ddfaeb7849d79099b40c25e84c79b9d8af42bfa5911cf7fdb037025036aad572",
+          "bytes": 50513,
+          "width": 2048,
+          "cssVarSha256": "d46ce60d04d2101447a0f07441e823f9d14cca05318c1be81ffd8c4f37a0c470"
+        },
+        "webp": {
+          "file": "webp/coffee-chat.webp",
+          "sha256": "df4b5c374683d447ddf2368aa450412cd7946b1f7834e9ef7d0e67b18c189fbf",
+          "bytes": 137836
+        }
+      }
+    },
+    {
+      "slug": "reading-chair",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading-chair.svg",
+          "sha256": "5b611b1cd6f7a5d9fb6a35837010225c1883d46f02f1769cf5671c783e1070b5",
+          "bytes": 25704,
+          "width": 2048,
+          "cssVarSha256": "f3caca93888de8d0c834f90963c8d43ee8fa5e1b22e7974ba93ecad4b8174252"
+        },
+        "webp": {
+          "file": "webp/reading-chair.webp",
+          "sha256": "5cdda3c49addeea94248cbcf0bab9872e30620abaca6c83ab60033d38584e092",
+          "bytes": 100690
+        }
+      }
+    },
+    {
+      "slug": "walking-dog",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/walking-dog.svg",
+          "sha256": "f47aea741ed27909508f8531439a7a03833821ea6c75d7537266a8e5554d088e",
+          "bytes": 34042,
+          "width": 2048,
+          "cssVarSha256": "df5c479e337faf44497867886290538ad4056f1b18143ea2f8760c9b40b0ee5d"
+        },
+        "webp": {
+          "file": "webp/walking-dog.webp",
+          "sha256": "58c58a5d6cbfcc72da8391230ade835ada0da543cd3710bcef1f0a7fada295b1",
+          "bytes": 91952
+        }
+      }
+    },
+    {
+      "slug": "cycling-basket",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/cycling-basket.svg",
+          "sha256": "c1eeadf3eb7b11df11fc4572fb4c03aa647b8c76202e4697be9b4bee0bac3248",
+          "bytes": 117769,
+          "width": 2048,
+          "cssVarSha256": "91acbe4aca68b98ae2e95b97646caebcbff0c4d8b3b84a10045fc4716055869f"
+        },
+        "webp": {
+          "file": "webp/cycling-basket.webp",
+          "sha256": "a469985701692c8b5d41a2b16715792f681e033049018442c31a7ef1dc25a23f",
+          "bytes": 158618
+        }
+      }
+    },
+    {
+      "slug": "watering-plant",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/watering-plant.svg",
+          "sha256": "38be5c1994966a7c6ac3d2485e805914688536d7b3e2691434e7b03748622d72",
+          "bytes": 34019,
+          "width": 2048,
+          "cssVarSha256": "bdc553f0b35a8db69dc112d00924a44b0a40f9a6faeb76b695dfe54e32e15c4c"
+        },
+        "webp": {
+          "file": "webp/watering-plant.webp",
+          "sha256": "8cbd4f2e3e9069f610204944db707d482868620607588cdfd803f49852fb6431",
+          "bytes": 124164
+        }
+      }
+    },
+    {
+      "slug": "taking-photo-mirror",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/taking-photo-mirror.svg",
+          "sha256": "6d0e0ef3e99c1da567cb1df0664b82e03d9e61157b8f8602baf7882b203d38bc",
+          "bytes": 22264,
+          "width": 2048,
+          "cssVarSha256": "ef8c178afca47f1617ff797ed04ec029c2f192d6e65ca75293921529b7ec323b"
+        },
+        "webp": {
+          "file": "webp/taking-photo-mirror.webp",
+          "sha256": "f299709c3883cfb9c935d7241a51f647ddba064f730d797fac657b035f14ecfc",
+          "bytes": 83608
+        }
+      }
+    },
+    {
+      "slug": "laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/laptop.svg",
+          "sha256": "74a0f453c2cd916b47ea023458ecd2935183b4db7e60731397b3c6fc638d770d",
+          "bytes": 107204,
+          "width": 2048,
+          "cssVarSha256": "0055d798ac8650cba12ee4c202bd06a8d284284be21f7a101c80f7a403df98a1"
+        },
+        "png": {
+          "file": "png/laptop.png",
+          "sha256": "1e9a4721741bddb238339d5127296b53fb710bc36284d194378fb3a0487d79b4",
+          "bytes": 137964
+        }
+      }
+    }
+  ]
+}
