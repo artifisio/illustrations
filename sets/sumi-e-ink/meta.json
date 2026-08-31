@@ -4,6 +4,17 @@
   "description": "Infuse your designs with a sense of Zen-like calm and modern grace using these soulful portraits that capture a quiet, thoughtful strength. You will find these fluid illustrations perfect for adding a touch of timeless sophistication to your branding, social media, or personal storytelling. Each piece invites your audience to slow down and appreciate the poetic beauty found in a single, expressive moment.",
   "tags": [],
   "count": 9,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "sumi-e-ink"
+  },
   "hasBackground": false,
   "illustrations": [
     {

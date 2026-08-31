@@ -4,6 +4,18 @@
   "description": "Bring the pulse of the modern city to your designs with these versatile delivery courier illustrations that capture the spirit of movement and reliability. You can use these scenes to build trust and connection in your next app or website project, making your brand feel both approachable and efficient. Elevate your storytelling by adding a human touch that resonates with anyone waiting for their next big arrival.",
   "tags": [],
   "count": 33,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "urban-delivery",
+    "model": "gpt-image-2"
+  },
   "hasBackground": false,
   "illustrations": [
     {

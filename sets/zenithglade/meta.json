@@ -4,62 +4,66 @@
   "description": "Bring a sense of profound stillness to your next project by blending the wonders of the future with the timeless art of inner peace. These illustrations are your gateway to creating a digital sanctuary that resonates with anyone looking to find their center in a fast-paced world. You will give your brand a soul that feels both cutting-edge and deeply restorative.",
   "tags": [],
   "count": 32,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "zenithglade",
+    "model": "gpt-image-2"
+  },
   "palette": [
     {
       "slot": "primary",
       "label": "Deep Charcoal Teal",
       "hex": "#445257",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca3a"
+      "role": "themeable"
     },
     {
       "slot": "charcoal",
       "label": "Deep Charcoal",
       "hex": "#1a1924",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca3b"
+      "role": "themeable"
     },
     {
       "slot": "accent-gold",
       "label": "Muted Gold",
       "hex": "#ddb77a",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca3c"
+      "role": "themeable"
     },
     {
       "slot": "sage-green",
       "label": "Sage Green",
       "hex": "#70866d",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca3d"
+      "role": "themeable"
     },
     {
       "slot": "lavender",
       "label": "Soft Lavender",
       "hex": "#b1a5c3",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca3e"
+      "role": "themeable"
     },
     {
       "slot": "terracotta",
       "label": "Warm Terracotta",
       "hex": "#c47f5f",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca3f"
+      "role": "themeable"
     },
     {
       "slot": "skin",
       "label": "Warm Skin Tone",
       "hex": "#d7a06e",
-      "role": "fixed",
-      "_id": "6a25fda47be1eee15496ca40"
+      "role": "fixed"
     },
     {
       "slot": "silver",
       "label": "Cool Silver",
       "hex": "#b9cfcc",
-      "role": "themeable",
-      "_id": "6a25fda47be1eee15496ca41"
+      "role": "themeable"
     }
   ],
   "hasBackground": false,

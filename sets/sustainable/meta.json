@@ -4,62 +4,65 @@
   "description": "Bring your eco-conscious vision to life and inspire your audience to embrace a more mindful way of living. These illustrations provide the perfect touch for your green branding or environmental advocacy, making your message feel both grounded and hopeful. You can transform your digital presence into a sanctuary of growth that resonates with nature lovers everywhere.",
   "tags": [],
   "count": 9,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "sustainable"
+  },
   "palette": [
     {
       "slot": "background",
       "label": "Background Cream",
       "hex": "#f5f3ec",
-      "role": "fixed",
-      "_id": "69e66f629c8ec03c51e612c3"
+      "role": "fixed"
     },
     {
       "slot": "ink",
       "label": "Line Art",
       "hex": "#120100",
-      "role": "fixed",
-      "_id": "69e66f629c8ec03c51e612c4"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Sage Green",
       "hex": "#959e8c",
-      "role": "themeable",
-      "_id": "69e66f629c8ec03c51e612c5"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Terracotta",
       "hex": "#c3866c",
-      "role": "themeable",
-      "_id": "69e66f629c8ec03c51e612c6"
+      "role": "themeable"
     },
     {
       "slot": "accent",
       "label": "Muted Blue",
       "hex": "#717f88",
-      "role": "themeable",
-      "_id": "69e66f629c8ec03c51e612c7"
+      "role": "themeable"
     },
     {
       "slot": "skin",
       "label": "Skin Tone",
       "hex": "#dbc8b0",
-      "role": "fixed",
-      "_id": "69e66f629c8ec03c51e612c8"
+      "role": "fixed"
     },
     {
       "slot": "hair",
       "label": "Hair Brown",
       "hex": "#584e4c",
-      "role": "fixed",
-      "_id": "69e66f629c8ec03c51e612c9"
+      "role": "fixed"
     },
     {
       "slot": "neutral",
       "label": "Soft Grey",
       "hex": "#cccbc9",
-      "role": "fixed",
-      "_id": "69e66f629c8ec03c51e612ca"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

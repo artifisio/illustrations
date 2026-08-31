@@ -4,55 +4,60 @@
   "description": "Bring the warmth of a sun-drenched kitchen to your next project with these charming illustrations that celebrate the slow art of sourdough. Whether you are designing a cozy bakery menu or sharing your favorite recipe, these visuals capture the soulful connection between the baker and the loaf. You will love how these pieces turn every design into a heartfelt tribute to the craft of handmade bread.",
   "tags": [],
   "count": 15,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "fresh-sourdough",
+    "model": "gpt-image-2"
+  },
   "palette": [
     {
       "slot": "primary",
       "label": "Muted Sage",
       "hex": "#8b8d70",
-      "role": "themeable",
-      "_id": "6a254c5189ac3298aeed5835"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Warm Ochre",
       "hex": "#b77c3d",
-      "role": "themeable",
-      "_id": "6a254c5189ac3298aeed5836"
+      "role": "themeable"
     },
     {
       "slot": "tertiary",
       "label": "Deep Wood",
       "hex": "#64441e",
-      "role": "themeable",
-      "_id": "6a254c5189ac3298aeed5837"
+      "role": "themeable"
     },
     {
       "slot": "quaternary",
       "label": "Metal Grey",
       "hex": "#c6bfb7",
-      "role": "themeable",
-      "_id": "6a254c5189ac3298aeed5838"
+      "role": "themeable"
     },
     {
       "slot": "skin",
       "label": "Skin Tone",
       "hex": "#eacba2",
-      "role": "fixed",
-      "_id": "6a254c5189ac3298aeed5839"
+      "role": "fixed"
     },
     {
       "slot": "neutral",
       "label": "Cream Flour",
       "hex": "#f5ead9",
-      "role": "fixed",
-      "_id": "6a254c5189ac3298aeed583a"
+      "role": "fixed"
     },
     {
       "slot": "outline",
       "label": "Charcoal Brown",
       "hex": "#37352d",
-      "role": "fixed",
-      "_id": "6a254c5189ac3298aeed583b"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

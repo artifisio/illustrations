@@ -4,55 +4,59 @@
   "description": "Infuse your creative projects with a sense of wonder using this charming glass bottle character that brings a tiny, herbal world to life. These whimsical illustrations are perfect for adding a touch of magic to your stationery, branding, or digital journals. You will love how each expressive pose sparks joy and captures the imagination of your audience instantly.",
   "tags": [],
   "count": 27,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "bottle-herb"
+  },
   "palette": [
     {
       "slot": "background",
       "label": "Cream Background",
       "hex": "#FAF8EC",
-      "role": "fixed",
-      "_id": "69df4ea08733bfe3827da75d"
+      "role": "fixed"
     },
     {
       "slot": "outline",
       "label": "Deep Charcoal",
       "hex": "#080201",
-      "role": "fixed",
-      "_id": "69df4ea08733bfe3827da75e"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Amber Liquid",
       "hex": "#D19A59",
-      "role": "themeable",
-      "_id": "69df4ea08733bfe3827da75f"
+      "role": "themeable"
     },
     {
       "slot": "accent",
       "label": "Dusty Rose",
       "hex": "#C37D5D",
-      "role": "themeable",
-      "_id": "69df4ea08733bfe3827da760"
+      "role": "themeable"
     },
     {
       "slot": "cork",
       "label": "Cork Brown",
       "hex": "#B58C60",
-      "role": "fixed",
-      "_id": "69df4ea08733bfe3827da761"
+      "role": "fixed"
     },
     {
       "slot": "label",
       "label": "Parchment",
       "hex": "#EEDDC3",
-      "role": "fixed",
-      "_id": "69df4ea08733bfe3827da762"
+      "role": "fixed"
     },
     {
       "slot": "botanical",
       "label": "Sage Green",
       "hex": "#666C5E",
-      "role": "fixed",
-      "_id": "69df4ea08733bfe3827da763"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

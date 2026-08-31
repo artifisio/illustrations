@@ -4,55 +4,59 @@
   "description": "Elevate your brand with a sense of modern rhythm and structured energy that captures the pulse of a perfectly organized metropolis. You can easily craft sophisticated backdrops for your next big project, turning simple layouts into vibrant worlds that communicate a vision of progress and precision. These illustrations give you the power to build a professional aesthetic that feels both refreshingly clean and full of life.",
   "tags": [],
   "count": 10,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "geometric-city"
+  },
   "palette": [
     {
       "slot": "background",
       "label": "Background Cream",
       "hex": "#f8e4c5",
-      "role": "fixed",
-      "_id": "69e68e96ca62bff47126ef3c"
+      "role": "fixed"
     },
     {
       "slot": "outline",
       "label": "Outline Black",
       "hex": "#0b0205",
-      "role": "fixed",
-      "_id": "69e68e96ca62bff47126ef3d"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Deep Navy",
       "hex": "#262f50",
-      "role": "themeable",
-      "_id": "69e68e96ca62bff47126ef3e"
+      "role": "themeable"
     },
     {
       "slot": "accent-gold",
       "label": "Warm Gold",
       "hex": "#d39c4c",
-      "role": "themeable",
-      "_id": "69e68e96ca62bff47126ef3f"
+      "role": "themeable"
     },
     {
       "slot": "accent-terracotta",
       "label": "Terracotta Red",
       "hex": "#bc6245",
-      "role": "themeable",
-      "_id": "69e68e96ca62bff47126ef40"
+      "role": "themeable"
     },
     {
       "slot": "skin",
       "label": "Skin Tone",
       "hex": "#e6c49b",
-      "role": "fixed",
-      "_id": "69e68e96ca62bff47126ef41"
+      "role": "fixed"
     },
     {
       "slot": "shadow",
       "label": "Muted Shadow",
       "hex": "#773b3c",
-      "role": "fixed",
-      "_id": "69e68e96ca62bff47126ef42"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

@@ -4,48 +4,54 @@
   "description": "Transform your designs with a serene vision of technology and nature working in perfect, nurturing harmony as mechanical arms tend to delicate succulents. You will find endless inspiration in these gentle guardians that bring a sense of quiet wonder and modern tranquility to your digital or physical spaces. This collection is the perfect choice for infusing your branding or decor with a unique atmosphere of care and futuristic peace.",
   "tags": [],
   "count": 25,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "fernforge",
+    "model": "gpt-image-2"
+  },
   "palette": [
     {
       "slot": "outline",
       "label": "Deep Black",
       "hex": "#030403",
-      "role": "fixed",
-      "_id": "6a25990fe1fbd1f70a394dd8"
+      "role": "fixed"
     },
     {
       "slot": "cream",
       "label": "Cream White",
       "hex": "#e0d9bd",
-      "role": "fixed",
-      "_id": "6a25990fe1fbd1f70a394dd9"
+      "role": "fixed"
     },
     {
       "slot": "primary-blue",
       "label": "Muted Blue",
       "hex": "#475a6a",
-      "role": "themeable",
-      "_id": "6a25990fe1fbd1f70a394dda"
+      "role": "themeable"
     },
     {
       "slot": "secondary-teal",
       "label": "Forest Teal",
       "hex": "#37493d",
-      "role": "themeable",
-      "_id": "6a25990fe1fbd1f70a394ddb"
+      "role": "themeable"
     },
     {
       "slot": "leaf-green",
       "label": "Leaf Green",
       "hex": "#78824b",
-      "role": "themeable",
-      "_id": "6a25990fe1fbd1f70a394ddc"
+      "role": "themeable"
     },
     {
       "slot": "accent-orange",
       "label": "Terracotta Orange",
       "hex": "#d4764a",
-      "role": "themeable",
-      "_id": "6a25990fe1fbd1f70a394ddd"
+      "role": "themeable"
     }
   ],
   "hasBackground": false,

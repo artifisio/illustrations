@@ -4,6 +4,18 @@
   "description": "Bring a sense of serene discovery to your creative projects with this evocative collection of a space traveler nurturing life in the void. These scenes perfectly capture the balance between futuristic innovation and quiet reflection, helping you connect with your audience on a deeper, more mindful level.",
   "tags": [],
   "count": 36,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "bio-astronaut",
+    "model": "gpt-image-2"
+  },
   "hasBackground": false,
   "illustrations": [
     {

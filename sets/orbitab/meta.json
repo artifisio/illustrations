@@ -4,48 +4,54 @@
   "description": "Elevate your daily planning with a cosmic touch that turns every mundane task into an interstellar adventure. These charming space-themed stationery pieces bring a sense of wonder to your digital notebooks, helping you stay inspired as you navigate your galaxy of ideas.",
   "tags": [],
   "count": 33,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "orbitab",
+    "model": "gpt-image-2"
+  },
   "palette": [
     {
       "slot": "primary",
       "label": "Deep Space Blue",
       "hex": "#161042",
-      "role": "themeable",
-      "_id": "6a25a47658b5cd5119669599"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Cosmic Purple",
       "hex": "#6d4ace",
-      "role": "themeable",
-      "_id": "6a25a47658b5cd511966959a"
+      "role": "themeable"
     },
     {
       "slot": "accent-gold",
       "label": "Star Gold",
       "hex": "#e9c270",
-      "role": "themeable",
-      "_id": "6a25a47658b5cd511966959b"
+      "role": "themeable"
     },
     {
       "slot": "accent-coral",
       "label": "Planet Coral",
       "hex": "#eb9c92",
-      "role": "themeable",
-      "_id": "6a25a47658b5cd511966959c"
+      "role": "themeable"
     },
     {
       "slot": "surface",
       "label": "Moonlight White",
       "hex": "#e9e6e6",
-      "role": "fixed",
-      "_id": "6a25a47658b5cd511966959d"
+      "role": "fixed"
     },
     {
       "slot": "outline",
       "label": "Midnight Black",
       "hex": "#070513",
-      "role": "fixed",
-      "_id": "6a25a47658b5cd511966959e"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

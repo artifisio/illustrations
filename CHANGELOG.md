@@ -1,5 +1,34 @@
 # Changelog
 
+## 2026.08.31-1038-63b355c  _(2026-08-31)_
+
+### Changed
+
+- `zenithglade`: palette updated
+- `orbitab`: palette updated
+- `fernforge`: palette updated
+- `lumenaut`: palette updated
+- `voltweave`: palette updated
+- `fresh-sourdough`: palette updated
+- `geometric-city`: palette updated
+- `lakeside-yoga`: palette updated
+- `sustainable`: palette updated
+- `simple-people`: palette updated
+- `scribble-people`: palette updated
+- `bottle-herb`: palette updated
+- `unicorn-life`: palette updated
+- `surreality`: palette updated
+
+### Removed
+
+- `animals-paper`
+- `appliances-1930s`
+- `neoclassic-street-art`
+- `insects-art-nouveau`
+- `illustrations-61177`
+
+---
+
 ## 2026.08.22-1315-f48e6a1  _(2026-08-22)_
 
 ### Added

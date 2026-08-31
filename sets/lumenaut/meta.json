@@ -4,62 +4,66 @@
   "description": "Plunge into the silent, glowing depths of the ocean and bring a sense of profound mystery to your creative projects. These scenes invite your audience to explore the unreachable, making them ideal for immersive world-building or evocative editorial designs. You will transform your work into a captivating journey through the dark, where every glimmer of light tells a story of wonder and survival.",
   "tags": [],
   "count": 35,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "lumenaut",
+    "model": "gpt-image-2"
+  },
   "palette": [
     {
       "slot": "navy",
       "label": "Deep Navy",
       "hex": "#0b2148",
-      "role": "fixed",
-      "_id": "6a25929d1cf23994220843ab"
+      "role": "fixed"
     },
     {
       "slot": "dark-blue",
       "label": "Dark Slate Blue",
       "hex": "#1c3f5d",
-      "role": "themeable",
-      "_id": "6a25929d1cf23994220843ac"
+      "role": "themeable"
     },
     {
       "slot": "teal",
       "label": "Seafoam Teal",
       "hex": "#4e9b96",
-      "role": "themeable",
-      "_id": "6a25929d1cf23994220843ad"
+      "role": "themeable"
     },
     {
       "slot": "coral",
       "label": "Coral Pink",
       "hex": "#de8b87",
-      "role": "themeable",
-      "_id": "6a25929d1cf23994220843ae"
+      "role": "themeable"
     },
     {
       "slot": "lavender",
       "label": "Soft Lavender",
       "hex": "#9e9ad6",
-      "role": "themeable",
-      "_id": "6a25929d1cf23994220843af"
+      "role": "themeable"
     },
     {
       "slot": "steel",
       "label": "Steel Blue",
       "hex": "#8386a5",
-      "role": "themeable",
-      "_id": "6a25929d1cf23994220843b0"
+      "role": "themeable"
     },
     {
       "slot": "mist",
       "label": "Light Mist",
       "hex": "#ddf7f8",
-      "role": "fixed",
-      "_id": "6a25929d1cf23994220843b1"
+      "role": "fixed"
     },
     {
       "slot": "paper",
       "label": "Paper White",
       "hex": "#f5f8f8",
-      "role": "fixed",
-      "_id": "6a25929d1cf23994220843b2"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

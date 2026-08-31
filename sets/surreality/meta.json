@@ -4,55 +4,59 @@
   "description": "Place your audience in the heart of the impossible with these evocative scenes that blur the lines between dreams and reality. You can use these striking visuals to give your next project a sense of profound wonder and mystery that lingers in the viewer’s mind. Each piece offers a unique way to spark deep curiosity, making your work stand out as something truly unforgettable.",
   "tags": [],
   "count": 12,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "surreality"
+  },
   "palette": [
     {
       "slot": "background",
       "label": "Cream Background",
       "hex": "#F6F4E9",
-      "role": "fixed",
-      "_id": "69d991c6ad24517f749503b3"
+      "role": "fixed"
     },
     {
       "slot": "outline",
       "label": "Black Outline",
       "hex": "#000000",
-      "role": "fixed",
-      "_id": "69d991c6ad24517f749503b4"
+      "role": "fixed"
     },
     {
       "slot": "skin",
       "label": "Skin Tone",
       "hex": "#F6F5F0",
-      "role": "fixed",
-      "_id": "69d991c6ad24517f749503b5"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Muted Gold",
       "hex": "#C49527",
-      "role": "themeable",
-      "_id": "69d991c6ad24517f749503b6"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Muted Teal",
       "hex": "#577E75",
-      "role": "themeable",
-      "_id": "69d991c6ad24517f749503b7"
+      "role": "themeable"
     },
     {
       "slot": "accent",
       "label": "Terracotta Brown",
       "hex": "#98634E",
-      "role": "themeable",
-      "_id": "69d991c6ad24517f749503b8"
+      "role": "themeable"
     },
     {
       "slot": "shadow",
       "label": "Neutral Grey",
       "hex": "#A9A9A4",
-      "role": "fixed",
-      "_id": "69d991c6ad24517f749503b9"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

@@ -4,6 +4,18 @@
   "description": "Bring your vision of a greener future to life with illustrations that capture the peaceful harmony of urban farming and renewable energy. You can use these versatile scenes to inspire your audience to embrace a more sustainable lifestyle through your digital content and brand storytelling. Each piece offers a refreshing perspective on how we coexist with nature, making your environmental message feel both hopeful and impactful.",
   "tags": [],
   "count": 36,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "rooftop-garden",
+    "model": "gpt-image-2"
+  },
   "hasBackground": false,
   "illustrations": [
     {

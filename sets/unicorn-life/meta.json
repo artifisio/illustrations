@@ -4,55 +4,59 @@
   "description": "Infuse your next creative project with pure magic as you follow this lovable unicorn through its most whimsical daily adventures. Whether you are designing heartwarming stationery or brightening up your digital workspace, these illustrations bring a sense of wonder that will leave you and your audience smiling.",
   "tags": [],
   "count": 14,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "unicorn-life"
+  },
   "palette": [
     {
       "slot": "outline",
       "label": "Dark Outline",
       "hex": "#222035",
-      "role": "fixed",
-      "_id": "69de3cf9882108a64b180129"
+      "role": "fixed"
     },
     {
       "slot": "body",
       "label": "Body White",
       "hex": "#FFFFFF",
-      "role": "fixed",
-      "_id": "69de3cf9882108a64b18012a"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Soft Purple",
       "hex": "#C2B0D3",
-      "role": "themeable",
-      "_id": "69de3cf9882108a64b18012b"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Soft Teal",
       "hex": "#A6D7D0",
-      "role": "themeable",
-      "_id": "69de3cf9882108a64b18012c"
+      "role": "themeable"
     },
     {
       "slot": "accent",
       "label": "Warm Pink",
       "hex": "#EE9D99",
-      "role": "themeable",
-      "_id": "69de3cf9882108a64b18012d"
+      "role": "themeable"
     },
     {
       "slot": "skin",
       "label": "Muzzle Peach",
       "hex": "#FBD3C9",
-      "role": "fixed",
-      "_id": "69de3cf9882108a64b18012e"
+      "role": "fixed"
     },
     {
       "slot": "shadow",
       "label": "Muted Shadow",
       "hex": "#626482",
-      "role": "fixed",
-      "_id": "69de3cf9882108a64b18012f"
+      "role": "fixed"
     }
   ],
   "illustrations": [

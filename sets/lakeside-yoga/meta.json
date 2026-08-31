@@ -4,62 +4,65 @@
   "description": "Elevate your wellness brand with a collection that captures the quiet harmony of a morning stretch by the water's edge. You will give your audience a moment of stillness and connection, turning every design into a restorative retreat from the busy world. These versatile scenes bring a sense of grounded tranquility to your social media posts, studio flyers, or personal journals.",
   "tags": [],
   "count": 18,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "lakeside-yoga"
+  },
   "palette": [
     {
       "slot": "background",
       "label": "Background Cream",
       "hex": "#F9F9F0",
-      "role": "fixed",
-      "_id": "69e68a93b6a66ad70e704739"
+      "role": "fixed"
     },
     {
       "slot": "outline",
       "label": "Outline Black",
       "hex": "#000000",
-      "role": "fixed",
-      "_id": "69e68a93b6a66ad70e70473a"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Muted Green",
       "hex": "#A9D5BD",
-      "role": "themeable",
-      "_id": "69e68a93b6a66ad70e70473b"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Muted Purple",
       "hex": "#ACA3C7",
-      "role": "themeable",
-      "_id": "69e68a93b6a66ad70e70473c"
+      "role": "themeable"
     },
     {
       "slot": "accent",
       "label": "Muted Blue",
       "hex": "#cfeaed",
-      "role": "themeable",
-      "_id": "69e68a93b6a66ad70e70473d"
+      "role": "themeable"
     },
     {
       "slot": "skin",
       "label": "Skin Tone",
       "hex": "#f9bea4",
-      "role": "fixed",
-      "_id": "69e68a93b6a66ad70e70473e"
+      "role": "fixed"
     },
     {
       "slot": "hair",
       "label": "Dark Brown",
       "hex": "#ce907f",
-      "role": "fixed",
-      "_id": "69e68a93b6a66ad70e70473f"
+      "role": "fixed"
     },
     {
       "slot": "tertiary",
       "label": "Red Fruits",
       "hex": "#cf707a",
-      "role": "themeable",
-      "_id": "69e68a93b6a66ad70e704740"
+      "role": "themeable"
     }
   ],
   "illustrations": [

@@ -4,48 +4,54 @@
   "description": "Immerse your audience in the rhythmic pulse of creativity with these vibrant scenes of a musician lost in his modular craft. You can use these soulful visuals to give your next music project or tech brand an undeniable sense of energy and human connection. It is the perfect way to make your digital space feel as alive and layered as a live performance.",
   "tags": [],
   "count": 33,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "voltweave",
+    "model": "gpt-image-2"
+  },
   "palette": [
     {
       "slot": "primary",
       "label": "Main Blue",
       "hex": "#3963d1",
-      "role": "themeable",
-      "_id": "6a2578615a5f618458663bed"
+      "role": "themeable"
     },
     {
       "slot": "accent",
       "label": "Vibrant Orange",
       "hex": "#e26a27",
-      "role": "themeable",
-      "_id": "6a2578615a5f618458663bee"
+      "role": "themeable"
     },
     {
       "slot": "ink",
       "label": "Ink Black",
       "hex": "#050505",
-      "role": "fixed",
-      "_id": "6a2578615a5f618458663bef"
+      "role": "fixed"
     },
     {
       "slot": "gray-dark",
       "label": "Machine Dark Gray",
       "hex": "#4b4b4c",
-      "role": "fixed",
-      "_id": "6a2578615a5f618458663bf0"
+      "role": "fixed"
     },
     {
       "slot": "gray-light",
       "label": "Machine Light Gray",
       "hex": "#9d9c9c",
-      "role": "fixed",
-      "_id": "6a2578615a5f618458663bf1"
+      "role": "fixed"
     },
     {
       "slot": "background",
       "label": "Paper White",
       "hex": "#f8f6f3",
-      "role": "fixed",
-      "_id": "6a2578615a5f618458663bf2"
+      "role": "fixed"
     }
   ],
   "hasBackground": false,

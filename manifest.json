@@ -1,5 +1,7 @@
 {
-  "registryVersion": "2026.08.22-1315-f48e6a1",
+  "schemaVersion": 2,
+  "registryVersion": "2026.08.31-1038-63b355c",
+  "kind": "illustration",
   "sets": {
     "zenithglade": {
       "slug": "zenithglade",
@@ -7,62 +9,66 @@
       "description": "Bring a sense of profound stillness to your next project by blending the wonders of the future with the timeless art of inner peace. These illustrations are your gateway to creating a digital sanctuary that resonates with anyone looking to find their center in a fast-paced world. You will give your brand a soul that feels both cutting-edge and deeply restorative.",
       "tags": [],
       "count": 32,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "zenithglade",
+        "model": "gpt-image-2"
+      },
       "palette": [
         {
           "slot": "primary",
           "label": "Deep Charcoal Teal",
           "hex": "#445257",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca3a"
+          "role": "themeable"
         },
         {
           "slot": "charcoal",
           "label": "Deep Charcoal",
           "hex": "#1a1924",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca3b"
+          "role": "themeable"
         },
         {
           "slot": "accent-gold",
           "label": "Muted Gold",
           "hex": "#ddb77a",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca3c"
+          "role": "themeable"
         },
         {
           "slot": "sage-green",
           "label": "Sage Green",
           "hex": "#70866d",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca3d"
+          "role": "themeable"
         },
         {
           "slot": "lavender",
           "label": "Soft Lavender",
           "hex": "#b1a5c3",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca3e"
+          "role": "themeable"
         },
         {
           "slot": "terracotta",
           "label": "Warm Terracotta",
           "hex": "#c47f5f",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca3f"
+          "role": "themeable"
         },
         {
           "slot": "skin",
           "label": "Warm Skin Tone",
           "hex": "#d7a06e",
-          "role": "fixed",
-          "_id": "6a25fda47be1eee15496ca40"
+          "role": "fixed"
         },
         {
           "slot": "silver",
           "label": "Cool Silver",
           "hex": "#b9cfcc",
-          "role": "themeable",
-          "_id": "6a25fda47be1eee15496ca41"
+          "role": "themeable"
         }
       ],
       "hasBackground": false,
@@ -683,48 +689,54 @@
       "description": "Elevate your daily planning with a cosmic touch that turns every mundane task into an interstellar adventure. These charming space-themed stationery pieces bring a sense of wonder to your digital notebooks, helping you stay inspired as you navigate your galaxy of ideas.",
       "tags": [],
       "count": 33,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "orbitab",
+        "model": "gpt-image-2"
+      },
       "palette": [
         {
           "slot": "primary",
           "label": "Deep Space Blue",
           "hex": "#161042",
-          "role": "themeable",
-          "_id": "6a25a47658b5cd5119669599"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Cosmic Purple",
           "hex": "#6d4ace",
-          "role": "themeable",
-          "_id": "6a25a47658b5cd511966959a"
+          "role": "themeable"
         },
         {
           "slot": "accent-gold",
           "label": "Star Gold",
           "hex": "#e9c270",
-          "role": "themeable",
-          "_id": "6a25a47658b5cd511966959b"
+          "role": "themeable"
         },
         {
           "slot": "accent-coral",
           "label": "Planet Coral",
           "hex": "#eb9c92",
-          "role": "themeable",
-          "_id": "6a25a47658b5cd511966959c"
+          "role": "themeable"
         },
         {
           "slot": "surface",
           "label": "Moonlight White",
           "hex": "#e9e6e6",
-          "role": "fixed",
-          "_id": "6a25a47658b5cd511966959d"
+          "role": "fixed"
         },
         {
           "slot": "outline",
           "label": "Midnight Black",
           "hex": "#070513",
-          "role": "fixed",
-          "_id": "6a25a47658b5cd511966959e"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -1364,48 +1376,54 @@
       "description": "Transform your designs with a serene vision of technology and nature working in perfect, nurturing harmony as mechanical arms tend to delicate succulents. You will find endless inspiration in these gentle guardians that bring a sense of quiet wonder and modern tranquility to your digital or physical spaces. This collection is the perfect choice for infusing your branding or decor with a unique atmosphere of care and futuristic peace.",
       "tags": [],
       "count": 25,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "fernforge",
+        "model": "gpt-image-2"
+      },
       "palette": [
         {
           "slot": "outline",
           "label": "Deep Black",
           "hex": "#030403",
-          "role": "fixed",
-          "_id": "6a25990fe1fbd1f70a394dd8"
+          "role": "fixed"
         },
         {
           "slot": "cream",
           "label": "Cream White",
           "hex": "#e0d9bd",
-          "role": "fixed",
-          "_id": "6a25990fe1fbd1f70a394dd9"
+          "role": "fixed"
         },
         {
           "slot": "primary-blue",
           "label": "Muted Blue",
           "hex": "#475a6a",
-          "role": "themeable",
-          "_id": "6a25990fe1fbd1f70a394dda"
+          "role": "themeable"
         },
         {
           "slot": "secondary-teal",
           "label": "Forest Teal",
           "hex": "#37493d",
-          "role": "themeable",
-          "_id": "6a25990fe1fbd1f70a394ddb"
+          "role": "themeable"
         },
         {
           "slot": "leaf-green",
           "label": "Leaf Green",
           "hex": "#78824b",
-          "role": "themeable",
-          "_id": "6a25990fe1fbd1f70a394ddc"
+          "role": "themeable"
         },
         {
           "slot": "accent-orange",
           "label": "Terracotta Orange",
           "hex": "#d4764a",
-          "role": "themeable",
-          "_id": "6a25990fe1fbd1f70a394ddd"
+          "role": "themeable"
         }
       ],
       "hasBackground": false,
@@ -1893,62 +1911,66 @@
       "description": "Plunge into the silent, glowing depths of the ocean and bring a sense of profound mystery to your creative projects. These scenes invite your audience to explore the unreachable, making them ideal for immersive world-building or evocative editorial designs. You will transform your work into a captivating journey through the dark, where every glimmer of light tells a story of wonder and survival.",
       "tags": [],
       "count": 35,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "lumenaut",
+        "model": "gpt-image-2"
+      },
       "palette": [
         {
           "slot": "navy",
           "label": "Deep Navy",
           "hex": "#0b2148",
-          "role": "fixed",
-          "_id": "6a25929d1cf23994220843ab"
+          "role": "fixed"
         },
         {
           "slot": "dark-blue",
           "label": "Dark Slate Blue",
           "hex": "#1c3f5d",
-          "role": "themeable",
-          "_id": "6a25929d1cf23994220843ac"
+          "role": "themeable"
         },
         {
           "slot": "teal",
           "label": "Seafoam Teal",
           "hex": "#4e9b96",
-          "role": "themeable",
-          "_id": "6a25929d1cf23994220843ad"
+          "role": "themeable"
         },
         {
           "slot": "coral",
           "label": "Coral Pink",
           "hex": "#de8b87",
-          "role": "themeable",
-          "_id": "6a25929d1cf23994220843ae"
+          "role": "themeable"
         },
         {
           "slot": "lavender",
           "label": "Soft Lavender",
           "hex": "#9e9ad6",
-          "role": "themeable",
-          "_id": "6a25929d1cf23994220843af"
+          "role": "themeable"
         },
         {
           "slot": "steel",
           "label": "Steel Blue",
           "hex": "#8386a5",
-          "role": "themeable",
-          "_id": "6a25929d1cf23994220843b0"
+          "role": "themeable"
         },
         {
           "slot": "mist",
           "label": "Light Mist",
           "hex": "#ddf7f8",
-          "role": "fixed",
-          "_id": "6a25929d1cf23994220843b1"
+          "role": "fixed"
         },
         {
           "slot": "paper",
           "label": "Paper White",
           "hex": "#f5f8f8",
-          "role": "fixed",
-          "_id": "6a25929d1cf23994220843b2"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -2626,48 +2648,54 @@
       "description": "Immerse your audience in the rhythmic pulse of creativity with these vibrant scenes of a musician lost in his modular craft. You can use these soulful visuals to give your next music project or tech brand an undeniable sense of energy and human connection. It is the perfect way to make your digital space feel as alive and layered as a live performance.",
       "tags": [],
       "count": 33,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "voltweave",
+        "model": "gpt-image-2"
+      },
       "palette": [
         {
           "slot": "primary",
           "label": "Main Blue",
           "hex": "#3963d1",
-          "role": "themeable",
-          "_id": "6a2578615a5f618458663bed"
+          "role": "themeable"
         },
         {
           "slot": "accent",
           "label": "Vibrant Orange",
           "hex": "#e26a27",
-          "role": "themeable",
-          "_id": "6a2578615a5f618458663bee"
+          "role": "themeable"
         },
         {
           "slot": "ink",
           "label": "Ink Black",
           "hex": "#050505",
-          "role": "fixed",
-          "_id": "6a2578615a5f618458663bef"
+          "role": "fixed"
         },
         {
           "slot": "gray-dark",
           "label": "Machine Dark Gray",
           "hex": "#4b4b4c",
-          "role": "fixed",
-          "_id": "6a2578615a5f618458663bf0"
+          "role": "fixed"
         },
         {
           "slot": "gray-light",
           "label": "Machine Light Gray",
           "hex": "#9d9c9c",
-          "role": "fixed",
-          "_id": "6a2578615a5f618458663bf1"
+          "role": "fixed"
         },
         {
           "slot": "background",
           "label": "Paper White",
           "hex": "#f8f6f3",
-          "role": "fixed",
-          "_id": "6a2578615a5f618458663bf2"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -3307,55 +3335,60 @@
       "description": "Bring the warmth of a sun-drenched kitchen to your next project with these charming illustrations that celebrate the slow art of sourdough. Whether you are designing a cozy bakery menu or sharing your favorite recipe, these visuals capture the soulful connection between the baker and the loaf. You will love how these pieces turn every design into a heartfelt tribute to the craft of handmade bread.",
       "tags": [],
       "count": 15,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "fresh-sourdough",
+        "model": "gpt-image-2"
+      },
       "palette": [
         {
           "slot": "primary",
           "label": "Muted Sage",
           "hex": "#8b8d70",
-          "role": "themeable",
-          "_id": "6a254c5189ac3298aeed5835"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Warm Ochre",
           "hex": "#b77c3d",
-          "role": "themeable",
-          "_id": "6a254c5189ac3298aeed5836"
+          "role": "themeable"
         },
         {
           "slot": "tertiary",
           "label": "Deep Wood",
           "hex": "#64441e",
-          "role": "themeable",
-          "_id": "6a254c5189ac3298aeed5837"
+          "role": "themeable"
         },
         {
           "slot": "quaternary",
           "label": "Metal Grey",
           "hex": "#c6bfb7",
-          "role": "themeable",
-          "_id": "6a254c5189ac3298aeed5838"
+          "role": "themeable"
         },
         {
           "slot": "skin",
           "label": "Skin Tone",
           "hex": "#eacba2",
-          "role": "fixed",
-          "_id": "6a254c5189ac3298aeed5839"
+          "role": "fixed"
         },
         {
           "slot": "neutral",
           "label": "Cream Flour",
           "hex": "#f5ead9",
-          "role": "fixed",
-          "_id": "6a254c5189ac3298aeed583a"
+          "role": "fixed"
         },
         {
           "slot": "outline",
           "label": "Charcoal Brown",
           "hex": "#37352d",
-          "role": "fixed",
-          "_id": "6a254c5189ac3298aeed583b"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -3653,6 +3686,18 @@
       "description": "Bring your vision of a greener future to life with illustrations that capture the peaceful harmony of urban farming and renewable energy. You can use these versatile scenes to inspire your audience to embrace a more sustainable lifestyle through your digital content and brand storytelling. Each piece offers a refreshing perspective on how we coexist with nature, making your environmental message feel both hopeful and impactful.",
       "tags": [],
       "count": 36,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "rooftop-garden",
+        "model": "gpt-image-2"
+      },
       "hasBackground": false,
       "illustrations": [
         {
@@ -4311,6 +4356,18 @@
       "description": "You can transform your complex scientific concepts into a story of wonder and human connection with these vibrant scenes of discovery. These illustrations provide the perfect backdrop for your biotech blog or educational materials, making the mysteries of the genetic code feel both accessible and exciting. Witness the power of teamwork as your projects come to life with the glow of a shared breakthrough.",
       "tags": [],
       "count": 36,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "deoxyribonucleic",
+        "model": "gpt-image-2"
+      },
       "hasBackground": false,
       "illustrations": [
         {
@@ -4969,6 +5026,18 @@
       "description": "Bring a sense of serene discovery to your creative projects with this evocative collection of a space traveler nurturing life in the void. These scenes perfectly capture the balance between futuristic innovation and quiet reflection, helping you connect with your audience on a deeper, more mindful level.",
       "tags": [],
       "count": 36,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "bio-astronaut",
+        "model": "gpt-image-2"
+      },
       "hasBackground": false,
       "illustrations": [
         {
@@ -5627,6 +5696,18 @@
       "description": "Bring the pulse of the modern city to your designs with these versatile delivery courier illustrations that capture the spirit of movement and reliability. You can use these scenes to build trust and connection in your next app or website project, making your brand feel both approachable and efficient. Elevate your storytelling by adding a human touch that resonates with anyone waiting for their next big arrival.",
       "tags": [],
       "count": 33,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "urban-delivery",
+        "model": "gpt-image-2"
+      },
       "hasBackground": false,
       "illustrations": [
         {
@@ -6231,6 +6312,17 @@
       "description": "Infuse your designs with a sense of Zen-like calm and modern grace using these soulful portraits that capture a quiet, thoughtful strength. You will find these fluid illustrations perfect for adding a touch of timeless sophistication to your branding, social media, or personal storytelling. Each piece invites your audience to slow down and appreciate the poetic beauty found in a single, expressive moment.",
       "tags": [],
       "count": 9,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "sumi-e-ink"
+      },
       "hasBackground": false,
       "illustrations": [
         {
@@ -6403,55 +6495,59 @@
       "description": "Elevate your brand with a sense of modern rhythm and structured energy that captures the pulse of a perfectly organized metropolis. You can easily craft sophisticated backdrops for your next big project, turning simple layouts into vibrant worlds that communicate a vision of progress and precision. These illustrations give you the power to build a professional aesthetic that feels both refreshingly clean and full of life.",
       "tags": [],
       "count": 10,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "geometric-city"
+      },
       "palette": [
         {
           "slot": "background",
           "label": "Background Cream",
           "hex": "#f8e4c5",
-          "role": "fixed",
-          "_id": "69e68e96ca62bff47126ef3c"
+          "role": "fixed"
         },
         {
           "slot": "outline",
           "label": "Outline Black",
           "hex": "#0b0205",
-          "role": "fixed",
-          "_id": "69e68e96ca62bff47126ef3d"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Deep Navy",
           "hex": "#262f50",
-          "role": "themeable",
-          "_id": "69e68e96ca62bff47126ef3e"
+          "role": "themeable"
         },
         {
           "slot": "accent-gold",
           "label": "Warm Gold",
           "hex": "#d39c4c",
-          "role": "themeable",
-          "_id": "69e68e96ca62bff47126ef3f"
+          "role": "themeable"
         },
         {
           "slot": "accent-terracotta",
           "label": "Terracotta Red",
           "hex": "#bc6245",
-          "role": "themeable",
-          "_id": "69e68e96ca62bff47126ef40"
+          "role": "themeable"
         },
         {
           "slot": "skin",
           "label": "Skin Tone",
           "hex": "#e6c49b",
-          "role": "fixed",
-          "_id": "69e68e96ca62bff47126ef41"
+          "role": "fixed"
         },
         {
           "slot": "shadow",
           "label": "Muted Shadow",
           "hex": "#773b3c",
-          "role": "fixed",
-          "_id": "69e68e96ca62bff47126ef42"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -6654,62 +6750,65 @@
       "description": "Elevate your wellness brand with a collection that captures the quiet harmony of a morning stretch by the water's edge. You will give your audience a moment of stillness and connection, turning every design into a restorative retreat from the busy world. These versatile scenes bring a sense of grounded tranquility to your social media posts, studio flyers, or personal journals.",
       "tags": [],
       "count": 18,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "lakeside-yoga"
+      },
       "palette": [
         {
           "slot": "background",
           "label": "Background Cream",
           "hex": "#F9F9F0",
-          "role": "fixed",
-          "_id": "69e68a93b6a66ad70e704739"
+          "role": "fixed"
         },
         {
           "slot": "outline",
           "label": "Outline Black",
           "hex": "#000000",
-          "role": "fixed",
-          "_id": "69e68a93b6a66ad70e70473a"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Muted Green",
           "hex": "#A9D5BD",
-          "role": "themeable",
-          "_id": "69e68a93b6a66ad70e70473b"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Muted Purple",
           "hex": "#ACA3C7",
-          "role": "themeable",
-          "_id": "69e68a93b6a66ad70e70473c"
+          "role": "themeable"
         },
         {
           "slot": "accent",
           "label": "Muted Blue",
           "hex": "#cfeaed",
-          "role": "themeable",
-          "_id": "69e68a93b6a66ad70e70473d"
+          "role": "themeable"
         },
         {
           "slot": "skin",
           "label": "Skin Tone",
           "hex": "#f9bea4",
-          "role": "fixed",
-          "_id": "69e68a93b6a66ad70e70473e"
+          "role": "fixed"
         },
         {
           "slot": "hair",
           "label": "Dark Brown",
           "hex": "#ce907f",
-          "role": "fixed",
-          "_id": "69e68a93b6a66ad70e70473f"
+          "role": "fixed"
         },
         {
           "slot": "tertiary",
           "label": "Red Fruits",
           "hex": "#cf707a",
-          "role": "themeable",
-          "_id": "69e68a93b6a66ad70e704740"
+          "role": "themeable"
         }
       ],
       "illustrations": [
@@ -7063,62 +7162,65 @@
       "description": "Bring your eco-conscious vision to life and inspire your audience to embrace a more mindful way of living. These illustrations provide the perfect touch for your green branding or environmental advocacy, making your message feel both grounded and hopeful. You can transform your digital presence into a sanctuary of growth that resonates with nature lovers everywhere.",
       "tags": [],
       "count": 9,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "sustainable"
+      },
       "palette": [
         {
           "slot": "background",
           "label": "Background Cream",
           "hex": "#f5f3ec",
-          "role": "fixed",
-          "_id": "69e66f629c8ec03c51e612c3"
+          "role": "fixed"
         },
         {
           "slot": "ink",
           "label": "Line Art",
           "hex": "#120100",
-          "role": "fixed",
-          "_id": "69e66f629c8ec03c51e612c4"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Sage Green",
           "hex": "#959e8c",
-          "role": "themeable",
-          "_id": "69e66f629c8ec03c51e612c5"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Terracotta",
           "hex": "#c3866c",
-          "role": "themeable",
-          "_id": "69e66f629c8ec03c51e612c6"
+          "role": "themeable"
         },
         {
           "slot": "accent",
           "label": "Muted Blue",
           "hex": "#717f88",
-          "role": "themeable",
-          "_id": "69e66f629c8ec03c51e612c7"
+          "role": "themeable"
         },
         {
           "slot": "skin",
           "label": "Skin Tone",
           "hex": "#dbc8b0",
-          "role": "fixed",
-          "_id": "69e66f629c8ec03c51e612c8"
+          "role": "fixed"
         },
         {
           "slot": "hair",
           "label": "Hair Brown",
           "hex": "#584e4c",
-          "role": "fixed",
-          "_id": "69e66f629c8ec03c51e612c9"
+          "role": "fixed"
         },
         {
           "slot": "neutral",
           "label": "Soft Grey",
           "hex": "#cccbc9",
-          "role": "fixed",
-          "_id": "69e66f629c8ec03c51e612ca"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -7302,48 +7404,53 @@
       "description": "Infuse your brand with a sense of genuine connection using these friendly characters that make every interaction feel more personal and inviting. Whether you are designing a landing page or a social media post, these versatile figures help you communicate complex ideas with a warm, human touch. This set is your secret tool for building instant trust and making your audience feel right at home.",
       "tags": [],
       "count": 19,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "simple-people"
+      },
       "palette": [
         {
           "slot": "background",
           "label": "Background",
           "hex": "#F6F6EC",
-          "role": "fixed",
-          "_id": "69dffd1c391606023b5932de"
+          "role": "fixed"
         },
         {
           "slot": "lines",
           "label": "Lines",
           "hex": "#000000",
-          "role": "fixed",
-          "_id": "69dffd1c391606023b5932df"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Coral Red",
           "hex": "#FE6C51",
-          "role": "themeable",
-          "_id": "69dffd1c391606023b5932e0"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Warm Orange",
           "hex": "#F9AC3F",
-          "role": "themeable",
-          "_id": "69dffd1c391606023b5932e1"
+          "role": "themeable"
         },
         {
           "slot": "tertiary",
           "label": "Sage Green",
           "hex": "#99B295",
-          "role": "themeable",
-          "_id": "69dffd1c391606023b5932e2"
+          "role": "themeable"
         },
         {
           "slot": "neutral",
           "label": "Soft Grey",
           "hex": "#C3BCB3",
-          "role": "fixed",
-          "_id": "69dffd1c391606023b5932e3"
+          "role": "fixed"
         }
       ],
       "illustrations": [
@@ -7716,34 +7823,41 @@
       "description": "Infuse your next project with a sense of raw, human connection using these expressive figures that capture the beauty of a fleeting moment. These characters add an approachable, heartfelt charm to your designs, making your brand feel instantly more relatable and alive. You can easily transform any digital layout into a warm, storytelling experience that resonates deeply with your audience.",
       "tags": [],
       "count": 20,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "scribble-people"
+      },
       "palette": [
         {
           "slot": "lines",
           "label": "Line Color",
           "hex": "#000000",
-          "role": "fixed",
-          "_id": "69df4f188733bfe3827da786"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Accent Yellow",
           "hex": "#FBDC1D",
-          "role": "themeable",
-          "_id": "69df4f188733bfe3827da787"
+          "role": "themeable"
         },
         {
           "slot": "dark-gray",
           "label": "Dark Gray",
           "hex": "#444446",
-          "role": "fixed",
-          "_id": "69df4f188733bfe3827da788"
+          "role": "fixed"
         },
         {
           "slot": "white",
           "label": "White Fill",
           "hex": "#FFFFFF",
-          "role": "fixed",
-          "_id": "69df4f188733bfe3827da789"
+          "role": "fixed"
         }
       ],
       "illustrations": [
@@ -8135,55 +8249,59 @@
       "description": "Infuse your creative projects with a sense of wonder using this charming glass bottle character that brings a tiny, herbal world to life. These whimsical illustrations are perfect for adding a touch of magic to your stationery, branding, or digital journals. You will love how each expressive pose sparks joy and captures the imagination of your audience instantly.",
       "tags": [],
       "count": 27,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "bottle-herb"
+      },
       "palette": [
         {
           "slot": "background",
           "label": "Cream Background",
           "hex": "#FAF8EC",
-          "role": "fixed",
-          "_id": "69df4ea08733bfe3827da75d"
+          "role": "fixed"
         },
         {
           "slot": "outline",
           "label": "Deep Charcoal",
           "hex": "#080201",
-          "role": "fixed",
-          "_id": "69df4ea08733bfe3827da75e"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Amber Liquid",
           "hex": "#D19A59",
-          "role": "themeable",
-          "_id": "69df4ea08733bfe3827da75f"
+          "role": "themeable"
         },
         {
           "slot": "accent",
           "label": "Dusty Rose",
           "hex": "#C37D5D",
-          "role": "themeable",
-          "_id": "69df4ea08733bfe3827da760"
+          "role": "themeable"
         },
         {
           "slot": "cork",
           "label": "Cork Brown",
           "hex": "#B58C60",
-          "role": "fixed",
-          "_id": "69df4ea08733bfe3827da761"
+          "role": "fixed"
         },
         {
           "slot": "label",
           "label": "Parchment",
           "hex": "#EEDDC3",
-          "role": "fixed",
-          "_id": "69df4ea08733bfe3827da762"
+          "role": "fixed"
         },
         {
           "slot": "botanical",
           "label": "Sage Green",
           "hex": "#666C5E",
-          "role": "fixed",
-          "_id": "69df4ea08733bfe3827da763"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -8703,910 +8821,65 @@
         }
       ]
     },
-    "animals-paper": {
-      "slug": "animals-paper",
-      "name": "animals-paper",
-      "description": "",
-      "tags": [],
-      "count": 9,
-      "illustrations": [
-        {
-          "slug": "jungle-drinking",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/jungle-drinking.svg",
-              "sha256": "dd50aff14fed69c532e2f550369bffcf2021983a86d9db57c6f54c1a54e948ad",
-              "bytes": 67406,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/jungle-drinking.webp",
-              "sha256": "62eb317a05437769ddcc72687f1cc9eb9d6af079d3c31f6d9d633afc99d8a5cb",
-              "bytes": 60650
-            }
-          }
-        },
-        {
-          "slug": "reading-eagle",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/reading-eagle.svg",
-              "sha256": "875d419ffb75de94660fe2c1e56ba979488651323542c98ce167d9d083c3fd67",
-              "bytes": 100441,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/reading-eagle.webp",
-              "sha256": "106e19aad0964f1d38e72d7324a3eb6cce91eacde62eaf27be9b8a65d34ef3c8",
-              "bytes": 27004
-            }
-          }
-        },
-        {
-          "slug": "jungle-bike",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/jungle-bike.svg",
-              "sha256": "4a2d33c28d8cac51dd4350515d093147d9ed4cbb5cb88dec3574a7473661cdd7",
-              "bytes": 230599,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/jungle-bike.webp",
-              "sha256": "545cea5e7b5412a5eb4354a78b5dea2bbff44a2eb95320b934aef6ad9e151a3d",
-              "bytes": 72366
-            }
-          }
-        },
-        {
-          "slug": "jungle-leopard-laptop",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/jungle-leopard-laptop.svg",
-              "sha256": "7673ddfcfc935cfdfc2fa4b2e99e991cfd9dcec4164afe09373f19417bb0ae01",
-              "bytes": 95916,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/jungle-leopard-laptop.webp",
-              "sha256": "85afe8fa7da5cf8cc8dc7cdd59e1ab34069ee2c8540bb4511232c3f9d8a81dcc",
-              "bytes": 72920
-            }
-          }
-        },
-        {
-          "slug": "dj-ing",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/dj-ing.svg",
-              "sha256": "9f9daea2045e453d5d087187c0a989e85c217ee714e35e3cee89c1a47a1c5cde",
-              "bytes": 74027,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/dj-ing.webp",
-              "sha256": "183ad1ef1aaacdf961ae64085060a719474a22841e2a6995ca03271dde254d4d",
-              "bytes": 60300
-            }
-          }
-        },
-        {
-          "slug": "gardening-shovel",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/gardening-shovel.svg",
-              "sha256": "c351d47ae770b81a79094b5501a8097a316940e472da2791499b86df077ce177",
-              "bytes": 134790,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/gardening-shovel.webp",
-              "sha256": "f5351891632adb572aefd960d97f2e3411c489900e9c7bfb1ab7a778d77152c9",
-              "bytes": 57130
-            }
-          }
-        },
-        {
-          "slug": "jungle-cooking",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/jungle-cooking.svg",
-              "sha256": "93677a157b8c174963bdcf67577fe32dd0955bce624693f74d7c2f3bf366ae49",
-              "bytes": 118117,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/jungle-cooking.webp",
-              "sha256": "9dbe45e7978af7ff7af29ff1cf516f22b0cb0c7a259bc9cfb9078c0c0223aaba",
-              "bytes": 78482
-            }
-          }
-        },
-        {
-          "slug": "painting-jungle",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/painting-jungle.svg",
-              "sha256": "88fabb4b3ca45d342415cf303f152c6870d53650c98b976d07886c27c06c7a83",
-              "bytes": 68523,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/painting-jungle.webp",
-              "sha256": "c97e835f2121fe9541c38591d315205dafdd1135e3716120647fdf3af711f3b4",
-              "bytes": 46852
-            }
-          }
-        },
-        {
-          "slug": "selfie-jungle",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/selfie-jungle.svg",
-              "sha256": "893e2cba3e954b1ad0751cf0dc4c2725c3dea0612796f3b2c2435173d6b36d4a",
-              "bytes": 94897,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/selfie-jungle.webp",
-              "sha256": "9f20fe263a1bc56334fe1f89c47bb8f792c5fe722eb744a7776e877744951198",
-              "bytes": 48466
-            }
-          }
-        }
-      ]
-    },
-    "appliances-1930s": {
-      "slug": "appliances-1930s",
-      "name": "Appliances-1930s",
-      "description": "",
-      "tags": [],
-      "count": 9,
-      "illustrations": [
-        {
-          "slug": "playing-catch",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/playing-catch.svg",
-              "sha256": "5be097ad962e7ac6581af559155a3241cf8db3005472ad83d06f5caca67476db",
-              "bytes": 59902,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/playing-catch.webp",
-              "sha256": "86f41e45538f19cdc0b60989e4a1b423e47bc6e656f8843fd762af777e008be7",
-              "bytes": 30404
-            }
-          }
-        },
-        {
-          "slug": "bicycle-mixer",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/bicycle-mixer.svg",
-              "sha256": "cf0bb5893278a475daa1952259a9e5f5ddd97323e75dd132ee130c397b302566",
-              "bytes": 49977,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/bicycle-mixer.webp",
-              "sha256": "a640d9cb422c0e6c7e7f8b1bdd701d64cdefd49f1294dce2c2fc7d1a5718bb60",
-              "bytes": 25058
-            }
-          }
-        },
-        {
-          "slug": "saxophone-waffle",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/saxophone-waffle.svg",
-              "sha256": "3eeab325904d45229f9aba34f3f4e7060ba20b4290773960fab7d16d0398a41a",
-              "bytes": 88741,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/saxophone-waffle.webp",
-              "sha256": "6615ce04c747b3e1dd9b362ac10828977bd1c43225aa63dd6c6f1ffe744d6163",
-              "bytes": 28294
-            }
-          }
-        },
-        {
-          "slug": "stirring-mixer",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/stirring-mixer.svg",
-              "sha256": "26452a5bcfa2d51054e8c202734c4214c73be7d2d809b3e47c018b1429d5f13c",
-              "bytes": 43885,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/stirring-mixer.webp",
-              "sha256": "08aa3c3732abe8739687c30477c77c57e53054bf4c36863973d7da03721ce30c",
-              "bytes": 28100
-            }
-          }
-        },
-        {
-          "slug": "lifting-refrigerator",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/lifting-refrigerator.svg",
-              "sha256": "fd3c41aa896ed6ebc79488ba6bfe52c7e4dd9cbd106338e055a94fa33073ea11",
-              "bytes": 40645,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/lifting-refrigerator.webp",
-              "sha256": "f50a269f8688acbf38f9026ab352f988a708932294d85e9b7455f8ed12af00b0",
-              "bytes": 22646
-            }
-          }
-        },
-        {
-          "slug": "dancing-coffee",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/dancing-coffee.svg",
-              "sha256": "103188dce275530b1d4297f999ff4de0f14bd15d9ba2bdeaa40e63b221cc2ab0",
-              "bytes": 40898,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/dancing-coffee.webp",
-              "sha256": "9f20fb1b283735f697136c34bf2b4bfd94228aadc7577f591427c2ab5cc91764",
-              "bytes": 25492
-            }
-          }
-        },
-        {
-          "slug": "blender-mixing",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/blender-mixing.svg",
-              "sha256": "b0ec7a0d96ac015780875d73570478a01adf1b091b5a7495cb63ccf0bbc19e0c",
-              "bytes": 54858,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/blender-mixing.webp",
-              "sha256": "1c9f9f1242374f929823ca591de758849bea5a3d3abfb2714ef589bbb72b8159",
-              "bytes": 26222
-            }
-          }
-        },
-        {
-          "slug": "boiling-typewriter",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/boiling-typewriter.svg",
-              "sha256": "fa81f8ce746812ab209b9fe0611cd25b1af13c75295ceab0aa45f8314269b996",
-              "bytes": 36819,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/boiling-typewriter.webp",
-              "sha256": "88da96f6a3fc33fe2a3e84327ab3ecf8a0854540566ebba165984b74545d3dbc",
-              "bytes": 24248
-            }
-          }
-        },
-        {
-          "slug": "toaster-photography",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/toaster-photography.svg",
-              "sha256": "04f186dac4c5a3bd3ee42ae30ba2ec4d2f81e823b5537eb997ba0fb9fee9a2f1",
-              "bytes": 57232,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/toaster-photography.webp",
-              "sha256": "eab6cff1794e38baa661c703ae8d2a649bd5b38e9176ee81318054adacd2c659",
-              "bytes": 25098
-            }
-          }
-        }
-      ]
-    },
-    "neoclassic-street-art": {
-      "slug": "neoclassic-street-art",
-      "name": "neoclassic-street-art",
-      "description": "",
-      "tags": [],
-      "count": 13,
-      "palette": [
-        {
-          "slot": "primary",
-          "label": "Neon Cyan",
-          "hex": "#3DCCC3",
-          "role": "themeable",
-          "_id": "69dbc97f553643c4bb307aba"
-        },
-        {
-          "slot": "secondary",
-          "label": "Neon Magenta",
-          "hex": "#C54CBA",
-          "role": "themeable",
-          "_id": "69dbc97f553643c4bb307abb"
-        },
-        {
-          "slot": "accent",
-          "label": "Neon Yellow",
-          "hex": "#e6ef2c",
-          "role": "themeable",
-          "_id": "69dbc97f553643c4bb307abc"
-        },
-        {
-          "slot": "statue",
-          "label": "Statue Gray",
-          "hex": "#B5B4B4",
-          "role": "fixed",
-          "_id": "69dbc97f553643c4bb307abd"
-        },
-        {
-          "slot": "shadow",
-          "label": "Deep Shadow",
-          "hex": "#424242",
-          "role": "fixed",
-          "_id": "69dbc97f553643c4bb307abe"
-        },
-        {
-          "slot": "black",
-          "label": "Outline Black",
-          "hex": "#0E0A0A",
-          "role": "fixed",
-          "_id": "69dbc97f553643c4bb307abf"
-        }
-      ],
-      "illustrations": [
-        {
-          "slug": "centurion-electric-scooter",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/centurion-electric-scooter.svg",
-              "sha256": "3e1bd866a86354499e193db6bbe8a6de7aaf46ee8f19f4c34d529d6d8dc33ba7",
-              "bytes": 588863,
-              "width": 2048,
-              "cssVarSha256": "bcb9064d2abeb7869f8cefa7d0c74da6164d539e3e5d513081fb355df8d5835b"
-            },
-            "webp": {
-              "file": "webp/centurion-electric-scooter.webp",
-              "sha256": "37cd097b520b19cefc76c14ca338ff59581dea7a652ceb2af8e1b728b228cde5",
-              "bytes": 163028
-            }
-          }
-        },
-        {
-          "slug": "cupid-bubble-tea",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/cupid-bubble-tea.svg",
-              "sha256": "e09d29d6fcab26082a019253d963c0283ed3b2928104057f4f8fa5f904e3bbb5",
-              "bytes": 917357,
-              "width": 2048,
-              "cssVarSha256": "fdb6e7c44334e0ec7bf071535551ddb52588db535efd5be31a0bf89e4a519bf2"
-            },
-            "webp": {
-              "file": "webp/cupid-bubble-tea.webp",
-              "sha256": "dd08865a3943383da75da0dc1cf51653d673aaa0cfe76a2c7ff178ea0f2c1728",
-              "bytes": 263952
-            }
-          }
-        },
-        {
-          "slug": "medusa-polaroid",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/medusa-polaroid.svg",
-              "sha256": "5f030acd33631900eb5bc2661ee65e82d0d4a9e41d0ae96c1534ddbfb3e5febd",
-              "bytes": 561142,
-              "width": 2048,
-              "cssVarSha256": "2a5441035a3d85eb64c8ccfa283419e928e20b49f01978efc6c950de061d1db7"
-            },
-            "webp": {
-              "file": "webp/medusa-polaroid.webp",
-              "sha256": "f09d24788b1f6f1b927274796e3a6eb9e81d3ecfed329ea64191bb16fa8c92be",
-              "bytes": 203082
-            }
-          }
-        },
-        {
-          "slug": "david-headphones",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/david-headphones.svg",
-              "sha256": "15216b95356b374c09b28ccbac9137f98330ff3afd5a893fa0c489fc72a6aa86",
-              "bytes": 628912,
-              "width": 2048,
-              "cssVarSha256": "acaf2af535f48dca481fefe40d77f04dfbc51a5859b9059a8ee38a65a7380a76"
-            },
-            "webp": {
-              "file": "webp/david-headphones.webp",
-              "sha256": "3486962f53235774db832e6d33f67f3dae477331c8ce1f777f994b13eb983403",
-              "bytes": 187330
-            }
-          }
-        },
-        {
-          "slug": "statue-boombox-tablet",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/statue-boombox-tablet.svg",
-              "sha256": "3113bcd77a1f24ef830202e945414b7e3fff1139956bcf63bb561582a5b8c573",
-              "bytes": 621881,
-              "width": 2048,
-              "cssVarSha256": "dfbf9275c3df9f3e3d63c4cd2ed369df4a4ffcaa4eaad64f5147bb9ec0f15652"
-            },
-            "webp": {
-              "file": "webp/statue-boombox-tablet.webp",
-              "sha256": "570d73cd0b86cd85576a617495fa0fd61ce2bcda4390c5d3190f66d46f73ec4e",
-              "bytes": 192836
-            }
-          }
-        },
-        {
-          "slug": "mythology-vr",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/mythology-vr.svg",
-              "sha256": "972744b68e210463351f4e4985b44e63aa09ed99df40621b68181a9484c7b10b",
-              "bytes": 816280,
-              "width": 2048,
-              "cssVarSha256": "631a790c04f7393d21fac93e289cc8d5c668540ac88d598788a05a7ed4838f57"
-            },
-            "webp": {
-              "file": "webp/mythology-vr.webp",
-              "sha256": "22afdc9bc9ea37b123066fc40fcb3044fdd5e8452a37d887d5b97503b1f71120",
-              "bytes": 189626
-            }
-          }
-        },
-        {
-          "slug": "graffiti-spraying",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/graffiti-spraying.svg",
-              "sha256": "ff5316416defb8864ed58a55f102716def322cc2760597a1c9132e26be40c85c",
-              "bytes": 918283,
-              "width": 2048,
-              "cssVarSha256": "fccea398f0bba93fcb4fac46b1c0d1eb043a5bd469a5d72fdbccc73c2264568a"
-            },
-            "webp": {
-              "file": "webp/graffiti-spraying.webp",
-              "sha256": "e33c7a3a1a157ab9d77f51362dc4062f5430a27e852b6bdf3f951118a9814dfb",
-              "bytes": 194706
-            }
-          }
-        },
-        {
-          "slug": "carrying-box",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/carrying-box.svg",
-              "sha256": "76e8c3dfe9d55b84f0466bf0eea20670a191bfb1b2054e75a3ee21b7f39ba2f3",
-              "bytes": 551297,
-              "width": 2048,
-              "cssVarSha256": "b23e639432cb6dedf6b045ad083a09c3ab7be90f1bf21f6e99850f772a15ca47"
-            },
-            "webp": {
-              "file": "webp/carrying-box.webp",
-              "sha256": "639f5c9840054f5bb2e6f555ef6e350193a1d4b69a195132e5f2d89dacfe0ead",
-              "bytes": 158480
-            }
-          }
-        },
-        {
-          "slug": "winged-statue-bmx",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/winged-statue-bmx.svg",
-              "sha256": "b56162430d56dbda09c270bb747c48375dd7d80630335044e0d0b2e4e435f20b",
-              "bytes": 1172967,
-              "width": 2048,
-              "cssVarSha256": "4a2e402438537209b439a8229b7578b2b896f0b85033d7054ac8312fcf020c6a"
-            },
-            "webp": {
-              "file": "webp/winged-statue-bmx.webp",
-              "sha256": "794a943cab7c69047a04d8148a39a2ee1e6dae036e602c282f8e1a57f54c52b0",
-              "bytes": 224120
-            }
-          }
-        },
-        {
-          "slug": "tangled-snake-cables",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/tangled-snake-cables.svg",
-              "sha256": "7077272abccbe1ae24844997654a34aa3177bb20ae1e20f768d6978c35eb0cad",
-              "bytes": 668138,
-              "width": 2048,
-              "cssVarSha256": "5f7c45d80d09bb74bc738a3567177047124c307ba46d043dfb8eb4ca33046873"
-            },
-            "webp": {
-              "file": "webp/tangled-snake-cables.webp",
-              "sha256": "271c54086b5305f4f6c608e35e49107ff9e4032cd0e00e05a6d60c4c1de03c07",
-              "bytes": 240178
-            }
-          }
-        },
-        {
-          "slug": "pizza-dough",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/pizza-dough.svg",
-              "sha256": "f0b39a622e36ab44829b1c15754ea15ad8913f854841364f4323764d457dd56c",
-              "bytes": 393950,
-              "width": 2048,
-              "cssVarSha256": "02023c39ce6cd292af62eafd6702e2e91c2a00548dcd16cfeb02e7c6728e7d8d"
-            },
-            "webp": {
-              "file": "webp/pizza-dough.webp",
-              "sha256": "0bf414a56a7093b2e742db5c82eaa1e396bd975f271898c8fd30f3a29dd57c63",
-              "bytes": 132728
-            }
-          }
-        },
-        {
-          "slug": "robotic-venus",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/robotic-venus.svg",
-              "sha256": "656f8a719166c1df4d97938735306cf9ccfac824e046bcc8d01496e4a942fc8f",
-              "bytes": 610635,
-              "width": 2048,
-              "cssVarSha256": "2ccf1a0944828c1eac99a82f02fa38c29c1466112838046263abd3281538fe2f"
-            },
-            "webp": {
-              "file": "webp/robotic-venus.webp",
-              "sha256": "2e46799c2f29afa05b3f57383ba54711ce6e47bba44d87e9814ec9f2e1c3f853",
-              "bytes": 176190
-            }
-          }
-        },
-        {
-          "slug": "selfie-statue",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/selfie-statue.svg",
-              "sha256": "d7e4913f282b8626cb86285bd075cb723f72eeeeed1737a578be3c4b4d8f8100",
-              "bytes": 1079548,
-              "width": 2048,
-              "cssVarSha256": "55f6964a10b578ff3a9597371da53d4b5d80488d9b8eff549173f4103f5e2f4b"
-            },
-            "webp": {
-              "file": "webp/selfie-statue.webp",
-              "sha256": "a04e0a371ef44c00be04f19beabc942e16cef68c3cef516fb525804844f0bfce",
-              "bytes": 226492
-            }
-          }
-        }
-      ]
-    },
-    "insects-art-nouveau": {
-      "slug": "insects-art-nouveau",
-      "name": "Insects Art Nouveau",
-      "description": "",
-      "tags": [],
-      "count": 11,
-      "illustrations": [
-        {
-          "slug": "gym",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/gym.svg",
-              "sha256": "76f338d1466615952445c2c852ada6a1d4e057f58ef40cc90f96dd7a6cde9a18",
-              "bytes": 448695,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/gym.webp",
-              "sha256": "ffb343f38e2823004455853eadbd73e0a3eee958f84c9d5a0c8842f69c4a8cbf",
-              "bytes": 230918
-            }
-          }
-        },
-        {
-          "slug": "book",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/book.svg",
-              "sha256": "eff2a5741dc6c82b44e2a8f1bf7e62babd679f2016650bc9cd17307a53b15628",
-              "bytes": 410931,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/book.webp",
-              "sha256": "bba8f18fa34bc58d1a605d4a3603001c36eed66524a7b2f8b8bc846c284a9881",
-              "bytes": 238996
-            }
-          }
-        },
-        {
-          "slug": "painting-beetle",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/painting-beetle.svg",
-              "sha256": "73284384c7bd0e9b06e04b609c21767c390d79674a80311037d8696f07c06fd2",
-              "bytes": 250121,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/painting-beetle.webp",
-              "sha256": "a800651bf190d1e278505709d410dbfc84db63cb82b60c680f898e10aed25766",
-              "bytes": 187608
-            }
-          }
-        },
-        {
-          "slug": "moth-drinking-tea",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/moth-drinking-tea.svg",
-              "sha256": "11131f21a03dcb89c6629f5375e07afa266c72cd966eaaf174fa5bf14210e333",
-              "bytes": 278843,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/moth-drinking-tea.webp",
-              "sha256": "b17e79047dbef3963b7c942632b9305a138404c228060f715d99d0f40105c4d9",
-              "bytes": 217594
-            }
-          }
-        },
-        {
-          "slug": "stirring-cauldron",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/stirring-cauldron.svg",
-              "sha256": "60cb76245348cb9f3585dc883af3041acf0681007fbec93b1b34de08ac435c49",
-              "bytes": 242285,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/stirring-cauldron.webp",
-              "sha256": "9adaab7b740bce26313fc9279e3106404c628bbb670489e9efe522303a86ae39",
-              "bytes": 186528
-            }
-          }
-        },
-        {
-          "slug": "vested-beetle",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/vested-beetle.svg",
-              "sha256": "cc95d2d0546077371026ecb92d130bc6ae50b9f0bea65e0c38034eea1eae5b04",
-              "bytes": 252476,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/vested-beetle.webp",
-              "sha256": "101cae20d7d5773f34840ac5306e8f85bcc0f02028fff2a555aa4339b8c84c16",
-              "bytes": 183942
-            }
-          }
-        },
-        {
-          "slug": "bike-dragonfly",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/bike-dragonfly.svg",
-              "sha256": "1513325ec1c8e35de087cbde8ca6329535ae7eccb023275c8d423c13de0a22ff",
-              "bytes": 142142,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/bike-dragonfly.webp",
-              "sha256": "659cdf4771bff30873cbc94493df3a7491b4855588adefd5ae68104d14e1953f",
-              "bytes": 179076
-            }
-          }
-        },
-        {
-          "slug": "meditating-mantis",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/meditating-mantis.svg",
-              "sha256": "db9bcb3f94d6ce5cc15e25c81307669e4990a25a992a87c17b3e7d6781729b2b",
-              "bytes": 169781,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/meditating-mantis.webp",
-              "sha256": "aa7340c8a2a6b682cc84562b93b3a894b21e2823d32e9917372e29550db045a2",
-              "bytes": 128796
-            }
-          }
-        },
-        {
-          "slug": "stargazing-moth",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/stargazing-moth.svg",
-              "sha256": "f425d1ba6761fac3a27917163887eee4b46f1cb9b424201cf79741464d7422bf",
-              "bytes": 235513,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/stargazing-moth.webp",
-              "sha256": "80b1365df0eacc946254959e0e6b72a30dea314cbadfac810e1018334769931c",
-              "bytes": 205594
-            }
-          }
-        },
-        {
-          "slug": "flower-constellations",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/flower-constellations.svg",
-              "sha256": "8e29f7dadbbea1a9ad827e2b3bfe53bf340f879845416a7bce163db9cae86170",
-              "bytes": 210496,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/flower-constellations.webp",
-              "sha256": "b797b398e75c669adc0381bbdfb999eb677fba4d71e08044c564c7c4fd6512a8",
-              "bytes": 148744
-            }
-          }
-        },
-        {
-          "slug": "luna-moth-using-laptop",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/luna-moth-using-laptop.svg",
-              "sha256": "de02ef8b6e1548bab6e64b0b2be8bc6e9d662b0586867f995f2ceafd1f15fe6c",
-              "bytes": 310267,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/luna-moth-using-laptop.webp",
-              "sha256": "84cc0a1a23924a80699bbb83f9e958859f5c3fd3e84a7afad78549363f5d6f58",
-              "bytes": 231088
-            }
-          }
-        }
-      ]
-    },
     "unicorn-life": {
       "slug": "unicorn-life",
       "name": "Unicorn Life",
       "description": "Infuse your next creative project with pure magic as you follow this lovable unicorn through its most whimsical daily adventures. Whether you are designing heartwarming stationery or brightening up your digital workspace, these illustrations bring a sense of wonder that will leave you and your audience smiling.",
       "tags": [],
       "count": 14,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "unicorn-life"
+      },
       "palette": [
         {
           "slot": "outline",
           "label": "Dark Outline",
           "hex": "#222035",
-          "role": "fixed",
-          "_id": "69de3cf9882108a64b180129"
+          "role": "fixed"
         },
         {
           "slot": "body",
           "label": "Body White",
           "hex": "#FFFFFF",
-          "role": "fixed",
-          "_id": "69de3cf9882108a64b18012a"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Soft Purple",
           "hex": "#C2B0D3",
-          "role": "themeable",
-          "_id": "69de3cf9882108a64b18012b"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Soft Teal",
           "hex": "#A6D7D0",
-          "role": "themeable",
-          "_id": "69de3cf9882108a64b18012c"
+          "role": "themeable"
         },
         {
           "slot": "accent",
           "label": "Warm Pink",
           "hex": "#EE9D99",
-          "role": "themeable",
-          "_id": "69de3cf9882108a64b18012d"
+          "role": "themeable"
         },
         {
           "slot": "skin",
           "label": "Muzzle Peach",
           "hex": "#FBD3C9",
-          "role": "fixed",
-          "_id": "69de3cf9882108a64b18012e"
+          "role": "fixed"
         },
         {
           "slot": "shadow",
           "label": "Muted Shadow",
           "hex": "#626482",
-          "role": "fixed",
-          "_id": "69de3cf9882108a64b18012f"
+          "role": "fixed"
         }
       ],
       "illustrations": [
@@ -9884,55 +9157,59 @@
       "description": "Place your audience in the heart of the impossible with these evocative scenes that blur the lines between dreams and reality. You can use these striking visuals to give your next project a sense of profound wonder and mystery that lingers in the viewer’s mind. Each piece offers a unique way to spark deep curiosity, making your work stand out as something truly unforgettable.",
       "tags": [],
       "count": 12,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "surreality"
+      },
       "palette": [
         {
           "slot": "background",
           "label": "Cream Background",
           "hex": "#F6F4E9",
-          "role": "fixed",
-          "_id": "69d991c6ad24517f749503b3"
+          "role": "fixed"
         },
         {
           "slot": "outline",
           "label": "Black Outline",
           "hex": "#000000",
-          "role": "fixed",
-          "_id": "69d991c6ad24517f749503b4"
+          "role": "fixed"
         },
         {
           "slot": "skin",
           "label": "Skin Tone",
           "hex": "#F6F5F0",
-          "role": "fixed",
-          "_id": "69d991c6ad24517f749503b5"
+          "role": "fixed"
         },
         {
           "slot": "primary",
           "label": "Muted Gold",
           "hex": "#C49527",
-          "role": "themeable",
-          "_id": "69d991c6ad24517f749503b6"
+          "role": "themeable"
         },
         {
           "slot": "secondary",
           "label": "Muted Teal",
           "hex": "#577E75",
-          "role": "themeable",
-          "_id": "69d991c6ad24517f749503b7"
+          "role": "themeable"
         },
         {
           "slot": "accent",
           "label": "Terracotta Brown",
           "hex": "#98634E",
-          "role": "themeable",
-          "_id": "69d991c6ad24517f749503b8"
+          "role": "themeable"
         },
         {
           "slot": "shadow",
           "label": "Neutral Grey",
           "hex": "#A9A9A4",
-          "role": "fixed",
-          "_id": "69d991c6ad24517f749503b9"
+          "role": "fixed"
         }
       ],
       "hasBackground": false,
@@ -10173,6 +9450,17 @@
       "description": "Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory.",
       "tags": [],
       "count": 1,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "strawhat"
+      },
       "illustrations": [
         {
           "slug": "character-taking-selfie",
@@ -10200,6 +9488,17 @@
       "description": "Surround your designs with the haunting mystery and dark elegance of a classic gothic tale. Whether you are crafting atmospheric book covers or moody social media posts, these pieces help you tell stories that feel both deeply poetic and slightly unsettling. You will captivate your audience with a sense of timeless drama that breathes life into your most shadow-filled creative visions.",
       "tags": [],
       "count": 8,
+      "kind": "illustration",
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "attributionRequired": true,
+        "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "provenance": {
+        "source": "generated",
+        "style": "allanpoe"
+      },
       "illustrations": [
         {
           "slug": "character-reading-book",
@@ -10342,267 +9641,6 @@
               "file": "webp/man-laptop-black-white.webp",
               "sha256": "fded6f33c02ce7e2e8d72815b82f8a132bd7432c93f3bd810094b007c4ab50b0",
               "bytes": 27224
-            }
-          }
-        }
-      ]
-    },
-    "illustrations-61177": {
-      "slug": "illustrations-61177",
-      "name": "kawaii",
-      "description": "",
-      "tags": [],
-      "count": 14,
-      "illustrations": [
-        {
-          "slug": "character-speaking-microphone",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-speaking-microphone.svg",
-              "sha256": "9dddeb5c8ac7d75645f802e30f91b41c659ffa4e545d0eb1a18804b12612105a",
-              "bytes": 28818,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-speaking-microphone.webp",
-              "sha256": "bc5ce6229aa58eb0895903b60992fdfeb21e9c1f3beb175d3fecb002ba7708ee",
-              "bytes": 56396
-            }
-          }
-        },
-        {
-          "slug": "character-taking-selfie",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-taking-selfie.svg",
-              "sha256": "d0ad8ac80aabc33f6be0f07fa2009978317931f99e686c406102123aab024ca9",
-              "bytes": 24546,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-taking-selfie.webp",
-              "sha256": "1986fe342488c4cbb06645c1b533e3f89271e2c528afc257325dfac89c145f58",
-              "bytes": 43122
-            }
-          }
-        },
-        {
-          "slug": "flower-planting-character",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/flower-planting-character.svg",
-              "sha256": "0dd6cebbbfea617c46cfb86be81ca7e9a778eca98d6ce65fe6c3f3f1a5640dea",
-              "bytes": 67299,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/flower-planting-character.webp",
-              "sha256": "4c1d4ef89c44560d7bff6ef0c2938fe7d6e464cdeab9f246ecd77fd004a43589",
-              "bytes": 93632
-            }
-          }
-        },
-        {
-          "slug": "character-reading-book",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-reading-book.svg",
-              "sha256": "c1f3af79bbd7333525a69d0efdc0936c8df2f0cf740918932b2b4ede20517e37",
-              "bytes": 29888,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-reading-book.webp",
-              "sha256": "b5675759f86d84794468ed396c3bc7e3b1dd8e7a19158a5b19ff83a94158f77f",
-              "bytes": 67474
-            }
-          }
-        },
-        {
-          "slug": "character-taking-selfie",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-taking-selfie.svg",
-              "sha256": "d75ba261c786baaf6fd7200d3766df6f972c6d1a9fef267c4cb574c694b0d1b8",
-              "bytes": 30301,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-taking-selfie.webp",
-              "sha256": "484cafd3a7fb4a360fb31c4cf22008ac7e80db08334424c8d9b10eb83a58f417",
-              "bytes": 79228
-            }
-          }
-        },
-        {
-          "slug": "character-holding-trophy",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-holding-trophy.svg",
-              "sha256": "a7d8d63f47e6537cbaf751549906b3fbfd0ed84f51de2e441cdd89ca9014422c",
-              "bytes": 20705,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-holding-trophy.webp",
-              "sha256": "dfff1dd1d608bde67d615dc7751a008d253f455dbcd0761c554993a1bf7e6086",
-              "bytes": 35770
-            }
-          }
-        },
-        {
-          "slug": "character-holding-trophy",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-holding-trophy.svg",
-              "sha256": "896450e305f969e78bd141d6f8b408fbfd19933254e89f1dcfd685366179c778",
-              "bytes": 24795,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-holding-trophy.webp",
-              "sha256": "1c521796f9cadbf4ba76559417aa95fa1d01ebf4e88c952dbe41af892988fa20",
-              "bytes": 45362
-            }
-          }
-        },
-        {
-          "slug": "character-looking-binoculars",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-looking-binoculars.svg",
-              "sha256": "bcbf5b019700c9290a3786e1e7f0c34ef448a5ecbe5b07b0fd90846f27ab5aef",
-              "bytes": 23419,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-looking-binoculars.webp",
-              "sha256": "8f85fe38e38276d5495a20726cbb82aceee690ed7f3744ae9e958fe0bbf33d18",
-              "bytes": 47428
-            }
-          }
-        },
-        {
-          "slug": "superhero-cape",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/superhero-cape.svg",
-              "sha256": "734d7f26472fa70b1c59b641a0a01f928067d519851135b79ee198898c3d8b3e",
-              "bytes": 24081,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/superhero-cape.webp",
-              "sha256": "d1d7b6364720e6a55576773e57af7b003fb7e788aeb42717357b842c4c716d77",
-              "bytes": 42870
-            }
-          }
-        },
-        {
-          "slug": "character-holding-key",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-holding-key.svg",
-              "sha256": "777c31c26a109f6253c1260950125e7b0c9b6e4b5965767cce73121de44e52a3",
-              "bytes": 18212,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-holding-key.webp",
-              "sha256": "337d8f2cab81a1227c8b354b412971e2ef05b523a6e5aefdd077c067fa8fb7bc",
-              "bytes": 51712
-            }
-          }
-        },
-        {
-          "slug": "character-holding-magnifying-glass",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-holding-magnifying-glass.svg",
-              "sha256": "0f937b953c529c8e2224d0cfadb6347b76a5aa38d4e862f6cf5ba1ce0abc60e7",
-              "bytes": 25131,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-holding-magnifying-glass.webp",
-              "sha256": "1ddc1e2c259a55cc21a5c9f396f513f74be3d385845f6e64d3c832f2d7b83443",
-              "bytes": 41890
-            }
-          }
-        },
-        {
-          "slug": "character-with-laptop",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-with-laptop.svg",
-              "sha256": "d40eb56dde8ce7bf86534a9b8d0c150394b122d8cbdd69fce4a84e3e9c924756",
-              "bytes": 28837,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-with-laptop.webp",
-              "sha256": "6046ac86006a4f4174602fd02b3717c4890631e5c0119cd724a29e9c70d9ba51",
-              "bytes": 55302
-            }
-          }
-        },
-        {
-          "slug": "character-taking-selfie",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/character-taking-selfie.svg",
-              "sha256": "534de84b38db3f7c9369891658b04ceef5ba9b278dcee117d68dd46e65e70e87",
-              "bytes": 25233,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/character-taking-selfie.webp",
-              "sha256": "e00bb1523ff5640d73c92c9a2a302fe1cf62221bda1a16a91b2d31f0726a74fc",
-              "bytes": 63038
-            }
-          }
-        },
-        {
-          "slug": "two-characters-shaking-hands",
-          "premium": false,
-          "defaultVariant": "svg",
-          "variants": {
-            "svg": {
-              "file": "svg/two-characters-shaking-hands.svg",
-              "sha256": "9d4346b56de20abf2666d3b4f7aec37010e2b574420841a06ebf0fb8fd1518e5",
-              "bytes": 47876,
-              "width": 2048
-            },
-            "webp": {
-              "file": "webp/two-characters-shaking-hands.webp",
-              "sha256": "213fc56b215d3da805e8e9d9534a5a5679e137bd9b9f00c41be1289a96e140da",
-              "bytes": 51514
             }
           }
         }

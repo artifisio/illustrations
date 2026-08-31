@@ -4,48 +4,53 @@
   "description": "Infuse your brand with a sense of genuine connection using these friendly characters that make every interaction feel more personal and inviting. Whether you are designing a landing page or a social media post, these versatile figures help you communicate complex ideas with a warm, human touch. This set is your secret tool for building instant trust and making your audience feel right at home.",
   "tags": [],
   "count": 19,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "simple-people"
+  },
   "palette": [
     {
       "slot": "background",
       "label": "Background",
       "hex": "#F6F6EC",
-      "role": "fixed",
-      "_id": "69dffd1c391606023b5932de"
+      "role": "fixed"
     },
     {
       "slot": "lines",
       "label": "Lines",
       "hex": "#000000",
-      "role": "fixed",
-      "_id": "69dffd1c391606023b5932df"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Coral Red",
       "hex": "#FE6C51",
-      "role": "themeable",
-      "_id": "69dffd1c391606023b5932e0"
+      "role": "themeable"
     },
     {
       "slot": "secondary",
       "label": "Warm Orange",
       "hex": "#F9AC3F",
-      "role": "themeable",
-      "_id": "69dffd1c391606023b5932e1"
+      "role": "themeable"
     },
     {
       "slot": "tertiary",
       "label": "Sage Green",
       "hex": "#99B295",
-      "role": "themeable",
-      "_id": "69dffd1c391606023b5932e2"
+      "role": "themeable"
     },
     {
       "slot": "neutral",
       "label": "Soft Grey",
       "hex": "#C3BCB3",
-      "role": "fixed",
-      "_id": "69dffd1c391606023b5932e3"
+      "role": "fixed"
     }
   ],
   "illustrations": [

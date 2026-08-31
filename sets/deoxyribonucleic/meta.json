@@ -4,6 +4,18 @@
   "description": "You can transform your complex scientific concepts into a story of wonder and human connection with these vibrant scenes of discovery. These illustrations provide the perfect backdrop for your biotech blog or educational materials, making the mysteries of the genetic code feel both accessible and exciting. Witness the power of teamwork as your projects come to life with the glow of a shared breakthrough.",
   "tags": [],
   "count": 36,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "deoxyribonucleic",
+    "model": "gpt-image-2"
+  },
   "hasBackground": false,
   "illustrations": [
     {

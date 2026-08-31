@@ -4,6 +4,17 @@
   "description": "Surround your designs with the haunting mystery and dark elegance of a classic gothic tale. Whether you are crafting atmospheric book covers or moody social media posts, these pieces help you tell stories that feel both deeply poetic and slightly unsettling. You will captivate your audience with a sense of timeless drama that breathes life into your most shadow-filled creative visions.",
   "tags": [],
   "count": 8,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "allanpoe"
+  },
   "illustrations": [
     {
       "slug": "character-reading-book",

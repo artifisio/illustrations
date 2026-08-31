@@ -4,34 +4,41 @@
   "description": "Infuse your next project with a sense of raw, human connection using these expressive figures that capture the beauty of a fleeting moment. These characters add an approachable, heartfelt charm to your designs, making your brand feel instantly more relatable and alive. You can easily transform any digital layout into a warm, storytelling experience that resonates deeply with your audience.",
   "tags": [],
   "count": 20,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "scribble-people"
+  },
   "palette": [
     {
       "slot": "lines",
       "label": "Line Color",
       "hex": "#000000",
-      "role": "fixed",
-      "_id": "69df4f188733bfe3827da786"
+      "role": "fixed"
     },
     {
       "slot": "primary",
       "label": "Accent Yellow",
       "hex": "#FBDC1D",
-      "role": "themeable",
-      "_id": "69df4f188733bfe3827da787"
+      "role": "themeable"
     },
     {
       "slot": "dark-gray",
       "label": "Dark Gray",
       "hex": "#444446",
-      "role": "fixed",
-      "_id": "69df4f188733bfe3827da788"
+      "role": "fixed"
     },
     {
       "slot": "white",
       "label": "White Fill",
       "hex": "#FFFFFF",
-      "role": "fixed",
-      "_id": "69df4f188733bfe3827da789"
+      "role": "fixed"
     }
   ],
   "illustrations": [

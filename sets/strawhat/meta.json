@@ -4,6 +4,17 @@
   "description": "Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory.",
   "tags": [],
   "count": 1,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "strawhat"
+  },
   "illustrations": [
     {
       "slug": "character-taking-selfie",
