@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026.09.07-0901-104a9e3  _(2026-09-07)_
+
+_No structural changes; file content or checksums may have been updated._
+
+---
+
 ## 2026.08.31-1038-63b355c  _(2026-08-31)_
 
 ### Changed
