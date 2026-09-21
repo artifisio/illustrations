@@ -120,7 +120,7 @@ https://cdn.jsdelivr.net/gh/artifisio/illustrations@<version>/sets/<slug>/svg/<i
 Pin to a specific registry version for reproducible builds:
 
 ```
-https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.09.14-0939-104a9e3/sets/<slug>/svg/<illustration>.svg
+https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.09.21-0942-104a9e3/sets/<slug>/svg/<illustration>.svg
 ```
 
 ---
@@ -178,7 +178,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 | Field | Value |
 | --- | --- |
-| Registry version | `2026.09.14-0939-104a9e3` |
+| Registry version | `2026.09.21-0942-104a9e3` |
 | CLI | [`artifisio`](https://www.npmjs.com/package/artifisio) |
 | License | [CC BY 4.0](LICENSE) |
 | Other kinds | [`index.json`](index.json) lists every per-kind registry (fonts, icons) |
