@@ -107,18 +107,18 @@
       }
     },
     {
-      "slug": "girl-taking-selfie",
+      "slug": "girl-taking-selfie-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/girl-taking-selfie.svg",
+          "file": "svg/girl-taking-selfie-2.svg",
           "sha256": "649447699e4a6182a1bf4d55700ae9b77df00b9218e99bf5dcbfe762e4013601",
           "bytes": 22035,
           "width": 2048
         },
         "webp": {
-          "file": "webp/girl-taking-selfie.webp",
+          "file": "webp/girl-taking-selfie-2.webp",
           "sha256": "f4449bdde417c0fc180aca91462d9560a2d62cc985d1fe882a4f04cd5b60ce95",
           "bytes": 48150
         }

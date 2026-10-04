@@ -295,19 +295,19 @@
       }
     },
     {
-      "slug": "yoga-lake",
+      "slug": "lakeside-yoga",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/yoga-lake.svg",
+          "file": "svg/lakeside-yoga.svg",
           "sha256": "ab052581ffa7fb4d3e4b327d02481991023f0f7952a644539eb0c7151fe67241",
           "bytes": 29081,
           "width": 2048,
           "cssVarSha256": "14e8ec1d18dd31ba5d25b208cca3d27f5fbad7ab1fbd954e86efd95d03e4c888"
         },
         "webp": {
-          "file": "webp/yoga-lake.webp",
+          "file": "webp/lakeside-yoga.webp",
           "sha256": "77b33d2b68d9b40d8cf2c6edde78fb6c3418e15441baffcd5bd01bab233b9d2b",
           "bytes": 36920
         }
@@ -371,19 +371,19 @@
       }
     },
     {
-      "slug": "practicing-yoga",
+      "slug": "yoga-by-water",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/practicing-yoga.svg",
+          "file": "svg/yoga-by-water.svg",
           "sha256": "58b1702ce2f1cac5a7f43fe8f52f5c6e84d6ba7d759dfbe683d5c287a047cc66",
           "bytes": 40286,
           "width": 2048,
           "cssVarSha256": "5740d488e6cc2b885ac93ef0d6c587e04c54d754a1beb91a2240734d4d5076c7"
         },
         "webp": {
-          "file": "webp/practicing-yoga.webp",
+          "file": "webp/yoga-by-water.webp",
           "sha256": "88e74e163d149ddc5331db7cda7e8a41e5064e9265062e0fd3f9a068c595edd0",
           "bytes": 37594
         }

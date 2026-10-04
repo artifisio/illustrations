@@ -233,38 +233,38 @@
       }
     },
     {
-      "slug": "bouncing-glass-bottle",
+      "slug": "bouncing-bottle",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/bouncing-glass-bottle.svg",
+          "file": "svg/bouncing-bottle.svg",
           "sha256": "1e6a1fb8ad614a81f9eeb114981026e71ef3c8007d9df0751681e651c4b0bf73",
           "bytes": 29460,
           "width": 2048,
           "cssVarSha256": "612ee15a72e3b0961a212f88e934d9ce5d4d737b226a47d1cce26c40e3ea500e"
         },
         "webp": {
-          "file": "webp/bouncing-glass-bottle.webp",
+          "file": "webp/bouncing-bottle.webp",
           "sha256": "014894bdeb64c00d18206c8c6dc80b8d31dd207e836ce8ce4cbb397851c32a95",
           "bytes": 25186
         }
       }
     },
     {
-      "slug": "drawing-bottle-archery",
+      "slug": "archery",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/drawing-bottle-archery.svg",
+          "file": "svg/archery.svg",
           "sha256": "a1dfedc9632bf0a63a6c8026128aa99ed1cbacc499a13487073edf6c485d8489",
           "bytes": 53069,
           "width": 2048,
           "cssVarSha256": "0680d8339376d3f5a0bc42ad6690741427e1941de5fda73807da72a9acdaaa4f"
         },
         "webp": {
-          "file": "webp/drawing-bottle-archery.webp",
+          "file": "webp/archery.webp",
           "sha256": "85f32157e22ebe49d347ed7bdd17070f7ae5bad3a54321f86fff68bcb71f7c4c",
           "bytes": 31420
         }
@@ -309,38 +309,38 @@
       }
     },
     {
-      "slug": "balancing-glass-bottle",
+      "slug": "balancing-bottle",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/balancing-glass-bottle.svg",
+          "file": "svg/balancing-bottle.svg",
           "sha256": "c132fbaa72b5c73b0a3812a5a4473c6e471b735831d3178b1528da19458d2c80",
           "bytes": 23118,
           "width": 2048,
           "cssVarSha256": "6ff67516c68b08ea414e555a52d534a3db53594a3b273b5b5173981fceb43bd2"
         },
         "webp": {
-          "file": "webp/balancing-glass-bottle.webp",
+          "file": "webp/balancing-bottle.webp",
           "sha256": "3cdf84c1a33b6404840146b30ece332905c8bff9f4dfba99b04e1eafa5700299",
           "bytes": 21200
         }
       }
     },
     {
-      "slug": "bottle-dunk",
+      "slug": "dunking",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/bottle-dunk.svg",
+          "file": "svg/dunking.svg",
           "sha256": "319b993e0c4afee14e0b1ba2b545a1fc11c47b640a1f5b9ecf50f3314a347e8a",
           "bytes": 50876,
           "width": 2048,
           "cssVarSha256": "4f7770710a20466bda0e358a93bffce38d76ef2f9cbb78825bc6ea11d7ec8797"
         },
         "webp": {
-          "file": "webp/bottle-dunk.webp",
+          "file": "webp/dunking.webp",
           "sha256": "734d9acd36d7f0a58e557a7f599213c9a9d024c7525dc93b286d8e347179e2a1",
           "bytes": 31906
         }
@@ -499,19 +499,19 @@
       }
     },
     {
-      "slug": "meditating-bottle",
+      "slug": "meditation",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/meditating-bottle.svg",
+          "file": "svg/meditation.svg",
           "sha256": "963ecbaff751d279002de49379755adf51769bafebd4ed90128197b400922a24",
           "bytes": 113949,
           "width": 2048,
           "cssVarSha256": "0ffb52daacdd096f7b78020f4c59c0fe6bcf9a8576a5f7c960bc93b16da67730"
         },
         "webp": {
-          "file": "webp/meditating-bottle.webp",
+          "file": "webp/meditation.webp",
           "sha256": "5e7079cb5d40b3a29b1934eb52acf5a9ab8c5694ac1c451512aec539283b85be",
           "bytes": 15314
         }
@@ -556,19 +556,19 @@
       }
     },
     {
-      "slug": "bottle-bike-orange-wheels",
+      "slug": "bike-orange-wheels",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/bottle-bike-orange-wheels.svg",
+          "file": "svg/bike-orange-wheels.svg",
           "sha256": "19945e8d13114faf66b431270da2cb6db4f487b9ff8c2b99a749dfe92253443e",
           "bytes": 192291,
           "width": 2048,
           "cssVarSha256": "80953d5512a3b98c6674a24cc090e2a821568c8636b84f62708c81936e8dbd1f"
         },
         "webp": {
-          "file": "webp/bottle-bike-orange-wheels.webp",
+          "file": "webp/bike-orange-wheels.webp",
           "sha256": "113c61ec85343759fa7529845f7a2ee7c20408ab327f6f4e4a18408b69ab2f35",
           "bytes": 22534
         }

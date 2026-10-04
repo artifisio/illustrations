@@ -19,306 +19,306 @@
   "hasBackground": false,
   "illustrations": [
     {
-      "slug": "a-green-credit-card",
+      "slug": "sustainable-finance",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-green-credit-card.svg",
+          "file": "svg/sustainable-finance.svg",
           "sha256": "a27331ca0d1a2c387851b43e90897a31abce1dadda09388d91ce7d565be0dc04",
           "bytes": 11673,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-green-credit-card.webp",
+          "file": "webp/sustainable-finance.webp",
           "sha256": "fd7fd3bd034725bcfe024b6b40cff37a6289ac4ff62116d498a585983a248a5c",
           "bytes": 169984
         }
       }
     },
     {
-      "slug": "a-blue-wallet-with",
+      "slug": "greener-future-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-blue-wallet-with.svg",
+          "file": "svg/greener-future-2.svg",
           "sha256": "b4997f75af334410ba46413c1e8bf03ebf476e157e15504f085191f0eec38893",
           "bytes": 26311,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-blue-wallet-with.webp",
+          "file": "webp/greener-future-2.webp",
           "sha256": "1b597b2913418d73dff1b045d0eb0256944064f627d151f17b49e641cacfcb97",
           "bytes": 145402
         }
       }
     },
     {
-      "slug": "a-small-plant-growing",
+      "slug": "urban-gardening-11",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-small-plant-growing.svg",
+          "file": "svg/urban-gardening-11.svg",
           "sha256": "5599e2b79c88992063a2cbbb1ecb2f3a117ec01bd048c549755c57e4c3c017cf",
           "bytes": 20038,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-small-plant-growing.webp",
+          "file": "webp/urban-gardening-11.webp",
           "sha256": "92a34e907dae2d4e9eba3d54a0c9cd9588cc6b925f93d14a941dbd9d362b528c",
           "bytes": 143720
         }
       }
     },
     {
-      "slug": "an-approved-document",
+      "slug": "sustainable-urban-farming-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/an-approved-document.svg",
+          "file": "svg/sustainable-urban-farming-2.svg",
           "sha256": "117694d9726b7274a0fc08b7c54a8449dc48149cb1d6856388115038986357fb",
           "bytes": 9920,
           "width": 2048
         },
         "webp": {
-          "file": "webp/an-approved-document.webp",
+          "file": "webp/sustainable-urban-farming-2.webp",
           "sha256": "32b5681bc33988acdb9ee22b9e7205bb83f172d3f88782a2bf7f36b54613b2ee",
           "bytes": 127772
         }
       }
     },
     {
-      "slug": "a-fingerprint-padlock",
+      "slug": "sustainable-urban-farming",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-fingerprint-padlock.svg",
+          "file": "svg/sustainable-urban-farming.svg",
           "sha256": "e86771f01a6b1f5029fd09d17d00de8befc9388466afe07a00eae6020a086a1d",
           "bytes": 11872,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-fingerprint-padlock.webp",
+          "file": "webp/sustainable-urban-farming.webp",
           "sha256": "bbd85a77d9314b3993e90dcfee60202987d65de63c7612e0cea01af30d7526fe",
           "bytes": 113862
         }
       }
     },
     {
-      "slug": "a-hand-pointing-at",
+      "slug": "sustainable-growth",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-hand-pointing-at.svg",
+          "file": "svg/sustainable-growth.svg",
           "sha256": "4c84e08410d942ff320469ab32143f0165446e4c862f3aef29e49a174d5269cd",
           "bytes": 17396,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-hand-pointing-at.webp",
+          "file": "webp/sustainable-growth.webp",
           "sha256": "49c016546d63e1e64b158ab318c294fe5222bdc1e452834bacd030d026268740",
           "bytes": 136590
         }
       }
     },
     {
-      "slug": "a-bitcoin-coin",
+      "slug": "greener-future",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-bitcoin-coin.svg",
+          "file": "svg/greener-future.svg",
           "sha256": "80924f3ae4dc8bafad88b2e876b758ae2381d18c5b2e68a1566753ae8baaf79f",
           "bytes": 35569,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-bitcoin-coin.webp",
+          "file": "webp/greener-future.webp",
           "sha256": "49c1ac2d4903830096f651c7df40bcfccb6f5b3ca315e81541f4c72c998f5a39",
           "bytes": 207254
         }
       }
     },
     {
-      "slug": "a-brown-piggy-bank",
+      "slug": "urban-gardening-10",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-brown-piggy-bank.svg",
+          "file": "svg/urban-gardening-10.svg",
           "sha256": "0b5cc8811841c832a9b5670d30d4bfaef22b04813258fcb84703a833eb1d4aeb",
           "bytes": 21951,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-brown-piggy-bank.webp",
+          "file": "webp/urban-gardening-10.webp",
           "sha256": "7eec1000f9ed06fac128c4ce5bece93ee73fda16e478b3539d81bcc78a37e0d0",
           "bytes": 151714
         }
       }
     },
     {
-      "slug": "a-hand-holding-a",
+      "slug": "urban-gardening-9",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-hand-holding-a.svg",
+          "file": "svg/urban-gardening-9.svg",
           "sha256": "a9b758c4e1dd5be177ea3f0af7644261e1441953cb8dc24ec926f1907ddf3d67",
           "bytes": 24566,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-hand-holding-a.webp",
+          "file": "webp/urban-gardening-9.webp",
           "sha256": "3ba82b0e7adac3115e1386493cdd3886f4e9e45f8625709dad9f82ccae3b9d02",
           "bytes": 120504
         }
       }
     },
     {
-      "slug": "a-circuit-board-padlock",
+      "slug": "sustainable-security",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-circuit-board-padlock.svg",
+          "file": "svg/sustainable-security.svg",
           "sha256": "75a691546e5df9a2d846ec465e697fc85e2e76b426c8b37b39a272e01e9f80c0",
           "bytes": 40728,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-circuit-board-padlock.webp",
+          "file": "webp/sustainable-security.webp",
           "sha256": "4fa4b6b1fe251061acb28f468a486ebbca7510dad5907e14403eebbe5bc229fb",
           "bytes": 161564
         }
       }
     },
     {
-      "slug": "a-smiling-chatbot-icon",
+      "slug": "urban-gardening-8",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-smiling-chatbot-icon.svg",
+          "file": "svg/urban-gardening-8.svg",
           "sha256": "e3820439b8e5d0ffc9d980503649b59c75a70e4546bb244c69ce736c6ec30a70",
           "bytes": 9915,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-smiling-chatbot-icon.webp",
+          "file": "webp/urban-gardening-8.webp",
           "sha256": "63f92887f0c9265a176cd264faccc7e95d024ec15f3c7068e31918df00b170e7",
           "bytes": 107290
         }
       }
     },
     {
-      "slug": "a-round-robot-head",
+      "slug": "urban-gardening-7",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-round-robot-head.svg",
+          "file": "svg/urban-gardening-7.svg",
           "sha256": "5ca0b75b34d9df20cb21421a1e190bddb4ac000e5eb8b9a40fb39210669214e2",
           "bytes": 16646,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-round-robot-head.webp",
+          "file": "webp/urban-gardening-7.webp",
           "sha256": "0ffba6da3893f9df7b85454960032505b2fd1c771bdbe2c8307acad15f8f69b5",
           "bytes": 146290
         }
       }
     },
     {
-      "slug": "a-robotic-arm-with",
+      "slug": "urban-gardening-6",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-robotic-arm-with.svg",
+          "file": "svg/urban-gardening-6.svg",
           "sha256": "841c8ef00a970b19188dba2fbf187e4059445fdb2f6d8a7d559860a8291adc9b",
           "bytes": 37022,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-robotic-arm-with.webp",
+          "file": "webp/urban-gardening-6.webp",
           "sha256": "5b55d30cc8bd3368044016ed67bad0edcffd67d8beb27e905fa26879d30c0d85",
           "bytes": 168004
         }
       }
     },
     {
-      "slug": "a-magnifying-glass-over",
+      "slug": "urban-farming-5",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-magnifying-glass-over.svg",
+          "file": "svg/urban-farming-5.svg",
           "sha256": "882c8ad118d3d75e39db94820c678eadaa761d42b66bd50d9e5198c36199dbdc",
           "bytes": 23974,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-magnifying-glass-over.webp",
+          "file": "webp/urban-farming-5.webp",
           "sha256": "7087cc12fcbcb0b065e9b09640c501afea05b6a01fc5975216b19a0f8ff7cb70",
           "bytes": 132126
         }
       }
     },
     {
-      "slug": "a-cloud-upload-icon",
+      "slug": "cloud-upload",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-cloud-upload-icon.svg",
+          "file": "svg/cloud-upload.svg",
           "sha256": "1f0df9875e5c34154425f261f540b548b499a125cb724b91f0d9dc9b2694afbb",
           "bytes": 20270,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-cloud-upload-icon.webp",
+          "file": "webp/cloud-upload.webp",
           "sha256": "cba8e257c7232901528e09d8f25e12426dc977c1aa64f5ee6535328099871911",
           "bytes": 126542
         }
       }
     },
     {
-      "slug": "a-stylized-rocket-ship",
+      "slug": "rocketship",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-stylized-rocket-ship.svg",
+          "file": "svg/rocketship.svg",
           "sha256": "8e45680723e1f42a7eeef8d680d6710d879a37425e591c6a01720a7fef18edea",
           "bytes": 17290,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-stylized-rocket-ship.webp",
+          "file": "webp/rocketship.webp",
           "sha256": "afe8ef0a11037b9504c044533faa8dbec1546856e066b124dcc6ac7a6a62edd7",
           "bytes": 102390
         }
       }
     },
     {
-      "slug": "a-small-beetle",
+      "slug": "urban-gardening-5",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-small-beetle.svg",
+          "file": "svg/urban-gardening-5.svg",
           "sha256": "1ef9cadc72e5dc1ec587606f452c03c37c4af046f86993243a5e8080f6ecf503",
           "bytes": 28757,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-small-beetle.webp",
+          "file": "webp/urban-gardening-5.webp",
           "sha256": "62a8dba3db1ba4b1bbcb49a01570e499e65a2d94f89ccb970a612a7edda1eb1b",
           "bytes": 150098
         }
@@ -343,162 +343,162 @@
       }
     },
     {
-      "slug": "a-solar-panel-technician",
+      "slug": "installing-solar-panels",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-solar-panel-technician.svg",
+          "file": "svg/installing-solar-panels.svg",
           "sha256": "72f42b944a62d2afccf96e2f6a6d4777a3d3429c84697ba820093c734409a140",
           "bytes": 36307,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-solar-panel-technician.webp",
+          "file": "webp/installing-solar-panels.webp",
           "sha256": "6b057a32182cb41be4a9d1b413dba4de188f42fd6518cd574ab11953c9614da2",
           "bytes": 167570
         }
       }
     },
     {
-      "slug": "a-carrier-pigeon",
+      "slug": "urban-gardening-4",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-carrier-pigeon.svg",
+          "file": "svg/urban-gardening-4.svg",
           "sha256": "1455a197a3eda2c529417a36ea755bd59461939a8a2d6f20c0f3077be7bd9845",
           "bytes": 29610,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-carrier-pigeon.webp",
+          "file": "webp/urban-gardening-4.webp",
           "sha256": "1918420cf2bdd272a495fd3055dd63f1ddc19675901e7e037fcd91b1ba8a5b38",
           "bytes": 171404
         }
       }
     },
     {
-      "slug": "a-man-holding-a",
+      "slug": "urban-farming-4",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-man-holding-a.svg",
+          "file": "svg/urban-farming-4.svg",
           "sha256": "08c90e88641b019740fdadb21e0c44f9c0081b6cc1cccc3cbf9fbe1d7a3efbf1",
           "bytes": 54323,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-man-holding-a.webp",
+          "file": "webp/urban-farming-4.webp",
           "sha256": "3d7c97dc45f6b7051411fcc45042b1612f2cc7366acf77fc77dd2e38947512ed",
           "bytes": 166280
         }
       }
     },
     {
-      "slug": "a-man-looking-through",
+      "slug": "urban-gardening-3",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-man-looking-through.svg",
+          "file": "svg/urban-gardening-3.svg",
           "sha256": "94ecec61a82eaae65a5886abe74fec1cff2bb0c45166f5f851a6cf236098387b",
           "bytes": 40727,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-man-looking-through.webp",
+          "file": "webp/urban-gardening-3.webp",
           "sha256": "a6d3cb5f0ff913073acf0684e337b492251d33f0396d156faf7240c93375a97f",
           "bytes": 168344
         }
       }
     },
     {
-      "slug": "a-man-on-a",
+      "slug": "urban-farming-3",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-man-on-a.svg",
+          "file": "svg/urban-farming-3.svg",
           "sha256": "bbfb08d8d0cf90f24c4e849706a17b58c22c13d756954329ea3f8c680e19b902",
           "bytes": 122625,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-man-on-a.webp",
+          "file": "webp/urban-farming-3.webp",
           "sha256": "3ab77a09062e6f8f8694fc7e11ca80580ce4f0f4ecda40a7b31411ef3afee63e",
           "bytes": 278112
         }
       }
     },
     {
-      "slug": "a-woman-in-blue",
+      "slug": "urban-farming-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-woman-in-blue.svg",
+          "file": "svg/urban-farming-2.svg",
           "sha256": "2171558b3487e4085924baf0964c5d6b9f98a76a8e34884bda4a665ab6209daf",
           "bytes": 58901,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-woman-in-blue.webp",
+          "file": "webp/urban-farming-2.webp",
           "sha256": "6c41ef3b42d7d461cd4130704207ee21e7a01f575b7ae49e577424d4e830c640",
           "bytes": 163704
         }
       }
     },
     {
-      "slug": "a-man-with-a",
+      "slug": "urban-farming",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-man-with-a.svg",
+          "file": "svg/urban-farming.svg",
           "sha256": "eb61944301236ae88cf98d2fb26ada9bf8b64fff34c739a5968dd1768adf7cf1",
           "bytes": 34646,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-man-with-a.webp",
+          "file": "webp/urban-farming.webp",
           "sha256": "5d0c99e22f24b62158fa88321ba42dc6311eaa677deec26bde85d3a8c9fefa47",
           "bytes": 175692
         }
       }
     },
     {
-      "slug": "a-broken-wooden-watering",
+      "slug": "urban-planting",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-broken-wooden-watering.svg",
+          "file": "svg/urban-planting.svg",
           "sha256": "9157cbe07584c247250868e9917afea940bfb16f0008f5ac891ebbee183a7fef",
           "bytes": 27768,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-broken-wooden-watering.webp",
+          "file": "webp/urban-planting.webp",
           "sha256": "2209c098534713ff76396c65e1ba0cc27a233be90ee91d2b4f66eda0b3f6cc7a",
           "bytes": 183338
         }
       }
     },
     {
-      "slug": "a-gardener",
+      "slug": "urban-gardening-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-gardener.svg",
+          "file": "svg/urban-gardening-2.svg",
           "sha256": "93a0343945bf0c3759906adf34bb38fae7ee4bdd5aab88272887b4abbb1486a5",
           "bytes": 49649,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-gardener.webp",
+          "file": "webp/urban-gardening-2.webp",
           "sha256": "e0a159015444849cf2ef0d008c7981115d377039a668f337f12558ee51acdcaa",
           "bytes": 173898
         }
@@ -541,18 +541,18 @@
       }
     },
     {
-      "slug": "garden-beds-water",
+      "slug": "watered-garden-beds",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/garden-beds-water.svg",
+          "file": "svg/watered-garden-beds.svg",
           "sha256": "460a1fc2fbf766d2556932b56056e5392de9245b2fdb13d782be06de741a94ae",
           "bytes": 45225,
           "width": 2048
         },
         "webp": {
-          "file": "webp/garden-beds-water.webp",
+          "file": "webp/watered-garden-beds.webp",
           "sha256": "020ea4a035edf761cd437b650f7f151668b7ce4ac8796895a0f79aa7d70eaec4",
           "bytes": 251260
         }
@@ -631,18 +631,18 @@
       }
     },
     {
-      "slug": "rooftop-garden",
+      "slug": "urban-gardening",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/rooftop-garden.svg",
+          "file": "svg/urban-gardening.svg",
           "sha256": "484b566814222d51c0427414a8eafea54a687b24ed4d19efce3509b078e1aa78",
           "bytes": 67964,
           "width": 2048
         },
         "webp": {
-          "file": "webp/rooftop-garden.webp",
+          "file": "webp/urban-gardening.webp",
           "sha256": "2caf34439556286cd02fa9edc46d6e875e2160c756bf7512f469473ab74b0904",
           "bytes": 289284
         }

@@ -19,486 +19,486 @@
   "hasBackground": false,
   "illustrations": [
     {
-      "slug": "a-digital-tree-held",
+      "slug": "nurturing-life-7",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-digital-tree-held.svg",
+          "file": "svg/nurturing-life-7.svg",
           "sha256": "6792abf8765ba6e1ce23dfead177506aa023cb074cbda33e4538f48d698b4386",
           "bytes": 67825,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-digital-tree-held.webp",
+          "file": "webp/nurturing-life-7.webp",
           "sha256": "1862f853a502962c25bac312ab83e0f86a8ae52bb45b03c4065be6707dbcc33e",
           "bytes": 173520
         }
       }
     },
     {
-      "slug": "a-digital-credit-card",
+      "slug": "digital-credit",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-digital-credit-card.svg",
+          "file": "svg/digital-credit.svg",
           "sha256": "56d105df5a01d46b2ff05386f5cbb05c03538c991ba73a36d8d469e539e493e4",
           "bytes": 88979,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-digital-credit-card.webp",
+          "file": "webp/digital-credit.webp",
           "sha256": "a2d754ba7d8b9aa1ed3af139efa45b3777775f31ddbec08c0268d84fc5d1aca1",
           "bytes": 202192
         }
       }
     },
     {
-      "slug": "a-paid-invoice-scroll",
+      "slug": "invoice-scroll",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-paid-invoice-scroll.svg",
+          "file": "svg/invoice-scroll.svg",
           "sha256": "91e9059ac8b2fdb4b16e3f6a6a380b769de4d97c0fbe9b20f4fd7ca294b1549d",
           "bytes": 26885,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-paid-invoice-scroll.webp",
+          "file": "webp/invoice-scroll.webp",
           "sha256": "bc27d5b0524de7967493dd5ed2e7ed9c5e6a4f24b77f2053e745d778d96b0dad",
           "bytes": 151988
         }
       }
     },
     {
-      "slug": "a-colorful-bar-graph",
+      "slug": "visualization",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-colorful-bar-graph.svg",
+          "file": "svg/visualization.svg",
           "sha256": "c7b3eb480cbad7c9fd0a10d530f99bd3f64acf76b63f126dd6abf76e442d4ba0",
           "bytes": 59801,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-colorful-bar-graph.webp",
+          "file": "webp/visualization.webp",
           "sha256": "f737da59138ab3f601aefba39599126118e0cbc18d88125436038111a9ae49dd",
           "bytes": 199332
         }
       }
     },
     {
-      "slug": "a-futuristic-digital-padlock",
+      "slug": "futuristic-digital-guard",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-futuristic-digital-padlock.svg",
+          "file": "svg/futuristic-digital-guard.svg",
           "sha256": "8db92c65072aedc07a7e7a38f4f3bc244d096542fa66c1a0a2a3874981b08f1f",
           "bytes": 68609,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-futuristic-digital-padlock.webp",
+          "file": "webp/futuristic-digital-guard.webp",
           "sha256": "6ce426a636c551c250813dfbb2a9ec6546827ae7d2ec52454d042c786f761746",
           "bytes": 250212
         }
       }
     },
     {
-      "slug": "a-green-pixelated-dollar",
+      "slug": "pixelated-dollar",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-green-pixelated-dollar.svg",
+          "file": "svg/pixelated-dollar.svg",
           "sha256": "1102154a49ec1b4425fb88464ace470be9dbd9c50b37765a44f1fde48727ee72",
           "bytes": 46530,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-green-pixelated-dollar.webp",
+          "file": "webp/pixelated-dollar.webp",
           "sha256": "78072f17a1f44953444a4582bbe06ad3ee52d3cd8c0ac67dc567d2f80db79429",
           "bytes": 211102
         }
       }
     },
     {
-      "slug": "a-futuristic-circular-hatch",
+      "slug": "futuristic-hatch",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-futuristic-circular-hatch.svg",
+          "file": "svg/futuristic-hatch.svg",
           "sha256": "2ac36f4eb9e12401822b2d40f5f5ea96f1bfb877ebfcce6319b92656f310cacf",
           "bytes": 55012,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-futuristic-circular-hatch.webp",
+          "file": "webp/futuristic-hatch.webp",
           "sha256": "d4e6d864a028dd795b8df69347069259ae7ac7790f35de6911741919df05b777",
           "bytes": 274520
         }
       }
     },
     {
-      "slug": "a-crystalline-piggy-bank",
+      "slug": "nurturing-life-6",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-crystalline-piggy-bank.svg",
+          "file": "svg/nurturing-life-6.svg",
           "sha256": "efeccbff7d6ae304994f48188b0fa7340db2301859219b64f67b4aa95c9ff11c",
           "bytes": 219539,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-crystalline-piggy-bank.webp",
+          "file": "webp/nurturing-life-6.webp",
           "sha256": "8e56e292f6b9b6a2429268661ad25667ae9205225592ca0c9bce9f4f720d9917",
           "bytes": 235282
         }
       }
     },
     {
-      "slug": "a-contactless-payment",
+      "slug": "payment-void",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-contactless-payment.svg",
+          "file": "svg/payment-void.svg",
           "sha256": "ea433e4972c15eedf84bebe7ebbe86929970beaa19d26ffa2794f006b85933dc",
           "bytes": 31941,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-contactless-payment.webp",
+          "file": "webp/payment-void.webp",
           "sha256": "159cb583ceaca51238410497984b240a26a93143375b31fef954b2e375908ea6",
           "bytes": 203116
         }
       }
     },
     {
-      "slug": "a-digital-padlock",
+      "slug": "futuristic-lock",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-digital-padlock.svg",
+          "file": "svg/futuristic-lock.svg",
           "sha256": "0c2edf1a7de2beeda27701cd374999ed0a4e4bda5e01339f77fc332ffe54fa99",
           "bytes": 115053,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-digital-padlock.webp",
+          "file": "webp/futuristic-lock.webp",
           "sha256": "0df25dd3e87146dd26b44420d64af1af679acd4936d6093215f626d0b8939fd1",
           "bytes": 280450
         }
       }
     },
     {
-      "slug": "a-coding-astronaut",
+      "slug": "nurturing-space-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-coding-astronaut.svg",
+          "file": "svg/nurturing-space-2.svg",
           "sha256": "dc958663d85d9676c154cf6d3f4b23496c38d374cfed058067d5f679b1bf2cb9",
           "bytes": 67135,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-coding-astronaut.webp",
+          "file": "webp/nurturing-space-2.webp",
           "sha256": "b95421bb5c88c3d99eb63d2a568f90a10bda42bd80b1df763dd339c4d86c3ad4",
           "bytes": 215352
         }
       }
     },
     {
-      "slug": "a-futuristic-robot-head",
+      "slug": "futuristic-robot",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-futuristic-robot-head.svg",
+          "file": "svg/futuristic-robot.svg",
           "sha256": "3b3286efcc3c48c4b2427544a625d195e11022867fac848971861e5658ceac57",
           "bytes": 55916,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-futuristic-robot-head.webp",
+          "file": "webp/futuristic-robot.webp",
           "sha256": "c7b18db35c35eb526bbdf14cb7692632b2cbbe3b4f76d0888ef770b63ead5e71",
           "bytes": 203448
         }
       }
     },
     {
-      "slug": "a-robotic-arm-2",
+      "slug": "robotic-arm",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-robotic-arm-2.svg",
+          "file": "svg/robotic-arm.svg",
           "sha256": "f18eed5bf5267b1dac29790a371c7c0b601c851fc1b9dc60af4ed4ee47bcedcc",
           "bytes": 109751,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-robotic-arm-2.webp",
+          "file": "webp/robotic-arm.webp",
           "sha256": "0197b269350f1e2eb40c621d99b6c2e9b561229a007a020161410f438c683a53",
           "bytes": 272366
         }
       }
     },
     {
-      "slug": "a-cartoon-astronaut-3",
+      "slug": "nurturing-life-5",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-cartoon-astronaut-3.svg",
+          "file": "svg/nurturing-life-5.svg",
           "sha256": "31c0c02eafb675247ff0bbb8f53f83f5f09fcc6849f5b479d1e5ccc7ee70374d",
           "bytes": 57465,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-cartoon-astronaut-3.webp",
+          "file": "webp/nurturing-life-5.webp",
           "sha256": "21420c07a989cdca1f27f7b3cf59fd1d147fbaeb456eccac7b5feacdc0fdc07b",
           "bytes": 190768
         }
       }
     },
     {
-      "slug": "a-geometric-cloud-with",
+      "slug": "geometric-cloud",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-geometric-cloud-with.svg",
+          "file": "svg/geometric-cloud.svg",
           "sha256": "51b05b522e9a83feac74d06e518b5a85328dc01cd6b2977e870b3d4faaa97480",
           "bytes": 101234,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-geometric-cloud-with.webp",
+          "file": "webp/geometric-cloud.webp",
           "sha256": "cc8554f1a4126950a23265b35cf92d8d06472678fba11ab2f92e24252fc9fe5a",
           "bytes": 257468
         }
       }
     },
     {
-      "slug": "a-stylized-rocket-ship",
+      "slug": "nurturing-space",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-stylized-rocket-ship.svg",
+          "file": "svg/nurturing-space.svg",
           "sha256": "3480cfd05c7efd64c1ec7911a1135f3b59d0ac7da98a6e04d60f7580e97f04b7",
           "bytes": 37617,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-stylized-rocket-ship.webp",
+          "file": "webp/nurturing-space.webp",
           "sha256": "aaf10a4964d4d34fc25050763d4eaf8c90a5089c8d7ccce225555c376b9aa23b",
           "bytes": 131538
         }
       }
     },
     {
-      "slug": "a-robotic-hand",
+      "slug": "nurturing-life-4",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-robotic-hand.svg",
+          "file": "svg/nurturing-life-4.svg",
           "sha256": "fd05ac9e6866ead78f005d518615d7ad85461479744f8b7b4adb467e8307f8cf",
           "bytes": 93905,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-robotic-hand.webp",
+          "file": "webp/nurturing-life-4.webp",
           "sha256": "f4e9988a88cb7b20e7bb9ebb4c75545cbabff32440d7d40d8819e22d0ca4ae0c",
           "bytes": 248178
         }
       }
     },
     {
-      "slug": "a-futuristic-astronaut",
+      "slug": "nurturing-life-3",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-futuristic-astronaut.svg",
+          "file": "svg/nurturing-life-3.svg",
           "sha256": "d65acd1389d472716d824dcde70d7461a99a56e86d2b6943d8328292d33a54e0",
           "bytes": 103272,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-futuristic-astronaut.webp",
+          "file": "webp/nurturing-life-3.webp",
           "sha256": "82a30aed9a8254f055180b97d3ad205710301bd4bb128f18dccffb49e7d6930a",
           "bytes": 268814
         }
       }
     },
     {
-      "slug": "a-robotic-arm",
+      "slug": "nurturing-void",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-robotic-arm.svg",
+          "file": "svg/nurturing-void.svg",
           "sha256": "adbe49fc056b70756b1b0e57ae554948e187f3eb2c63c2ee1510a5f7e37d8feb",
           "bytes": 92907,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-robotic-arm.webp",
+          "file": "webp/nurturing-void.webp",
           "sha256": "2aa8244f949580d85ede162189ad37ad6983f7319b087db6d27efe39e3dcaf67",
           "bytes": 251172
         }
       }
     },
     {
-      "slug": "a-digital-paper-airplane",
+      "slug": "flying-paper-plane",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-digital-paper-airplane.svg",
+          "file": "svg/flying-paper-plane.svg",
           "sha256": "a67bddc2a66ab5acd99f684b633f0d85ace7ddb822fce5543ff672552a2a5a80",
           "bytes": 57472,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-digital-paper-airplane.webp",
+          "file": "webp/flying-paper-plane.webp",
           "sha256": "97362deb2f4a09eb28a2dc79c4e28eee3de4949d5e8c9f66101c37b44f978abe",
           "bytes": 191456
         }
       }
     },
     {
-      "slug": "a-digital-lock-and",
+      "slug": "nurturing-life-2",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-digital-lock-and.svg",
+          "file": "svg/nurturing-life-2.svg",
           "sha256": "846d10faf505c56390b9b94603cfede8ceb398f43d2d93d34f5b7e44bc060b83",
           "bytes": 45584,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-digital-lock-and.webp",
+          "file": "webp/nurturing-life-2.webp",
           "sha256": "c8f2786e4b95e9ffaa8c77a4406922cde434fff8c99241f25d69a2a2e72a500b",
           "bytes": 196012
         }
       }
     },
     {
-      "slug": "a-cartoon-astronaut-2",
+      "slug": "nurturing-life-void",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-cartoon-astronaut-2.svg",
+          "file": "svg/nurturing-life-void.svg",
           "sha256": "86ac95030bb6550b9a0649b4a943b8a3f50db81fd96d4de1d4cd7d1f1a79791c",
           "bytes": 37957,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-cartoon-astronaut-2.webp",
+          "file": "webp/nurturing-life-void.webp",
           "sha256": "2422756bd4fff54893e638f8ea43d945937055737753d945aad2a3865ab0f28f",
           "bytes": 204182
         }
       }
     },
     {
-      "slug": "a-futuristic-machine-core",
+      "slug": "futuristic-core",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-futuristic-machine-core.svg",
+          "file": "svg/futuristic-core.svg",
           "sha256": "abd17d241934f81ea211b30188942e306c5a05ab63e7ee072aa9cb0d8ace313a",
           "bytes": 60762,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-futuristic-machine-core.webp",
+          "file": "webp/futuristic-core.webp",
           "sha256": "4081131b01f8f250044c495498d1be6167160619a861a15d402a32dfb69e6120",
           "bytes": 208216
         }
       }
     },
     {
-      "slug": "a-digital-tree-in",
+      "slug": "digital-tree-ina",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-digital-tree-in.svg",
+          "file": "svg/digital-tree-ina.svg",
           "sha256": "5b6dac8a0fb2982230f0d780316291990a21663d1f04a8538ee9ad9f41634cf4",
           "bytes": 32708,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-digital-tree-in.webp",
+          "file": "webp/digital-tree-ina.webp",
           "sha256": "9a2adbdbbd3aee7f2c9da0a55c0be6b8defedb8b1ed5938e6b9dc4a65e83af51",
           "bytes": 185888
         }
       }
     },
     {
-      "slug": "a-cartoon-astronaut",
+      "slug": "nurturing-life",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-cartoon-astronaut.svg",
+          "file": "svg/nurturing-life.svg",
           "sha256": "a0f084d97510add13d9e415ace81df6ec43dbc81ad0da8a4c7ebde8eaf4530d9",
           "bytes": 38450,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-cartoon-astronaut.webp",
+          "file": "webp/nurturing-life.webp",
           "sha256": "7045e82337d95b9cb2699f516c6b299be714661af150e600e30e0891fc060589",
           "bytes": 213768
         }
       }
     },
     {
-      "slug": "a-red-warning-sign",
+      "slug": "warning-sign",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-red-warning-sign.svg",
+          "file": "svg/warning-sign.svg",
           "sha256": "32c6e4121d6bf5d6651a9177e62269af8ba28882645c8d21f8f2db0e2f61e69f",
           "bytes": 13731,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-red-warning-sign.webp",
+          "file": "webp/warning-sign.webp",
           "sha256": "d5b69f6203d2947a21ee64c2721f367b82259be3f04ee198c8b0055226e923de",
           "bytes": 142418
         }
       }
     },
     {
-      "slug": "a-robot-hand-holding",
+      "slug": "holding-life",
       "premium": false,
       "defaultVariant": "svg",
       "variants": {
         "svg": {
-          "file": "svg/a-robot-hand-holding.svg",
+          "file": "svg/holding-life.svg",
           "sha256": "0a77b735293d1991ca2996924340ec224d0403b5a2a3c136205c26f0854f9658",
           "bytes": 26253,
           "width": 2048
         },
         "webp": {
-          "file": "webp/a-robot-hand-holding.webp",
+          "file": "webp/holding-life.webp",
           "sha256": "996bf4b4919984b91f80a9a4c5fc7ce36bdf8d296841785b5d63ed7f8bc27837",
           "bytes": 175556
         }

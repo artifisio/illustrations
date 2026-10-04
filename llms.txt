@@ -2,7 +2,7 @@
 
 > Free, open-licensed illustrations (CC-BY-4.0) as plain files plus a versioned manifest. Install with the `artifisio` CLI or fetch files straight from the CDN. No account, no runtime dependency.
 
-- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.09.28-1040-104a9e3)
+- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.04-1742-3f7e2e4)
 - Registry index across kinds: https://raw.githubusercontent.com/artifisio/illustrations/main/index.json
 - CDN file pattern: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/<set>/<file>
 - Install: `npx artifisio add <set>` (writes files + ATTRIBUTION.md)
@@ -40,11 +40,11 @@
 - fernforge: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/fernforge/svg/robotic-arm-stacking-coins.svg
 - lumenaut: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/lumenaut/svg/two-small-robots.svg
 - voltweave: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/voltweave/svg/control-panel-large-buy.svg
-- fresh-sourdough: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/fresh-sourdough/svg/a-vintage-alarm-clock.svg
-- rooftop-garden: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/rooftop-garden/svg/a-green-credit-card.svg
-- deoxyribonucleic: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/deoxyribonucleic/svg/a-mobile-payment-illustration.svg
-- bio-astronaut: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/bio-astronaut/svg/a-digital-tree-held.svg
-- urban-delivery: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/urban-delivery/svg/a-man-inspecting-a.svg
+- fresh-sourdough: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/fresh-sourdough/svg/waking-sourdough.svg
+- rooftop-garden: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/rooftop-garden/svg/sustainable-finance.svg
+- deoxyribonucleic: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/deoxyribonucleic/svg/shared-breakthrough.svg
+- bio-astronaut: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/bio-astronaut/svg/nurturing-life-7.svg
+- urban-delivery: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/urban-delivery/svg/inspecting-delivery.svg
 - sumi-e-ink: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/sumi-e-ink/svg/pruning-bonsai.svg
 - geometric-city: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/geometric-city/svg/dog-walking.svg
 - lakeside-yoga: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/lakeside-yoga/svg/smartwatch.svg
