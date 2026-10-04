@@ -3,7 +3,7 @@
   "name": "Strawhat",
   "description": "Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory.",
   "tags": [],
-  "count": 1,
+  "count": 16,
   "kind": "illustration",
   "license": {
     "spdx": "CC-BY-4.0",
@@ -16,6 +16,24 @@
     "style": "strawhat"
   },
   "illustrations": [
+    {
+      "slug": "boy-playing-guitar-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/boy-playing-guitar-2.svg",
+          "sha256": "03d7e360345958b68b2fe37f18ef952f336957d8873090f746c67af3a7b6945d",
+          "bytes": 161867,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/boy-playing-guitar-2.webp",
+          "sha256": "9c7d5cf0cd6f339b24707da944a85cdbaa4d2e53f2297b62889b86ac0710df48",
+          "bytes": 97372
+        }
+      }
+    },
     {
       "slug": "character-taking-selfie",
       "premium": true,
@@ -31,6 +49,258 @@
           "file": "webp/character-taking-selfie.webp",
           "sha256": "87242469d171bdabdc5e0d8e75450f5916d52d627a1e10ea9559635eab3d5009",
           "bytes": 21438
+        }
+      }
+    },
+    {
+      "slug": "character-holding-trophy",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/character-holding-trophy.svg",
+          "sha256": "071955db76def47103da4ab75c5bf5cfead625ada2c0e2704fdb3c78261fbe42",
+          "bytes": 138258,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/character-holding-trophy.webp",
+          "sha256": "57f37833717834bfc13ac208952839019c2b4d744182ff4c9003ef849eac14ec",
+          "bytes": 21784
+        }
+      }
+    },
+    {
+      "slug": "superhero-cape-character-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/superhero-cape-character-2.svg",
+          "sha256": "06a2c78fe28a0e0f7b6683a4e38887019a3f69c6c70bc973d2d944df54450b7a",
+          "bytes": 143919,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/superhero-cape-character-2.webp",
+          "sha256": "ed56479c3061711759083be4328d0112552d283b10683b6e1db2ef921dbd0f78",
+          "bytes": 22606
+        }
+      }
+    },
+    {
+      "slug": "yoga-character",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/yoga-character.svg",
+          "sha256": "c4cfd0bef6aa7b1a1ff3f1e2ea51ca8cc79b5366bc16a4cf23f387213126de35",
+          "bytes": 80896,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/yoga-character.webp",
+          "sha256": "6d467322e71c0a039077f1607d156eb65f8940105c57eaf941067f88c4d42dd8",
+          "bytes": 20150
+        }
+      }
+    },
+    {
+      "slug": "character-looking-binoculars",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/character-looking-binoculars.svg",
+          "sha256": "724ee0f629aba54775156c942930a3888d4210fb5888a0630b757807a184b55a",
+          "bytes": 158210,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/character-looking-binoculars.webp",
+          "sha256": "b75c1d28b0252f0fa1f79ab70c824d2eca5aa632766eadebbef6754b5238a717",
+          "bytes": 22008
+        }
+      }
+    },
+    {
+      "slug": "two-characters-shaking-hands",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/two-characters-shaking-hands.svg",
+          "sha256": "fe7ee5095d8700cfacbe3063d3a67075cf8e3a1a45fe98a1cbfa24cb1eb9e590",
+          "bytes": 154704,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/two-characters-shaking-hands.webp",
+          "sha256": "f413d2eee99672e1707f271a584b025efe30c0139112417b677bf6c0ebdc8011",
+          "bytes": 22866
+        }
+      }
+    },
+    {
+      "slug": "girl-lightbulb-pen-notebook",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/girl-lightbulb-pen-notebook.svg",
+          "sha256": "bd5f588f856c4964f50adfe9595c03375fe4518e804ea55f9cd1a8df361aaf5f",
+          "bytes": 145127,
+          "width": 1364
+        },
+        "webp": {
+          "file": "webp/girl-lightbulb-pen-notebook.webp",
+          "sha256": "36c19b2c39ac7c48526d6d3d844943dfe4693b54dec01f8018051374cac9707e",
+          "bytes": 19470
+        }
+      }
+    },
+    {
+      "slug": "blonde-boy-perplexed-not-found-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/blonde-boy-perplexed-not-found-2.svg",
+          "sha256": "382daae3a2ce266d544f7659e131b2f973a891224265b5067758520f2409672f",
+          "bytes": 131813,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/blonde-boy-perplexed-not-found-2.webp",
+          "sha256": "8bf640d9a77ccaab0a50452faa3bafc517d76e3dcf12ae6cb4a764faff07c9f9",
+          "bytes": 18830
+        }
+      }
+    },
+    {
+      "slug": "blonde-boy-perplexed-not-found",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/blonde-boy-perplexed-not-found.svg",
+          "sha256": "91ef8290d5fa0317266d00e123a9db87c97af141774d4919b9656d619964269b",
+          "bytes": 95123,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/blonde-boy-perplexed-not-found.webp",
+          "sha256": "4d1b906c97270ecd671e5b6f7e2e899b06cac72351bab5ae9a28135d2e3d797d",
+          "bytes": 16716
+        }
+      }
+    },
+    {
+      "slug": "character-selfie-smartphone",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/character-selfie-smartphone.svg",
+          "sha256": "98346f86bd1f2ba86462d6956a868f88d4e323e34965cec97cb28192b02f4b59",
+          "bytes": 141633,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/character-selfie-smartphone.webp",
+          "sha256": "f50fbf51cb2b184bb900002596a8bd308e6813c223ed42f10407e6f100dfe2d8",
+          "bytes": 19990
+        }
+      }
+    },
+    {
+      "slug": "talking-hearts",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/talking-hearts.svg",
+          "sha256": "b3fd35735990458f5589f0cf1951f565317014aa239ae820c6f18e904a08e4d2",
+          "bytes": 170069,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/talking-hearts.webp",
+          "sha256": "eb4a1ac2c51b107e69eb912969479ac63836beb532f4ab9fb3992c3d2a5f8333",
+          "bytes": 54424
+        }
+      }
+    },
+    {
+      "slug": "coding-love",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/coding-love.svg",
+          "sha256": "d2b789ad072ddf583a740c1f3124281d21d611f65eba916beb989fa4bca29c4e",
+          "bytes": 49954,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/coding-love.webp",
+          "sha256": "1863ffbe7ea9a3cf4cc16b5876d91f487ff377cc9617fcb4edb162f24bc098dd",
+          "bytes": 37638
+        }
+      }
+    },
+    {
+      "slug": "happy-laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/happy-laptop.svg",
+          "sha256": "8f1a973a15b41db935b625c67c7c50e2b26af0fde38b58c2ffccc295670dd8c5",
+          "bytes": 97935,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/happy-laptop.webp",
+          "sha256": "13a6235bda59e758c1e6044f9e86df05e555b1a35a98f388880591ecc0a7ad85",
+          "bytes": 42998
+        }
+      }
+    },
+    {
+      "slug": "using-laptop-hearts",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/using-laptop-hearts.svg",
+          "sha256": "017a43c2114944c55be5957724b5a0aa2bcc87435619cace48a5a9010c68935e",
+          "bytes": 75815,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/using-laptop-hearts.webp",
+          "sha256": "dfd6dff015d53829506e69e69c76f0d3b7b597fc80a40951d961973181b2c438",
+          "bytes": 43006
+        }
+      }
+    },
+    {
+      "slug": "eating-phone",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/eating-phone.svg",
+          "sha256": "2b3856d80884dd9e67b2958c51e63188c8c4ab96f2b1996a05b154882735b9c7",
+          "bytes": 136820,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/eating-phone.webp",
+          "sha256": "a070d3da4953074acef1e9d2ed9abf32637bceca8d613f115f1fe66c2a728713",
+          "bytes": 61506
         }
       }
     }

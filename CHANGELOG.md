@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026.10.04-1838-cf5729f  _(2026-10-04)_
+
+### Changed
+
+- `strawhat`: +15 illustrations (1 → 16)
+
+---
+
 ## 2026.10.04-1823-ac0457a  _(2026-10-04)_
 
 _No structural changes; file content or checksums may have been updated._

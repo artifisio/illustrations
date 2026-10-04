@@ -2,7 +2,7 @@
 
 > Free, open-licensed illustrations (CC-BY-4.0) as plain files plus a versioned manifest. Install with the `artifisio` CLI or fetch files straight from the CDN. No account, no runtime dependency.
 
-- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.04-1823-ac0457a)
+- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.04-1838-cf5729f)
 - Registry index across kinds: https://raw.githubusercontent.com/artifisio/illustrations/main/index.json
 - CDN file pattern: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/<set>/<file>
 - Install: `npx artifisio add <set>` (writes files + ATTRIBUTION.md)
@@ -30,7 +30,7 @@
 - [bottle-herb](https://github.com/artifisio/illustrations/tree/main/sets/bottle-herb): Infuse your creative projects with a sense of wonder using this charming glass bottle character that brings a tiny, herbal world to life. These whimsical illustrations are perfect for adding a touch of magic to your stationery, branding, or digital journals. You will love how each expressive pose sparks joy and captures the imagination of your audience instantly. (27 illustrations)
 - [Unicorn Life](https://github.com/artifisio/illustrations/tree/main/sets/unicorn-life): Infuse your next creative project with pure magic as you follow this lovable unicorn through its most whimsical daily adventures. Whether you are designing heartwarming stationery or brightening up your digital workspace, these illustrations bring a sense of wonder that will leave you and your audience smiling. (14 illustrations)
 - [Surreality](https://github.com/artifisio/illustrations/tree/main/sets/surreality): Place your audience in the heart of the impossible with these evocative scenes that blur the lines between dreams and reality. You can use these striking visuals to give your next project a sense of profound wonder and mystery that lingers in the viewer’s mind. Each piece offers a unique way to spark deep curiosity, making your work stand out as something truly unforgettable. (12 illustrations)
-- [Strawhat](https://github.com/artifisio/illustrations/tree/main/sets/strawhat): Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory. (1 illustrations)
+- [Strawhat](https://github.com/artifisio/illustrations/tree/main/sets/strawhat): Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory. (16 illustrations)
 - [allanpoe](https://github.com/artifisio/illustrations/tree/main/sets/allanpoe): Surround your designs with the haunting mystery and dark elegance of a classic gothic tale. Whether you are crafting atmospheric book covers or moody social media posts, these pieces help you tell stories that feel both deeply poetic and slightly unsettling. You will captivate your audience with a sense of timeless drama that breathes life into your most shadow-filled creative visions. (8 illustrations)
 
 ## Preview URLs
@@ -54,5 +54,5 @@
 - bottle-herb: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/bottle-herb/svg/empty.svg
 - unicorn-life: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/unicorn-life/svg/shopping-basket.svg
 - surreality: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/surreality/svg/teapot.svg
-- strawhat: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/strawhat/svg/character-taking-selfie.svg
+- strawhat: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/strawhat/svg/boy-playing-guitar-2.svg
 - allanpoe: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/allanpoe/svg/character-reading-book.svg

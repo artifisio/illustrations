@@ -13,10 +13,12 @@ A hand-picked selection from the collection — the same sets showcased on [arti
 <table>
 <tr>
 <td align="center" valign="top" width="33%">
-<a href="sets/strawhat"><img src="sets/strawhat/webp/character-taking-selfie.webp" width="220" alt="Strawhat" /></a>
+<a href="sets/strawhat"><img src="sets/strawhat/webp/boy-playing-guitar-2.webp" width="220" alt="Strawhat" /></a>
+<br />
+<img src="sets/strawhat/webp/character-taking-selfie.webp" width="46" />&nbsp;<img src="sets/strawhat/webp/character-holding-trophy.webp" width="46" />&nbsp;<img src="sets/strawhat/webp/superhero-cape-character-2.webp" width="46" />&nbsp;<img src="sets/strawhat/webp/yoga-character.webp" width="46" />
 <br /><br />
 <strong><a href="sets/strawhat">Strawhat</a></strong><br />
-<sub>1 illustrations</sub><br /><br />
+<sub>16 illustrations</sub><br /><br />
 <code>npx artifisio add strawhat</code>
 </td>
 <td align="center" valign="top" width="33%">
@@ -120,7 +122,7 @@ https://cdn.jsdelivr.net/gh/artifisio/illustrations@<version>/sets/<slug>/svg/<i
 Pin to a specific registry version for reproducible builds:
 
 ```
-https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.10.04-1823-ac0457a/sets/<slug>/svg/<illustration>.svg
+https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.10.04-1838-cf5729f/sets/<slug>/svg/<illustration>.svg
 ```
 
 ---
@@ -146,7 +148,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 ---
 
-## Available sets (21 sets · 461 illustrations)
+## Available sets (21 sets · 476 illustrations)
 
 | Name | Slug | Count | Tags | Formats |
 | ---- | ---- | ----- | ---- | ------- |
@@ -169,7 +171,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 | [bottle-herb](sets/bottle-herb) | `bottle-herb` | 27 |  | svg, webp |
 | [Unicorn Life](sets/unicorn-life) | `unicorn-life` | 14 |  | svg, webp |
 | [Surreality](sets/surreality) | `surreality` | 12 |  | svg, webp |
-| [Strawhat](sets/strawhat) | `strawhat` | 1 |  | svg, webp |
+| [Strawhat](sets/strawhat) | `strawhat` | 16 |  | svg, webp |
 | [allanpoe](sets/allanpoe) | `allanpoe` | 8 |  | svg, webp |
 
 ---
@@ -178,7 +180,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 | Field | Value |
 | --- | --- |
-| Registry version | `2026.10.04-1823-ac0457a` |
+| Registry version | `2026.10.04-1838-cf5729f` |
 | CLI | [`artifisio`](https://www.npmjs.com/package/artifisio) |
 | License | [CC BY 4.0](LICENSE) |
 | Other kinds | [`index.json`](index.json) lists every per-kind registry (fonts, icons) |
