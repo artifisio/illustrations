@@ -1,0 +1,222 @@
+{
+  "slug": "insects-art-nouveau",
+  "name": "Insects Art Nouveau",
+  "description": "Anthropomorphic insects in a clean Art Nouveau frame — whiplash curves, lily borders, star charts, sage, dusty rose and ochre on grainy paper.",
+  "tags": [
+    "art-nouveau",
+    "insects",
+    "vintage"
+  ],
+  "count": 11,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "insects-art-nouveau"
+  },
+  "illustrations": [
+    {
+      "slug": "gym",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/gym.svg",
+          "sha256": "76f338d1466615952445c2c852ada6a1d4e057f58ef40cc90f96dd7a6cde9a18",
+          "bytes": 448695,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/gym.webp",
+          "sha256": "ffb343f38e2823004455853eadbd73e0a3eee958f84c9d5a0c8842f69c4a8cbf",
+          "bytes": 230918
+        }
+      }
+    },
+    {
+      "slug": "book",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/book.svg",
+          "sha256": "eff2a5741dc6c82b44e2a8f1bf7e62babd679f2016650bc9cd17307a53b15628",
+          "bytes": 410931,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/book.webp",
+          "sha256": "bba8f18fa34bc58d1a605d4a3603001c36eed66524a7b2f8b8bc846c284a9881",
+          "bytes": 238996
+        }
+      }
+    },
+    {
+      "slug": "painting-beetle",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/painting-beetle.svg",
+          "sha256": "73284384c7bd0e9b06e04b609c21767c390d79674a80311037d8696f07c06fd2",
+          "bytes": 250121,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/painting-beetle.webp",
+          "sha256": "a800651bf190d1e278505709d410dbfc84db63cb82b60c680f898e10aed25766",
+          "bytes": 187608
+        }
+      }
+    },
+    {
+      "slug": "moth-drinking-tea",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/moth-drinking-tea.svg",
+          "sha256": "11131f21a03dcb89c6629f5375e07afa266c72cd966eaaf174fa5bf14210e333",
+          "bytes": 278843,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/moth-drinking-tea.webp",
+          "sha256": "b17e79047dbef3963b7c942632b9305a138404c228060f715d99d0f40105c4d9",
+          "bytes": 217594
+        }
+      }
+    },
+    {
+      "slug": "stirring-cauldron",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stirring-cauldron.svg",
+          "sha256": "60cb76245348cb9f3585dc883af3041acf0681007fbec93b1b34de08ac435c49",
+          "bytes": 242285,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/stirring-cauldron.webp",
+          "sha256": "9adaab7b740bce26313fc9279e3106404c628bbb670489e9efe522303a86ae39",
+          "bytes": 186528
+        }
+      }
+    },
+    {
+      "slug": "vested-beetle",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/vested-beetle.svg",
+          "sha256": "cc95d2d0546077371026ecb92d130bc6ae50b9f0bea65e0c38034eea1eae5b04",
+          "bytes": 252476,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/vested-beetle.webp",
+          "sha256": "101cae20d7d5773f34840ac5306e8f85bcc0f02028fff2a555aa4339b8c84c16",
+          "bytes": 183942
+        }
+      }
+    },
+    {
+      "slug": "bike-dragonfly",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/bike-dragonfly.svg",
+          "sha256": "1513325ec1c8e35de087cbde8ca6329535ae7eccb023275c8d423c13de0a22ff",
+          "bytes": 142142,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/bike-dragonfly.webp",
+          "sha256": "659cdf4771bff30873cbc94493df3a7491b4855588adefd5ae68104d14e1953f",
+          "bytes": 179076
+        }
+      }
+    },
+    {
+      "slug": "meditating-mantis",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/meditating-mantis.svg",
+          "sha256": "db9bcb3f94d6ce5cc15e25c81307669e4990a25a992a87c17b3e7d6781729b2b",
+          "bytes": 169781,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/meditating-mantis.webp",
+          "sha256": "aa7340c8a2a6b682cc84562b93b3a894b21e2823d32e9917372e29550db045a2",
+          "bytes": 128796
+        }
+      }
+    },
+    {
+      "slug": "stargazing-moth",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/stargazing-moth.svg",
+          "sha256": "f425d1ba6761fac3a27917163887eee4b46f1cb9b424201cf79741464d7422bf",
+          "bytes": 235513,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/stargazing-moth.webp",
+          "sha256": "80b1365df0eacc946254959e0e6b72a30dea314cbadfac810e1018334769931c",
+          "bytes": 205594
+        }
+      }
+    },
+    {
+      "slug": "flower-constellations",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/flower-constellations.svg",
+          "sha256": "8e29f7dadbbea1a9ad827e2b3bfe53bf340f879845416a7bce163db9cae86170",
+          "bytes": 210496,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/flower-constellations.webp",
+          "sha256": "b797b398e75c669adc0381bbdfb999eb677fba4d71e08044c564c7c4fd6512a8",
+          "bytes": 148744
+        }
+      }
+    },
+    {
+      "slug": "luna-moth-using-laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/luna-moth-using-laptop.svg",
+          "sha256": "de02ef8b6e1548bab6e64b0b2be8bc6e9d662b0586867f995f2ceafd1f15fe6c",
+          "bytes": 310267,
+          "width": 2048
+        },
+        "webp": {
+          "file": "webp/luna-moth-using-laptop.webp",
+          "sha256": "84cc0a1a23924a80699bbb83f9e958859f5c3fd3e84a7afad78549363f5d6f58",
+          "bytes": 231088
+        }
+      }
+    }
+  ]
+}

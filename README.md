@@ -22,6 +22,15 @@ A hand-picked selection from the collection — the same sets showcased on [arti
 <code>npx artifisio add strawhat</code>
 </td>
 <td align="center" valign="top" width="33%">
+<a href="sets/duck"><img src="sets/duck/webp/eating-burger.webp" width="220" alt="duck" /></a>
+<br />
+<img src="sets/duck/webp/birdwatching.webp" width="46" />&nbsp;<img src="sets/duck/webp/superhero-duck.webp" width="46" />&nbsp;<img src="sets/duck/webp/reading.webp" width="46" />&nbsp;<img src="sets/duck/webp/standing-duck-2.webp" width="46" />
+<br /><br />
+<strong><a href="sets/duck">duck</a></strong><br />
+<sub>9 illustrations · sticker · cute · animals</sub><br /><br />
+<code>npx artifisio add duck</code>
+</td>
+<td align="center" valign="top" width="33%">
 <a href="sets/surreality"><img src="sets/surreality/webp/teapot.webp" width="220" alt="Surreality" /></a>
 <br />
 <img src="sets/surreality/webp/pet.webp" width="46" />&nbsp;<img src="sets/surreality/webp/umbrella.webp" width="46" />&nbsp;<img src="sets/surreality/webp/bicycle-octagonal.webp" width="46" />&nbsp;<img src="sets/surreality/webp/clock-sundial.webp" width="46" />
@@ -30,6 +39,8 @@ A hand-picked selection from the collection — the same sets showcased on [arti
 <sub>12 illustrations</sub><br /><br />
 <code>npx artifisio add surreality</code>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%">
 <a href="sets/allanpoe"><img src="sets/allanpoe/webp/character-reading-book.webp" width="220" alt="allanpoe" /></a>
 <br />
@@ -39,8 +50,15 @@ A hand-picked selection from the collection — the same sets showcased on [arti
 <sub>8 illustrations</sub><br /><br />
 <code>npx artifisio add allanpoe</code>
 </td>
-</tr>
-<tr>
+<td align="center" valign="top" width="33%">
+<a href="sets/illustrations-61177"><img src="sets/illustrations-61177/webp/character-speaking-microphone.webp" width="220" alt="kawaii" /></a>
+<br />
+<img src="sets/illustrations-61177/webp/character-taking-selfie-4.webp" width="46" />&nbsp;<img src="sets/illustrations-61177/webp/flower-planting-character.webp" width="46" />&nbsp;<img src="sets/illustrations-61177/webp/character-reading-book.webp" width="46" />&nbsp;<img src="sets/illustrations-61177/webp/character-taking-selfie-2.webp" width="46" />
+<br /><br />
+<strong><a href="sets/illustrations-61177">kawaii</a></strong><br />
+<sub>14 illustrations · kawaii · chibi · characters</sub><br /><br />
+<code>npx artifisio add illustrations-61177</code>
+</td>
 <td align="center" valign="top" width="33%">
 <a href="sets/unicorn-life"><img src="sets/unicorn-life/webp/shopping-basket.webp" width="220" alt="Unicorn Life" /></a>
 <br />
@@ -50,6 +68,8 @@ A hand-picked selection from the collection — the same sets showcased on [arti
 <sub>14 illustrations</sub><br /><br />
 <code>npx artifisio add unicorn-life</code>
 </td>
+</tr>
+<tr>
 <td align="center" valign="top" width="33%">
 <a href="sets/simple-people"><img src="sets/simple-people/webp/vr-headset.webp" width="220" alt="Simple People" /></a>
 <br />
@@ -68,8 +88,6 @@ A hand-picked selection from the collection — the same sets showcased on [arti
 <sub>20 illustrations</sub><br /><br />
 <code>npx artifisio add scribble-people</code>
 </td>
-</tr>
-<tr>
 <td align="center" valign="top" width="33%">
 <a href="sets/sumi-e-ink"><img src="sets/sumi-e-ink/webp/pruning-bonsai.webp" width="220" alt="Sumi-e Ink" /></a>
 <br />
@@ -122,7 +140,7 @@ https://cdn.jsdelivr.net/gh/artifisio/illustrations@<version>/sets/<slug>/svg/<i
 Pin to a specific registry version for reproducible builds:
 
 ```
-https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.10.05-1114-cbf8220/sets/<slug>/svg/<illustration>.svg
+https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.10.05-1728-cbf8220/sets/<slug>/svg/<illustration>.svg
 ```
 
 ---
@@ -148,7 +166,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 ---
 
-## Available sets (21 sets · 476 illustrations)
+## Available sets (27 sets · 541 illustrations)
 
 | Name | Slug | Count | Tags | Formats |
 | ---- | ---- | ----- | ---- | ------- |
@@ -169,10 +187,16 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 | [Simple People](sets/simple-people) | `simple-people` | 19 |  | svg, webp |
 | [scribble-people](sets/scribble-people) | `scribble-people` | 20 |  | svg, webp |
 | [bottle-herb](sets/bottle-herb) | `bottle-herb` | 27 |  | svg, webp |
+| [animals-paper](sets/animals-paper) | `animals-paper` | 9 | papercut, animals, 3d | svg, webp |
+| [Appliances-1930s](sets/appliances-1930s) | `appliances-1930s` | 9 | rubber-hose, vintage, cartoon | svg, webp |
+| [neoclassic-street-art](sets/neoclassic-street-art) | `neoclassic-street-art` | 13 | street-art, classical, neon | svg, webp |
+| [Insects Art Nouveau](sets/insects-art-nouveau) | `insects-art-nouveau` | 11 | art-nouveau, insects, vintage | svg, webp |
 | [Unicorn Life](sets/unicorn-life) | `unicorn-life` | 14 |  | svg, webp |
 | [Surreality](sets/surreality) | `surreality` | 12 |  | svg, webp |
 | [Strawhat](sets/strawhat) | `strawhat` | 16 |  | svg, webp |
+| [duck](sets/duck) | `duck` | 9 | sticker, cute, animals | svg, webp |
 | [allanpoe](sets/allanpoe) | `allanpoe` | 8 |  | svg, webp |
+| [kawaii](sets/illustrations-61177) | `illustrations-61177` | 14 | kawaii, chibi, characters | svg, webp |
 
 ---
 
@@ -180,7 +204,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 | Field | Value |
 | --- | --- |
-| Registry version | `2026.10.05-1114-cbf8220` |
+| Registry version | `2026.10.05-1728-cbf8220` |
 | CLI | [`artifisio`](https://www.npmjs.com/package/artifisio) |
 | License | [CC BY 4.0](LICENSE) |
 | Other kinds | [`index.json`](index.json) lists every per-kind registry (fonts, icons) |

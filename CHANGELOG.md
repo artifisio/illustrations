@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026.10.05-1728-cbf8220  _(2026-10-05)_
+
+### Added
+
+- `animals-paper` (9 illustrations)
+- `appliances-1930s` (9 illustrations)
+- `neoclassic-street-art` (13 illustrations)
+- `insects-art-nouveau` (11 illustrations)
+- `duck` (9 illustrations)
+- `illustrations-61177` (14 illustrations)
+
+---
+
 ## 2026.10.05-1114-cbf8220  _(2026-10-05)_
 
 _No structural changes; file content or checksums may have been updated._

@@ -1,0 +1,186 @@
+{
+  "slug": "duck",
+  "name": "duck",
+  "description": "Round yellow ducks as lineless sticker art — soft gradients, bead eyes and red beaks, caught reading, snacking and taking selfies.",
+  "tags": [
+    "sticker",
+    "cute",
+    "animals"
+  ],
+  "count": 9,
+  "kind": "illustration",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "attributionRequired": true,
+    "attribution": "Illustrations by Artifisio (https://artifisio.com)",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "provenance": {
+    "source": "generated",
+    "style": "duck"
+  },
+  "illustrations": [
+    {
+      "slug": "eating-burger",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/eating-burger.svg",
+          "sha256": "fd0d064041f8d5078f9bec59105d78a5de545aeb16aeae855ab925bd20538cd6",
+          "bytes": 83188,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/eating-burger.webp",
+          "sha256": "0d61b07829905726418aea41e01cc49e506b54c59caacf5860633be65d2ddd90",
+          "bytes": 43892
+        }
+      }
+    },
+    {
+      "slug": "birdwatching",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/birdwatching.svg",
+          "sha256": "4f23141f4624cd867237d7a1680b85ad572e5b66d928ce778a7bb02e2eefbd0a",
+          "bytes": 24289,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/birdwatching.webp",
+          "sha256": "9431e4cb92470748675b3d169ed4b7e8b451579acc80bd887ffee47e8dc411c2",
+          "bytes": 11330
+        }
+      }
+    },
+    {
+      "slug": "superhero-duck",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/superhero-duck.svg",
+          "sha256": "68226a93e62b2f3e59ab52a2ff2a2dda2743826bf5464e5d5f870d3bfdc724e6",
+          "bytes": 51743,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/superhero-duck.webp",
+          "sha256": "b05c8bc14d74e1afdc1b70824de5a70e52c2b66133d06bd8cd31ad196d634419",
+          "bytes": 14798
+        }
+      }
+    },
+    {
+      "slug": "reading",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/reading.svg",
+          "sha256": "ffa5f2eb38cd5a42b5ca06a229b837f0bf908c0aad76e134c06146010b0561d6",
+          "bytes": 41308,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/reading.webp",
+          "sha256": "be58791c2c8c6e48b6e408ccfc02fe11b85cab1b1a57df255b84692e19b6d119",
+          "bytes": 13098
+        }
+      }
+    },
+    {
+      "slug": "standing-duck-2",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/standing-duck-2.svg",
+          "sha256": "e56a0bb0e756046ecd614ec1c512ecf3d01b16427868e8ac5e250773ad48bbcc",
+          "bytes": 20421,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/standing-duck-2.webp",
+          "sha256": "310b6685edb785a45105dca756beb378349f997604f465bbecbbeef098a048a5",
+          "bytes": 9624
+        }
+      }
+    },
+    {
+      "slug": "selfie",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/selfie.svg",
+          "sha256": "7ab1d5d1066b55bd37e8bb86884f224c65497db3b68067ee7f604bab05e1bace",
+          "bytes": 16543,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/selfie.webp",
+          "sha256": "a116b8ee6cac0679c7fac2bf6b8a2fd0497e6f04aa84b89f94bf300681b82168",
+          "bytes": 12094
+        }
+      }
+    },
+    {
+      "slug": "eating-bowl",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/eating-bowl.svg",
+          "sha256": "d8f0094fee0008430688ed4399ac2f1436f436776fbac9fa86c0a3374b5bac57",
+          "bytes": 32769,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/eating-bowl.webp",
+          "sha256": "3da67962f4a99866be675cd6b66f5b1fd67c59d256f0b049a2e35bedab49e147",
+          "bytes": 13154
+        }
+      }
+    },
+    {
+      "slug": "duckling-laptop",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/duckling-laptop.svg",
+          "sha256": "5edf9aa2c9762624cb48b13b3b6d34bfe7e70850a808ba5a736b93aed46eedb8",
+          "bytes": 11607,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/duckling-laptop.webp",
+          "sha256": "d66be8dec1ebb7f60a397093f1f0079ea15d97d6dc2da4c27696174b026bee6a",
+          "bytes": 9654
+        }
+      }
+    },
+    {
+      "slug": "holding-cookies",
+      "premium": false,
+      "defaultVariant": "svg",
+      "variants": {
+        "svg": {
+          "file": "svg/holding-cookies.svg",
+          "sha256": "3f0e8346cbecfa31d8b1637306ed34fe35b5c0dcfb2925cfd6e9984447d6508c",
+          "bytes": 40268,
+          "width": 1680
+        },
+        "webp": {
+          "file": "webp/holding-cookies.webp",
+          "sha256": "1965f6e75be7bb7943cfc525594193f99523c667668bd0a276523cbb34386f20",
+          "bytes": 16128
+        }
+      }
+    }
+  ]
+}

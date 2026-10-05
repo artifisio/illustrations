@@ -2,14 +2,14 @@
 
 > Free, open-licensed illustrations (CC-BY-4.0) as plain files plus a versioned manifest. Install with the `artifisio` CLI or fetch files straight from the CDN. No account, no runtime dependency.
 
-- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.05-1114-cbf8220)
+- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.05-1728-cbf8220)
 - Registry index across kinds: https://raw.githubusercontent.com/artifisio/illustrations/main/index.json
 - CDN file pattern: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/<set>/<file>
 - Install: `npx artifisio add <set>` (writes files + ATTRIBUTION.md)
 - Search: `npx artifisio search "<query>" --kind illustration --json`
 - License: LICENSE in this repo; attribution string is in every set's `license.attribution`.
 
-## Sets (21)
+## Sets (27)
 
 - [Zenithglade](https://github.com/artifisio/illustrations/tree/main/sets/zenithglade): Bring a sense of profound stillness to your next project by blending the wonders of the future with the timeless art of inner peace. These illustrations are your gateway to creating a digital sanctuary that resonates with anyone looking to find their center in a fast-paced world. You will give your brand a soul that feels both cutting-edge and deeply restorative. (32 illustrations)
 - [Orbitab](https://github.com/artifisio/illustrations/tree/main/sets/orbitab): Elevate your daily planning with a cosmic touch that turns every mundane task into an interstellar adventure. These charming space-themed stationery pieces bring a sense of wonder to your digital notebooks, helping you stay inspired as you navigate your galaxy of ideas. (33 illustrations)
@@ -28,10 +28,16 @@
 - [Simple People](https://github.com/artifisio/illustrations/tree/main/sets/simple-people): Infuse your brand with a sense of genuine connection using these friendly characters that make every interaction feel more personal and inviting. Whether you are designing a landing page or a social media post, these versatile figures help you communicate complex ideas with a warm, human touch. This set is your secret tool for building instant trust and making your audience feel right at home. (19 illustrations)
 - [scribble-people](https://github.com/artifisio/illustrations/tree/main/sets/scribble-people): Infuse your next project with a sense of raw, human connection using these expressive figures that capture the beauty of a fleeting moment. These characters add an approachable, heartfelt charm to your designs, making your brand feel instantly more relatable and alive. You can easily transform any digital layout into a warm, storytelling experience that resonates deeply with your audience. (20 illustrations)
 - [bottle-herb](https://github.com/artifisio/illustrations/tree/main/sets/bottle-herb): Infuse your creative projects with a sense of wonder using this charming glass bottle character that brings a tiny, herbal world to life. These whimsical illustrations are perfect for adding a touch of magic to your stationery, branding, or digital journals. You will love how each expressive pose sparks joy and captures the imagination of your audience instantly. (27 illustrations)
+- [animals-paper](https://github.com/artifisio/illustrations/tree/main/sets/animals-paper): Endangered forest animals in a layered paper-cut shadowbox — no outlines, deep drop shadows, moss, terracotta and mustard card. (9 illustrations; tags: papercut, animals, 3d)
+- [Appliances-1930s](https://github.com/artifisio/illustrations/tree/main/sets/appliances-1930s): Kitchen appliances as 1930s rubber-hose cartoon characters — noodle limbs, white gloves, pie eyes, sepia grain and film scratches. (9 illustrations; tags: rubber-hose, vintage, cartoon)
+- [neoclassic-street-art](https://github.com/artifisio/illustrations/tree/main/sets/neoclassic-street-art): Classical marble statues dropped into neon street art — heavy outlines, halftone, spray-paint drips, cyan and magenta on cracked concrete. (13 illustrations; tags: street-art, classical, neon)
+- [Insects Art Nouveau](https://github.com/artifisio/illustrations/tree/main/sets/insects-art-nouveau): Anthropomorphic insects in a clean Art Nouveau frame — whiplash curves, lily borders, star charts, sage, dusty rose and ochre on grainy paper. (11 illustrations; tags: art-nouveau, insects, vintage)
 - [Unicorn Life](https://github.com/artifisio/illustrations/tree/main/sets/unicorn-life): Infuse your next creative project with pure magic as you follow this lovable unicorn through its most whimsical daily adventures. Whether you are designing heartwarming stationery or brightening up your digital workspace, these illustrations bring a sense of wonder that will leave you and your audience smiling. (14 illustrations)
 - [Surreality](https://github.com/artifisio/illustrations/tree/main/sets/surreality): Place your audience in the heart of the impossible with these evocative scenes that blur the lines between dreams and reality. You can use these striking visuals to give your next project a sense of profound wonder and mystery that lingers in the viewer’s mind. Each piece offers a unique way to spark deep curiosity, making your work stand out as something truly unforgettable. (12 illustrations)
 - [Strawhat](https://github.com/artifisio/illustrations/tree/main/sets/strawhat): Infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. Whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. You will love how easily they transform your creative work into stories that feel like a cherished summer memory. (16 illustrations)
+- [duck](https://github.com/artifisio/illustrations/tree/main/sets/duck): Round yellow ducks as lineless sticker art — soft gradients, bead eyes and red beaks, caught reading, snacking and taking selfies. (9 illustrations; tags: sticker, cute, animals)
 - [allanpoe](https://github.com/artifisio/illustrations/tree/main/sets/allanpoe): Surround your designs with the haunting mystery and dark elegance of a classic gothic tale. Whether you are crafting atmospheric book covers or moody social media posts, these pieces help you tell stories that feel both deeply poetic and slightly unsettling. You will captivate your audience with a sense of timeless drama that breathes life into your most shadow-filled creative visions. (8 illustrations)
+- [kawaii](https://github.com/artifisio/illustrations/tree/main/sets/illustrations-61177): Chibi characters with oversized heads, dot eyes and pink blushes — bold outlines, flat cel shading, everyday moments from selfies to trophies. (14 illustrations; tags: kawaii, chibi, characters)
 
 ## Preview URLs
 
@@ -52,7 +58,13 @@
 - simple-people: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/simple-people/svg/vr-headset.svg
 - scribble-people: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/scribble-people/svg/404.svg
 - bottle-herb: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/bottle-herb/svg/empty.svg
+- animals-paper: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/animals-paper/svg/jungle-drinking.svg
+- appliances-1930s: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/appliances-1930s/svg/playing-catch.svg
+- neoclassic-street-art: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/neoclassic-street-art/svg/centurion-electric-scooter.svg
+- insects-art-nouveau: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/insects-art-nouveau/svg/gym.svg
 - unicorn-life: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/unicorn-life/svg/shopping-basket.svg
 - surreality: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/surreality/svg/teapot.svg
 - strawhat: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/strawhat/svg/boy-playing-guitar-2.svg
+- duck: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/duck/svg/eating-burger.svg
 - allanpoe: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/allanpoe/svg/character-reading-book.svg
+- illustrations-61177: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/illustrations-61177/svg/character-speaking-microphone.svg
