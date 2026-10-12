@@ -5,7 +5,7 @@
       "repo": "artifisio/illustrations",
       "manifest": "https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json",
       "cdn": "https://cdn.jsdelivr.net/gh/artifisio/illustrations@main",
-      "registryVersion": "2026.10.05-1728-cbf8220",
+      "registryVersion": "2026.10.12-1143-b71d4f2",
       "sets": 27
     },
     "icon": {
