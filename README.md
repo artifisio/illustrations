@@ -140,7 +140,7 @@ https://cdn.jsdelivr.net/gh/artifisio/illustrations@<version>/sets/<slug>/svg/<i
 Pin to a specific registry version for reproducible builds:
 
 ```
-https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.10.12-1143-b71d4f2/sets/<slug>/svg/<illustration>.svg
+https://cdn.jsdelivr.net/gh/artifisio/illustrations@v2026.10.19-0940-9a492e3/sets/<slug>/svg/<illustration>.svg
 ```
 
 ---
@@ -166,7 +166,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 ---
 
-## Available sets (27 sets · 541 illustrations)
+## Available sets (27 sets · 540 illustrations)
 
 | Name | Slug | Count | Tags | Formats |
 | ---- | ---- | ----- | ---- | ------- |
@@ -177,7 +177,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 | [Voltweave](sets/voltweave) | `voltweave` | 33 |  | svg, webp |
 | [Fresh sourdough](sets/fresh-sourdough) | `fresh-sourdough` | 15 |  | svg, webp |
 | [Rooftop garden](sets/rooftop-garden) | `rooftop-garden` | 36 |  | svg, webp |
-| [deoxyribonucleic](sets/deoxyribonucleic) | `deoxyribonucleic` | 36 |  | svg, webp |
+| [deoxyribonucleic](sets/deoxyribonucleic) | `deoxyribonucleic` | 35 |  | svg, webp |
 | [Bio astronaut](sets/bio-astronaut) | `bio-astronaut` | 36 |  | svg, webp |
 | [Urban delivery](sets/urban-delivery) | `urban-delivery` | 33 |  | svg, webp |
 | [Sumi-e Ink](sets/sumi-e-ink) | `sumi-e-ink` | 9 |  | svg, webp |
@@ -204,7 +204,7 @@ npx artifisio add <set-slug> --colors "primary=#4A7CFF" --bake
 
 | Field | Value |
 | --- | --- |
-| Registry version | `2026.10.12-1143-b71d4f2` |
+| Registry version | `2026.10.19-0940-9a492e3` |
 | CLI | [`artifisio`](https://www.npmjs.com/package/artifisio) |
 | License | [CC BY 4.0](LICENSE) |
 | Other kinds | [`index.json`](index.json) lists every per-kind registry (fonts, icons) |

@@ -3,7 +3,7 @@
   "name": "deoxyribonucleic",
   "description": "You can transform your complex scientific concepts into a story of wonder and human connection with these vibrant scenes of discovery. These illustrations provide the perfect backdrop for your biotech blog or educational materials, making the mysteries of the genetic code feel both accessible and exciting. Witness the power of teamwork as your projects come to life with the glow of a shared breakthrough.",
   "tags": [],
-  "count": 36,
+  "count": 35,
   "kind": "illustration",
   "license": {
     "spdx": "CC-BY-4.0",
@@ -537,24 +537,6 @@
           "file": "webp/assembling-hexagonal-icons.webp",
           "sha256": "c465bdca75a91f9bcae3264284dbb1c013fd27ed1da299fc9972f66589d510fa",
           "bytes": 248750
-        }
-      }
-    },
-    {
-      "slug": "dna-experiment",
-      "premium": false,
-      "defaultVariant": "svg",
-      "variants": {
-        "svg": {
-          "file": "svg/dna-experiment.svg",
-          "sha256": "f1c087511a04d1febbf8298080e407eb92954bc4c4a0b184265a68ae543e73b1",
-          "bytes": 32882,
-          "width": 2048
-        },
-        "webp": {
-          "file": "webp/dna-experiment.webp",
-          "sha256": "82936227b50fe8159c7c12aaac73af53120e2d26f6b3a34b0b02c52b37b41741",
-          "bytes": 194152
         }
       }
     },
