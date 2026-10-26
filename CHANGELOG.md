@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026.10.26-0950-2d9a969  _(2026-10-26)_
+
+### Changed
+
+- `deoxyribonucleic`: +1 illustrations (35 → 36)
+
+---
+
 ## 2026.10.19-0940-9a492e3  _(2026-10-19)_
 
 ### Changed
