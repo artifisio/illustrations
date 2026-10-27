@@ -1,261 +1,493 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Artifisio Illustrations Registry</title>
-  <style>
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-    :root {
-      --bg: #0f0f11;
-      --surface: #1a1a1f;
-      --border: #2a2a33;
-      --text: #e8e8f0;
-      --text-muted: #7a7a8a;
-      --accent: #7c6af7;
-      --accent-hover: #9585ff;
-      font-family: system-ui, -apple-system, sans-serif;
-    }
-    body { background: var(--bg); color: var(--text); min-height: 100dvh; }
-    a { color: var(--accent); text-decoration: none; }
-    a:hover { color: var(--accent-hover); text-decoration: underline; }
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Illustrations · Artifisio open registry</title>
+<meta name="description" content="27 sets, 541 open-licensed illustrations. Every SVG is themeable through CSS variables; recolour a set, then install it with one command." />
+<link rel="canonical" href="https://artifisio.github.io/illustrations/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Artifisio" />
+<meta property="og:title" content="Illustrations · Artifisio open registry" />
+<meta property="og:description" content="27 sets, 541 open-licensed illustrations. Every SVG is themeable through CSS variables; recolour a set, then install it with one command." />
+<meta property="og:url" content="https://artifisio.github.io/illustrations/" />
+<link rel="icon" type="image/png" href="https://artifisio.com/favicon-32x32.png" />
+<meta property="og:image" content="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/strawhat/webp/boy-playing-guitar-2.webp" />
+<meta name="twitter:card" content="summary_large_image" />
+<script>document.documentElement.classList.add('js');try{const t=localStorage.getItem('artifisio-gallery-theme');if(t==='dark'||t==='light')document.documentElement.dataset.theme=t}catch{}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Hind+Madurai:wght@400;500;600&display=swap" />
+<style>
+:root{--ring:rgb(0 0 0/.14);--bg:#fff;--surface:#fafaf8;--raised:#fff;--canvas:#f3f3ef;--border:#e6e6e1;--text:#17171a;--muted:#66666e;--chip:#f0f0ec;--accent:#c5ff00;--accent-ink:#0b0b0c;--focus:#4f6600;--shadow:0 20px 50px rgb(0 0 0/.12);color-scheme:light}
+[data-theme=dark]{--ring:rgb(255 255 255/.28);--bg:#0e0e10;--surface:#151517;--raised:#1b1b1e;--canvas:#e9e9e4;--border:#2b2b30;--text:#f4f4f5;--muted:#a1a1aa;--chip:#202024;--focus:#c5ff00;--shadow:0 20px 50px rgb(0 0 0/.5);color-scheme:dark}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 'Hind Madurai',system-ui,-apple-system,'Segoe UI',sans-serif;-webkit-font-smoothing:antialiased}
+h1,h2,h3{font-family:'DM Serif Display',Georgia,serif;font-weight:400;line-height:1.1;margin:0}
+p{margin:0}
+a{color:inherit}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+code{font:13px/1.5 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+[hidden]{display:none!important}
+html:not(.js) .g-js{display:none!important}
+.g-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.g-wrap{max-width:1280px;margin:0 auto;padding-inline:16px}
+.g-header{border-bottom:1px solid var(--border)}
+.g-bar{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;padding-top:14px;padding-bottom:14px}
+.g-brand{font-family:'DM Serif Display',Georgia,serif;font-size:26px;line-height:1;text-decoration:none}
+.g-kinds{order:2;flex-basis:100%;display:flex;gap:4px;padding:4px;background:var(--chip);border-radius:999px;width:max-content;max-width:100%}
+.g-kinds a{flex:1;text-align:center;padding:6px 14px;border-radius:999px;text-decoration:none;font-size:15px;font-weight:500;color:var(--muted)}
+.g-kinds a:hover{color:var(--text)}
+.g-kinds a[aria-current]{background:var(--accent);color:var(--accent-ink)}
+.g-search{order:3;flex-basis:100%}
+.g-search input{width:100%;font:inherit;font-size:15px;color:var(--text);background:var(--surface);border:1px solid var(--border);border-radius:999px;padding:8px 16px}
+.g-search input::placeholder{color:var(--muted)}
+.g-theme{order:1;margin-left:auto}
+@media (min-width:900px){
+  .g-wrap{padding-inline:32px}
+  .g-kinds{order:0;flex-basis:auto}
+  .g-search{order:0;flex:1;flex-basis:auto;display:flex;justify-content:flex-end}
+  .g-search input{max-width:340px}
+  .g-theme{order:0;margin-left:0}
+}
+.g-btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;border:1px solid var(--border);background:var(--raised);color:var(--text);border-radius:999px;padding:6px 14px;font:inherit;font-size:14px;font-weight:500;line-height:1.4;cursor:pointer;text-decoration:none;white-space:nowrap}
+.g-btn:hover:not(:disabled){border-color:var(--text)}
+.g-btn:disabled{opacity:.45;cursor:default}
+.g-btn-primary{background:var(--accent);color:var(--accent-ink);border-color:var(--accent)}
+.g-icon-btn{width:40px;height:40px;padding:0;font-size:18px}
+.g-icon-btn svg{width:18px;height:18px}
+[data-theme=dark] .g-moon,:root:not([data-theme=dark]) .g-sun{display:none}
+.g-hero{padding:48px 0 28px;display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
+.g-hero h1{font-size:clamp(40px,7vw,68px)}
+.g-lead{font-size:18px;color:var(--muted);max-width:68ch}
+.g-hero p code{white-space:nowrap}
+.g-crumbs{display:flex;gap:8px;font-size:14px;color:var(--muted);padding-top:24px}
+.g-crumbs a{text-decoration:none}
+.g-crumbs a:hover{color:var(--text);text-decoration:underline}
+.g-facts{display:flex;flex-wrap:wrap;gap:6px 18px;list-style:none;margin:0;padding:0;font-size:14px;color:var(--muted)}
+.g-copyrow{display:flex;align-items:center;gap:8px;max-width:640px;background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:6px 6px 6px 14px}
+.g-copyrow code{flex:1;min-width:0;overflow-x:auto;white-space:nowrap;scrollbar-width:none}
+html:not(.js) .g-copyrow{padding-right:14px}
+.g-chips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 24px}
+@media (max-width:899px){.g-chips{flex-wrap:nowrap;overflow-x:auto;scrollbar-width:none;margin-right:-16px;padding-right:16px}}
+.g-chip{flex:none;border:1px solid var(--border);background:transparent;color:var(--text);border-radius:999px;padding:4px 12px;font:inherit;font-size:14px;cursor:pointer}
+.g-chip[aria-pressed=true]{background:var(--text);color:var(--bg);border-color:var(--text)}
+.g-list{list-style:none;margin:0;padding:0}
+.g-empty{color:var(--muted);text-align:center;padding:64px 0}
+.g-badge{display:inline-block;font-size:12px;font-weight:600;line-height:1;padding:5px 8px;border-radius:999px;background:var(--accent);color:var(--accent-ink)}
+.g-tag{display:inline-block;font-size:12px;line-height:1;padding:5px 8px;border-radius:999px;background:var(--chip);color:var(--muted)}
+.g-label{display:block;font-size:13px;font-weight:600;color:var(--muted);margin-bottom:6px}
+.g-note{font-size:13px;color:var(--muted);margin-top:6px}
+.g-actions{display:flex;flex-wrap:wrap;gap:8px}
+.g-box{display:grid;gap:12px;margin:0 0 28px;padding:14px 16px;background:var(--surface);border:1px solid var(--border);border-radius:18px}
+.g-box-head{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.g-box h2{font-family:inherit;font-size:14px;font-weight:600;line-height:1;color:var(--muted)}
+.g-swatches{display:flex;flex-wrap:wrap;gap:8px}
+.g-swatch{display:inline-flex;align-items:center;gap:8px;padding:3px 12px 3px 3px;font-size:14px;background:var(--raised);border:1px solid var(--border);border-radius:999px;cursor:pointer}
+.g-swatch:focus-within{outline:2px solid var(--focus);outline-offset:2px}
+.g-swatch.is-changed{border-color:var(--text)}
+.g-swatch small{font-size:12px;color:var(--muted)}
+.g-swatch.is-changed small{display:none}
+.g-swatch input{width:28px;height:28px;padding:0;border:0;border-radius:50%;background:none;cursor:pointer}
+.g-swatch input:focus-visible{outline:none}
+.g-swatch input::-webkit-color-swatch-wrapper{padding:0}
+.g-swatch input::-webkit-color-swatch{border:1px solid var(--ring);border-radius:50%}
+.g-swatch input::-moz-color-swatch{border:1px solid var(--ring);border-radius:50%}
+.g-svg,.g-svg svg{display:block;width:100%;height:100%}
+.g-panel{display:none;position:fixed;z-index:20;top:0;right:0;bottom:0;width:min(480px,100%);flex-direction:column;overflow-y:auto;background:var(--bg);border-left:1px solid var(--border);box-shadow:var(--shadow)}
+.g-panel.is-open,html:not(.js) .g-panel:target{display:flex}
+.g-panel-head{position:sticky;top:0;z-index:1;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px 14px 20px;background:var(--bg);border-bottom:1px solid var(--border)}
+.g-panel-head h2{font-size:26px;overflow-wrap:anywhere}
+.g-panel-body{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;padding:20px}
+.g-panel:focus{outline:none}
+.g-backdrop{display:none;position:fixed;z-index:10;inset:0;background:rgb(0 0 0/.4)}
+.g-panel-open .g-backdrop,html:not(.js) .g-panel:target~.g-backdrop{display:block}
+html.g-panel-open{overflow:hidden}
+.g-footer{margin-top:96px;border-top:1px solid var(--border);padding:32px 0 40px;font-size:14px;color:var(--muted)}
+.g-footer .g-wrap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:12px 32px}
+.g-cta{color:var(--text);font-size:16px}
+.g-cta a{font-weight:600}
 
-    header {
-      padding: 2rem;
-      border-bottom: 1px solid var(--border);
-      display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem;
-    }
-    header h1 { font-size: 1.25rem; font-weight: 600; }
-    header p { color: var(--text-muted); font-size: 0.875rem; margin-top: 0.25rem; }
-    .badge { background: var(--surface); border: 1px solid var(--border); border-radius: 9999px; padding: 0.25rem 0.75rem; font-size: 0.75rem; color: var(--text-muted); }
-
-    .search-bar { padding: 1.25rem 2rem; border-bottom: 1px solid var(--border); display: flex; gap: 1rem; align-items: center; flex-wrap: wrap; }
-    .search-bar input { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; color: var(--text); padding: 0.5rem 0.875rem; font-size: 0.875rem; width: 260px; outline: none; }
-    .search-bar input:focus { border-color: var(--accent); }
-
-    main { padding: 2rem; max-width: 1400px; margin: 0 auto; }
-    .sets-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; }
-
-    .set-card {
-      background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden;
-      transition: border-color 0.15s;
-    }
-    .set-card:hover { border-color: var(--accent); }
-    .set-header { padding: 1rem 1.25rem; border-bottom: 1px solid var(--border); }
-    .set-header h2 { font-size: 1rem; font-weight: 600; }
-    .set-meta { display: flex; align-items: center; gap: 0.5rem; margin-top: 0.375rem; flex-wrap: wrap; }
-    .tag { background: var(--bg); border: 1px solid var(--border); border-radius: 4px; padding: 0.125rem 0.5rem; font-size: 0.7rem; color: var(--text-muted); }
-    .count { font-size: 0.75rem; color: var(--text-muted); margin-left: auto; }
-
-    .palette-bar { padding: 0.625rem 1.25rem; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; min-height: 2.5rem; }
-    .palette-slot { display: flex; align-items: center; gap: 0.375rem; font-size: 0.7rem; color: var(--text-muted); }
-    .palette-slot input[type="color"] { width: 20px; height: 20px; border: none; border-radius: 50%; cursor: pointer; background: none; padding: 0; appearance: none; -webkit-appearance: none; }
-    .palette-slot input[type="color"]::-webkit-color-swatch-wrapper { padding: 0; border-radius: 50%; }
-    .palette-slot input[type="color"]::-webkit-color-swatch { border: 1px solid rgba(255,255,255,0.15); border-radius: 50%; }
-
-    .ills-grid { padding: 1rem; display: grid; grid-template-columns: repeat(auto-fill, minmax(80px, 1fr)); gap: 0.5rem; }
-    .ill-item { aspect-ratio: 1; background: var(--bg); border-radius: 6px; display: flex; align-items: center; justify-content: center; overflow: hidden; cursor: pointer; position: relative; }
-    .ill-item svg { width: 100%; height: 100%; }
-    .ill-item img { width: 100%; height: 100%; object-fit: contain; }
-    .ill-item .ill-label { position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.7); color: #fff; font-size: 0.6rem; padding: 0.15rem 0.25rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; opacity: 0; transition: opacity 0.15s; }
-    .ill-item:hover .ill-label { opacity: 1; }
-    .ill-loading { width: 100%; height: 100%; background: linear-gradient(90deg, var(--surface) 25%, var(--border) 50%, var(--surface) 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 6px; }
-    @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
-
-    .no-results { text-align: center; color: var(--text-muted); padding: 4rem 2rem; }
-
-    .cli-hint { margin-top: 0.5rem; padding: 0.5rem 1.25rem; border-top: 1px solid var(--border); font-size: 0.7rem; color: var(--text-muted); font-family: monospace; }
-
-    footer { border-top: 1px solid var(--border); padding: 1.5rem 2rem; text-align: center; color: var(--text-muted); font-size: 0.8rem; }
-  </style>
+.g-overview-illustration{display:grid;gap:24px;grid-template-columns:repeat(auto-fill,minmax(min(300px,100%),1fr))}
+.ill-card{display:flex;flex-direction:column;height:100%;text-decoration:none;background:var(--raised);border:1px solid var(--border);border-radius:18px;overflow:hidden;transition:border-color .15s}
+.ill-card:hover{border-color:var(--text)}
+.ill-media{display:grid;grid-template-columns:3fr 1fr;grid-template-rows:repeat(3,1fr);gap:6px;padding:14px;background:var(--canvas)}
+.ill-media img{display:block;width:100%;height:100%;object-fit:contain;min-width:0;min-height:0}
+.ill-hero{grid-row:1/4;aspect-ratio:1}
+.ill-thumb{aspect-ratio:1;background:rgb(255 255 255/.55);border-radius:8px}
+.ill-body{display:grid;gap:8px;padding:14px 18px 18px}
+.ill-title{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.ill-title h2{font-size:24px}
+.ill-meta{display:flex;align-items:center;gap:10px;font-size:14px;color:var(--muted)}
+.ill-dots{display:flex}
+.ill-dots i{width:16px;height:16px;border-radius:50%;border:2px solid var(--raised);box-shadow:inset 0 0 0 1px var(--ring);margin-left:-5px}
+.ill-dots i:first-child{margin-left:0}
+.ill-tags{display:flex;flex-wrap:wrap;gap:6px}
+.ill-tiles{display:grid;gap:20px 16px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+@media (max-width:520px){.ill-tiles{grid-template-columns:repeat(2,1fr);gap:14px 10px}}
+.ill-tile{display:block;aspect-ratio:1;padding:12px;background:var(--canvas);border:1px solid transparent;border-radius:16px}
+.ill-tile:hover{border-color:var(--text)}
+.ill-tile img,.ill-tile svg,.ill-preview img,.ill-preview svg{display:block;width:100%;height:100%;object-fit:contain}
+.ill-name{display:block;margin-top:6px;font-size:13px;color:var(--muted);text-align:center;overflow-wrap:anywhere}
+.ill-preview{aspect-ratio:1;padding:20px;background:var(--canvas);border-radius:16px}
+</style>
 </head>
 <body>
-  <header>
-    <div>
-      <h1>Artifisio Illustrations</h1>
-      <p>Open-source registry · <strong>27 sets</strong> · <strong>541 illustrations</strong></p>
-    </div>
-    <div style="display:flex;gap:0.75rem;align-items:center;flex-wrap:wrap">
-      <span class="badge">v2026.10.26-0950-2d9a969</span>
-      <a href="https://artifisio.com" class="badge">artifisio.com ↗</a>
-      <a href="https://www.npmjs.com/package/artifisio" class="badge">artifisio ↗</a>
-    </div>
-  </header>
-
-  <div class="search-bar">
-    <input type="search" id="search" placeholder="Search sets…" autocomplete="off" />
-    <span style="font-size:0.8rem;color:var(--text-muted)">Click palette swatches to preview colours</span>
+<header class="g-header">
+  <div class="g-wrap g-bar">
+    <a class="g-brand" href="https://artifisio.com">Artifisio</a>
+    <nav class="g-kinds" aria-label="Registries"><a href="https://artifisio.github.io/illustrations/" aria-current="page">Illustrations</a><a href="https://artifisio.github.io/icons/">Icons</a><a href="https://artifisio.github.io/fonts/">Fonts</a></nav>
+    <div class="g-search g-js"><label class="g-sr" for="g-search">Search sets</label><input id="g-search" type="search" placeholder="Search sets" autocomplete="off" /></div>
+    <button type="button" class="g-btn g-icon-btn g-theme g-js" aria-label="Dark mode" aria-pressed="false"><svg class="g-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg><svg class="g-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg></button>
   </div>
+</header>
+<main class="g-wrap">
+<section class="g-hero">
+  <h1>Illustrations</h1>
+  <p class="g-lead">27 sets, 541 open-licensed illustrations. Every SVG is themeable through CSS variables; recolour a set, then install it with one command.</p>
+  <p>Install any set with <code>npx artifisio add &lt;set&gt;</code></p>
+</section>
+<div class="g-chips g-js" role="group" aria-label="Filter sets"><button type="button" class="g-chip" data-tag="" aria-pressed="true">All</button><button type="button" class="g-chip" data-tag="animals" aria-pressed="false">animals</button><button type="button" class="g-chip" data-tag="vintage" aria-pressed="false">vintage</button></div>
+<ul class="g-list g-overview-illustration">
+<li data-search="strawhat strawhat infuse your projects with the breezy, adventurous spirit of a sun-soaked afternoon using this heartwarming collection. whether you are crafting personalized stationery or building an inviting brand, these illustrations help you share a sense of nostalgic freedom and simple joy. you will love how easily they transform your creative work into stories that feel like a cherished summer memory. " data-tags=""><a class="ill-card" href="strawhat/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/strawhat/webp/boy-playing-guitar-2.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/strawhat/webp/character-taking-selfie.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/strawhat/webp/character-holding-trophy.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/strawhat/webp/superhero-cape-character-2.webp" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Strawhat</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span>16 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="duck duck round yellow ducks as lineless sticker art — soft gradients, bead eyes and red beaks, caught reading, snacking and taking selfies. sticker cute animals " data-tags="sticker cute animals"><a class="ill-card" href="duck/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/duck/webp/eating-burger.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/duck/webp/birdwatching.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/duck/webp/superhero-duck.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/duck/webp/reading.webp" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>duck</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span>9 illustrations</span></div>
+    <div class="ill-tags"><span class="g-tag">sticker</span><span class="g-tag">cute</span><span class="g-tag">animals</span></div>
+  </div>
+</a></li>
+<li data-search="surreality surreality place your audience in the heart of the impossible with these evocative scenes that blur the lines between dreams and reality. you can use these striking visuals to give your next project a sense of profound wonder and mystery that lingers in the viewer’s mind. each piece offers a unique way to spark deep curiosity, making your work stand out as something truly unforgettable. " data-tags=""><a class="ill-card" href="surreality/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/webp/teapot.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/teapot.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/pet.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/pet.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/umbrella.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/umbrella.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/bicycle-octagonal.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/bicycle-octagonal.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Surreality</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#F6F4E9" title="Cream Background"></i><i style="background:#000000" title="Black Outline"></i><i style="background:#F6F5F0" title="Skin Tone"></i><i style="background:#C49527" title="Muted Gold"></i><i style="background:#577E75" title="Muted Teal"></i><i style="background:#98634E" title="Terracotta Brown"></i><i style="background:#A9A9A4" title="Neutral Grey"></i></span><span>12 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="allanpoe allanpoe surround your designs with the haunting mystery and dark elegance of a classic gothic tale. whether you are crafting atmospheric book covers or moody social media posts, these pieces help you tell stories that feel both deeply poetic and slightly unsettling. you will captivate your audience with a sense of timeless drama that breathes life into your most shadow-filled creative visions. " data-tags=""><a class="ill-card" href="allanpoe/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/allanpoe/svg/character-reading-book.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/allanpoe/svg/character-holding-magnifying-glass.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/allanpoe/svg/superhero-cape.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/allanpoe/svg/smiling-man.svg" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>allanpoe</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span>8 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="kawaii illustrations-61177 chibi characters with oversized heads, dot eyes and pink blushes — bold outlines, flat cel shading, everyday moments from selfies to trophies. kawaii chibi characters " data-tags="kawaii chibi characters"><a class="ill-card" href="illustrations-61177/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/illustrations-61177/svg/character-speaking-microphone.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/illustrations-61177/svg/character-taking-selfie-4.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/illustrations-61177/svg/flower-planting-character.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/illustrations-61177/svg/character-reading-book.svg" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>kawaii</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span>14 illustrations</span></div>
+    <div class="ill-tags"><span class="g-tag">kawaii</span><span class="g-tag">chibi</span><span class="g-tag">characters</span></div>
+  </div>
+</a></li>
+<li data-search="unicorn life unicorn-life infuse your next creative project with pure magic as you follow this lovable unicorn through its most whimsical daily adventures. whether you are designing heartwarming stationery or brightening up your digital workspace, these illustrations bring a sense of wonder that will leave you and your audience smiling. " data-tags=""><a class="ill-card" href="unicorn-life/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/shopping-basket.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/shopping-basket.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/hearth-balloon.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/hearth-balloon.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/key.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/key.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/writing.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/writing.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Unicorn Life</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#222035" title="Dark Outline"></i><i style="background:#FFFFFF" title="Body White"></i><i style="background:#C2B0D3" title="Soft Purple"></i><i style="background:#A6D7D0" title="Soft Teal"></i><i style="background:#EE9D99" title="Warm Pink"></i><i style="background:#FBD3C9" title="Muzzle Peach"></i><i style="background:#626482" title="Muted Shadow"></i></span><span>14 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="simple people simple-people infuse your brand with a sense of genuine connection using these friendly characters that make every interaction feel more personal and inviting. whether you are designing a landing page or a social media post, these versatile figures help you communicate complex ideas with a warm, human touch. this set is your secret tool for building instant trust and making your audience feel right at home. " data-tags=""><a class="ill-card" href="simple-people/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/vr-headset.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/vr-headset.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/watering.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/watering.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/magnifying-glass.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/magnifying-glass.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/binoculars.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/binoculars.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Simple People</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#F6F6EC" title="Background"></i><i style="background:#000000" title="Lines"></i><i style="background:#FE6C51" title="Coral Red"></i><i style="background:#F9AC3F" title="Warm Orange"></i><i style="background:#99B295" title="Sage Green"></i><i style="background:#C3BCB3" title="Soft Grey"></i></span><span>19 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="scribble-people scribble-people infuse your next project with a sense of raw, human connection using these expressive figures that capture the beauty of a fleeting moment. these characters add an approachable, heartfelt charm to your designs, making your brand feel instantly more relatable and alive. you can easily transform any digital layout into a warm, storytelling experience that resonates deeply with your audience. " data-tags=""><a class="ill-card" href="scribble-people/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/404.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/404.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/credit-card.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/credit-card.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/webp/vr-headset.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/vr-headset.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/shopping-bags.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/shopping-bags.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>scribble-people</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#000000" title="Line Color"></i><i style="background:#FBDC1D" title="Accent Yellow"></i><i style="background:#444446" title="Dark Gray"></i><i style="background:#FFFFFF" title="White Fill"></i></span><span>20 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="sumi-e ink sumi-e-ink infuse your designs with a sense of zen-like calm and modern grace using these soulful portraits that capture a quiet, thoughtful strength. you will find these fluid illustrations perfect for adding a touch of timeless sophistication to your branding, social media, or personal storytelling. each piece invites your audience to slow down and appreciate the poetic beauty found in a single, expressive moment. " data-tags=""><a class="ill-card" href="sumi-e-ink/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sumi-e-ink/webp/pruning-bonsai.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sumi-e-ink/webp/mountain-laptop.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sumi-e-ink/webp/using-tablet-mountain.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sumi-e-ink/webp/meditating-mountains.webp" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Sumi-e Ink</h2><span class="g-badge">Featured</span></div>
+    <div class="ill-meta"><span>9 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="zenithglade zenithglade bring a sense of profound stillness to your next project by blending the wonders of the future with the timeless art of inner peace. these illustrations are your gateway to creating a digital sanctuary that resonates with anyone looking to find their center in a fast-paced world. you will give your brand a soul that feels both cutting-edge and deeply restorative. " data-tags=""><a class="ill-card" href="zenithglade/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade1.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade1.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade2.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade2.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade3.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade3.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade4.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade4.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Zenithglade</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#445257" title="Deep Charcoal Teal"></i><i style="background:#1a1924" title="Deep Charcoal"></i><i style="background:#ddb77a" title="Muted Gold"></i><i style="background:#70866d" title="Sage Green"></i><i style="background:#b1a5c3" title="Soft Lavender"></i><i style="background:#c47f5f" title="Warm Terracotta"></i><i style="background:#d7a06e" title="Warm Skin Tone"></i><i style="background:#b9cfcc" title="Cool Silver"></i></span><span>32 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="orbitab orbitab elevate your daily planning with a cosmic touch that turns every mundane task into an interstellar adventure. these charming space-themed stationery pieces bring a sense of wonder to your digital notebooks, helping you stay inspired as you navigate your galaxy of ideas. " data-tags=""><a class="ill-card" href="orbitab/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab1.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab1.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab2.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab2.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab3.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab3.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab4.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab4.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Orbitab</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#161042" title="Deep Space Blue"></i><i style="background:#6d4ace" title="Cosmic Purple"></i><i style="background:#e9c270" title="Star Gold"></i><i style="background:#eb9c92" title="Planet Coral"></i><i style="background:#e9e6e6" title="Moonlight White"></i><i style="background:#070513" title="Midnight Black"></i></span><span>33 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="fernforge fernforge transform your designs with a serene vision of technology and nature working in perfect, nurturing harmony as mechanical arms tend to delicate succulents. you will find endless inspiration in these gentle guardians that bring a sense of quiet wonder and modern tranquility to your digital or physical spaces. this collection is the perfect choice for infusing your branding or decor with a unique atmosphere of care and futuristic peace. " data-tags=""><a class="ill-card" href="fernforge/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-stacking-coins.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-stacking-coins.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-watering-plant.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-watering-plant.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-protecting-small.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-protecting-small.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-hand-2.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-hand-2.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Fernforge</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#030403" title="Deep Black"></i><i style="background:#e0d9bd" title="Cream White"></i><i style="background:#475a6a" title="Muted Blue"></i><i style="background:#37493d" title="Forest Teal"></i><i style="background:#78824b" title="Leaf Green"></i><i style="background:#d4764a" title="Terracotta Orange"></i></span><span>25 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="lumenaut lumenaut plunge into the silent, glowing depths of the ocean and bring a sense of profound mystery to your creative projects. these scenes invite your audience to explore the unreachable, making them ideal for immersive world-building or evocative editorial designs. you will transform your work into a captivating journey through the dark, where every glimmer of light tells a story of wonder and survival. " data-tags=""><a class="ill-card" href="lumenaut/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/two-small-robots.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/two-small-robots.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/robotic-submarine-filled-dice.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/robotic-submarine-filled-dice.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/geometric-underwater-scene.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/geometric-underwater-scene.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/mechanical-submarine-padlock.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/mechanical-submarine-padlock.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Lumenaut</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#0b2148" title="Deep Navy"></i><i style="background:#1c3f5d" title="Dark Slate Blue"></i><i style="background:#4e9b96" title="Seafoam Teal"></i><i style="background:#de8b87" title="Coral Pink"></i><i style="background:#9e9ad6" title="Soft Lavender"></i><i style="background:#8386a5" title="Steel Blue"></i><i style="background:#ddf7f8" title="Light Mist"></i><i style="background:#f5f8f8" title="Paper White"></i></span><span>35 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="voltweave voltweave immerse your audience in the rhythmic pulse of creativity with these vibrant scenes of a musician lost in his modular craft. you can use these soulful visuals to give your next music project or tech brand an undeniable sense of energy and human connection. it is the perfect way to make your digital space feel as alive and layered as a live performance. " data-tags=""><a class="ill-card" href="voltweave/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/control-panel-large-buy.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/control-panel-large-buy.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/padlock-synthesizer-module.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/padlock-synthesizer-module.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/young-man-messy-black-3.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/young-man-messy-black-3.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/hexagonal-bitcoin-device-wires.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/hexagonal-bitcoin-device-wires.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Voltweave</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#3963d1" title="Main Blue"></i><i style="background:#e26a27" title="Vibrant Orange"></i><i style="background:#050505" title="Ink Black"></i><i style="background:#4b4b4c" title="Machine Dark Gray"></i><i style="background:#9d9c9c" title="Machine Light Gray"></i><i style="background:#f8f6f3" title="Paper White"></i></span><span>33 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="fresh sourdough fresh-sourdough bring the warmth of a sun-drenched kitchen to your next project with these charming illustrations that celebrate the slow art of sourdough. whether you are designing a cozy bakery menu or sharing your favorite recipe, these visuals capture the soulful connection between the baker and the loaf. you will love how these pieces turn every design into a heartfelt tribute to the craft of handmade bread. " data-tags=""><a class="ill-card" href="fresh-sourdough/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/waking-sourdough.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/waking-sourdough.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/sealed-envelope.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/sealed-envelope.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/locking-flour.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/locking-flour.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/sourdough-inspection.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/sourdough-inspection.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Fresh sourdough</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#8b8d70" title="Muted Sage"></i><i style="background:#b77c3d" title="Warm Ochre"></i><i style="background:#64441e" title="Deep Wood"></i><i style="background:#c6bfb7" title="Metal Grey"></i><i style="background:#eacba2" title="Skin Tone"></i><i style="background:#f5ead9" title="Cream Flour"></i><i style="background:#37352d" title="Charcoal Brown"></i></span><span>15 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="rooftop garden rooftop-garden bring your vision of a greener future to life with illustrations that capture the peaceful harmony of urban farming and renewable energy. you can use these versatile scenes to inspire your audience to embrace a more sustainable lifestyle through your digital content and brand storytelling. each piece offers a refreshing perspective on how we coexist with nature, making your environmental message feel both hopeful and impactful. " data-tags=""><a class="ill-card" href="rooftop-garden/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/rooftop-garden/svg/sustainable-finance.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/rooftop-garden/svg/greener-future-2.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/rooftop-garden/svg/urban-gardening-11.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/rooftop-garden/svg/sustainable-urban-farming-2.svg" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Rooftop garden</h2></div>
+    <div class="ill-meta"><span>36 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="deoxyribonucleic deoxyribonucleic you can transform your complex scientific concepts into a story of wonder and human connection with these vibrant scenes of discovery. these illustrations provide the perfect backdrop for your biotech blog or educational materials, making the mysteries of the genetic code feel both accessible and exciting. witness the power of teamwork as your projects come to life with the glow of a shared breakthrough. " data-tags=""><a class="ill-card" href="deoxyribonucleic/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/deoxyribonucleic/svg/shared-breakthrough.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/deoxyribonucleic/svg/sharing-knowledge.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/deoxyribonucleic/svg/vault-door.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/deoxyribonucleic/svg/discovering-genetic-code-3.svg" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>deoxyribonucleic</h2></div>
+    <div class="ill-meta"><span>36 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="bio astronaut bio-astronaut bring a sense of serene discovery to your creative projects with this evocative collection of a space traveler nurturing life in the void. these scenes perfectly capture the balance between futuristic innovation and quiet reflection, helping you connect with your audience on a deeper, more mindful level. " data-tags=""><a class="ill-card" href="bio-astronaut/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bio-astronaut/svg/nurturing-life-7.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bio-astronaut/svg/digital-credit.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bio-astronaut/svg/invoice-scroll.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bio-astronaut/svg/visualization.svg" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Bio astronaut</h2></div>
+    <div class="ill-meta"><span>36 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="urban delivery urban-delivery bring the pulse of the modern city to your designs with these versatile delivery courier illustrations that capture the spirit of movement and reliability. you can use these scenes to build trust and connection in your next app or website project, making your brand feel both approachable and efficient. elevate your storytelling by adding a human touch that resonates with anyone waiting for their next big arrival. " data-tags=""><a class="ill-card" href="urban-delivery/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/urban-delivery/svg/inspecting-delivery.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/urban-delivery/svg/safe.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/urban-delivery/svg/wearing-unknown.svg" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/urban-delivery/svg/biometric-lock.svg" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Urban delivery</h2></div>
+    <div class="ill-meta"><span>33 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="geometric city geometric-city elevate your brand with a sense of modern rhythm and structured energy that captures the pulse of a perfectly organized metropolis. you can easily craft sophisticated backdrops for your next big project, turning simple layouts into vibrant worlds that communicate a vision of progress and precision. these illustrations give you the power to build a professional aesthetic that feels both refreshingly clean and full of life. " data-tags=""><a class="ill-card" href="geometric-city/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/dog-walking.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/dog-walking.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/selfie-portrait.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/selfie-portrait.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/dancing-city.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/dancing-city.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/shopping-bags.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/shopping-bags.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Geometric City</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#f8e4c5" title="Background Cream"></i><i style="background:#0b0205" title="Outline Black"></i><i style="background:#262f50" title="Deep Navy"></i><i style="background:#d39c4c" title="Warm Gold"></i><i style="background:#bc6245" title="Terracotta Red"></i><i style="background:#e6c49b" title="Skin Tone"></i><i style="background:#773b3c" title="Muted Shadow"></i></span><span>10 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="lakeside yoga lakeside-yoga elevate your wellness brand with a collection that captures the quiet harmony of a morning stretch by the water's edge. you will give your audience a moment of stillness and connection, turning every design into a restorative retreat from the busy world. these versatile scenes bring a sense of grounded tranquility to your social media posts, studio flyers, or personal journals. " data-tags=""><a class="ill-card" href="lakeside-yoga/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/smartwatch.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/smartwatch.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/guided-meditation.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/guided-meditation.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/tying-sneakers.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/tying-sneakers.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/smelling-lavender.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/smelling-lavender.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Lakeside Yoga</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#F9F9F0" title="Background Cream"></i><i style="background:#000000" title="Outline Black"></i><i style="background:#A9D5BD" title="Muted Green"></i><i style="background:#ACA3C7" title="Muted Purple"></i><i style="background:#cfeaed" title="Muted Blue"></i><i style="background:#f9bea4" title="Skin Tone"></i><i style="background:#ce907f" title="Dark Brown"></i><i style="background:#cf707a" title="Red Fruits"></i></span><span>18 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="sustainable sustainable bring your eco-conscious vision to life and inspire your audience to embrace a more mindful way of living. these illustrations provide the perfect touch for your green branding or environmental advocacy, making your message feel both grounded and hopeful. you can transform your digital presence into a sanctuary of growth that resonates with nature lovers everywhere. " data-tags=""><a class="ill-card" href="sustainable/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/walking-vegetables.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/walking-vegetables.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/folding-clothes.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/folding-clothes.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/coffee-chat.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/coffee-chat.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/reading-chair.svg" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/reading-chair.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Sustainable</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#f5f3ec" title="Background Cream"></i><i style="background:#120100" title="Line Art"></i><i style="background:#959e8c" title="Sage Green"></i><i style="background:#c3866c" title="Terracotta"></i><i style="background:#717f88" title="Muted Blue"></i><i style="background:#dbc8b0" title="Skin Tone"></i><i style="background:#584e4c" title="Hair Brown"></i><i style="background:#cccbc9" title="Soft Grey"></i></span><span>9 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="bottle-herb bottle-herb infuse your creative projects with a sense of wonder using this charming glass bottle character that brings a tiny, herbal world to life. these whimsical illustrations are perfect for adding a touch of magic to your stationery, branding, or digital journals. you will love how each expressive pose sparks joy and captures the imagination of your audience instantly. " data-tags=""><a class="ill-card" href="bottle-herb/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/webp/empty.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/svg/empty.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/webp/lock.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/svg/lock.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/webp/bell.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/svg/bell.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/webp/settings.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/svg/settings.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>bottle-herb</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#FAF8EC" title="Cream Background"></i><i style="background:#080201" title="Deep Charcoal"></i><i style="background:#D19A59" title="Amber Liquid"></i><i style="background:#C37D5D" title="Dusty Rose"></i><i style="background:#B58C60" title="Cork Brown"></i><i style="background:#EEDDC3" title="Parchment"></i><i style="background:#666C5E" title="Sage Green"></i></span><span>27 illustrations</span></div>
+    
+  </div>
+</a></li>
+<li data-search="animals-paper animals-paper endangered forest animals in a layered paper-cut shadowbox — no outlines, deep drop shadows, moss, terracotta and mustard card. papercut animals 3d " data-tags="papercut animals 3d"><a class="ill-card" href="animals-paper/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/animals-paper/webp/jungle-drinking.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/animals-paper/webp/reading-eagle.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/animals-paper/webp/jungle-bike.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/animals-paper/webp/jungle-leopard-laptop.webp" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>animals-paper</h2></div>
+    <div class="ill-meta"><span>9 illustrations</span></div>
+    <div class="ill-tags"><span class="g-tag">papercut</span><span class="g-tag">animals</span><span class="g-tag">3d</span></div>
+  </div>
+</a></li>
+<li data-search="appliances-1930s appliances-1930s kitchen appliances as 1930s rubber-hose cartoon characters — noodle limbs, white gloves, pie eyes, sepia grain and film scratches. rubber-hose vintage cartoon " data-tags="rubber-hose vintage cartoon"><a class="ill-card" href="appliances-1930s/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/appliances-1930s/webp/playing-catch.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/appliances-1930s/webp/bicycle-mixer.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/appliances-1930s/webp/saxophone-waffle.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/appliances-1930s/webp/stirring-mixer.webp" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Appliances-1930s</h2></div>
+    <div class="ill-meta"><span>9 illustrations</span></div>
+    <div class="ill-tags"><span class="g-tag">rubber-hose</span><span class="g-tag">vintage</span><span class="g-tag">cartoon</span></div>
+  </div>
+</a></li>
+<li data-search="neoclassic-street-art neoclassic-street-art classical marble statues dropped into neon street art — heavy outlines, halftone, spray-paint drips, cyan and magenta on cracked concrete. street-art classical neon " data-tags="street-art classical neon"><a class="ill-card" href="neoclassic-street-art/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/webp/centurion-electric-scooter.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/svg/centurion-electric-scooter.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/webp/cupid-bubble-tea.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/svg/cupid-bubble-tea.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/webp/medusa-polaroid.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/svg/medusa-polaroid.svg" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/webp/david-headphones.webp" alt="" loading="lazy" width="512" height="512" data-svg="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/svg/david-headphones.svg" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>neoclassic-street-art</h2></div>
+    <div class="ill-meta"><span class="ill-dots" aria-hidden="true"><i style="background:#3DCCC3" title="Neon Cyan"></i><i style="background:#C54CBA" title="Neon Magenta"></i><i style="background:#e6ef2c" title="Neon Yellow"></i><i style="background:#B5B4B4" title="Statue Gray"></i><i style="background:#424242" title="Deep Shadow"></i><i style="background:#0E0A0A" title="Outline Black"></i></span><span>13 illustrations</span></div>
+    <div class="ill-tags"><span class="g-tag">street-art</span><span class="g-tag">classical</span><span class="g-tag">neon</span></div>
+  </div>
+</a></li>
+<li data-search="insects art nouveau insects-art-nouveau anthropomorphic insects in a clean art nouveau frame — whiplash curves, lily borders, star charts, sage, dusty rose and ochre on grainy paper. art-nouveau insects vintage " data-tags="art-nouveau insects vintage"><a class="ill-card" href="insects-art-nouveau/">
+  <div class="ill-media"><img class="ill-hero" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/insects-art-nouveau/webp/gym.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/insects-art-nouveau/webp/book.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/insects-art-nouveau/webp/painting-beetle.webp" alt="" loading="lazy" width="512" height="512" /><img class="ill-thumb" src="https://raw.githubusercontent.com/artifisio/illustrations/main/sets/insects-art-nouveau/webp/moth-drinking-tea.webp" alt="" loading="lazy" width="512" height="512" /></div>
+  <div class="ill-body">
+    <div class="ill-title"><h2>Insects Art Nouveau</h2></div>
+    <div class="ill-meta"><span>11 illustrations</span></div>
+    <div class="ill-tags"><span class="g-tag">art-nouveau</span><span class="g-tag">insects</span><span class="g-tag">vintage</span></div>
+  </div>
+</a></li>
+</ul>
+<p class="g-empty" hidden>No sets match your search.</p>
+</main>
+<div class="g-panels">
 
-  <main>
-    <div class="sets-grid" id="sets-grid">
-      <div class="no-results">Loading…</div>
-    </div>
-  </main>
+<a class="g-backdrop g-close" href="#" tabindex="-1" aria-hidden="true"></a>
+</div>
+<footer class="g-footer">
+  <div class="g-wrap">
+    <p class="g-cta">Need something custom? <a href="https://artifisio.com">Generate it on artifisio.com</a></p>
+    <p>Registry <code>2026.10.27-2116-36700ff</code> · <a href="https://github.com/artifisio/illustrations/blob/main/LICENSE">License</a> · <a href="https://github.com/artifisio/illustrations">GitHub repository</a></p>
+  </div>
+</footer>
+<script>
+(() => {
+  const root = document.documentElement
+  const all = (sel) => [...document.querySelectorAll(sel)]
+  const matches = (text,q)=>q.split(/\s+/).every(t=>text.includes(t))
 
-  <footer>
-    Illustrations by <a href="https://artifisio.com">Artifisio</a> · Registry version <code>2026.10.26-0950-2d9a969</code> · <a href="../LICENSE">License</a>
-  </footer>
+  const theme = document.querySelector('.g-theme')
+  const syncTheme = () => theme.setAttribute('aria-pressed', String(root.dataset.theme === 'dark'))
+  theme.addEventListener('click', () => {
+    root.dataset.theme = root.dataset.theme === 'dark' ? 'light' : 'dark'
+    try { localStorage.setItem('artifisio-gallery-theme', root.dataset.theme) } catch {}
+    syncTheme()
+  })
+  syncTheme()
 
-  <script type="module">
-    const CDN = 'https://cdn.jsdelivr.net/gh/artifisio/illustrations@main'
-    const MANIFEST_URL = CDN + '/manifest.json'
-
-    // Inline injectSvgCssVars to avoid external dependency in the gallery
-    function injectCssVars(svgText, palette, userColors) {
-      const overrides = palette
-        .filter(s => s.role === 'themeable' && userColors[s.slot])
-        .map(s => `--artf-${s.slot}: ${userColors[s.slot]}`)
-      if (!overrides.length) return svgText
-      const styleValue = overrides.join('; ')
-      if (/style\s*=\s*["']/.test(svgText.slice(0, 500))) {
-        return svgText.replace(/(<svg[^>]*style\s*=\s*["'])/, `$1${styleValue}; `)
-      }
-      return svgText.replace(/(<svg\b)/, `$1 style="${styleValue}"`)
+  const search = document.getElementById('g-search')
+  const empty = document.querySelector('.g-empty')
+  let tag = ''
+  function filter() {
+    const q = search.value.trim().toLowerCase()
+    let shown = 0
+    for (const el of all('[data-search]')) {
+      const ok = matches(el.dataset.search, q) && (!tag || (el.dataset.tags || '').split(' ').includes(tag))
+      el.hidden = !ok
+      if (ok) shown++
     }
+    if (empty) empty.hidden = shown > 0
+    document.dispatchEvent(new CustomEvent('gallery:filter', { detail: { q, tag } }))
+  }
+  search.addEventListener('input', filter)
+  const initial = new URLSearchParams(location.search).get('q')
+  if (initial) {
+    search.value = initial
+    filter()
+  }
+  for (const chip of all('.g-chips .g-chip')) {
+    chip.addEventListener('click', () => {
+      tag = chip.dataset.tag
+      for (const c of all('.g-chips .g-chip')) c.setAttribute('aria-pressed', String(c === chip))
+      filter()
+    })
+  }
 
-    // Per-set colour overrides (slot → hex)
-    const paletteState = {}
+  async function copy(text, button) {
+    try { await navigator.clipboard.writeText(text) } catch { return }
+    button.dataset.label ??= button.textContent
+    button.textContent = 'Copied'
+    clearTimeout(button.copyTimer)
+    button.copyTimer = setTimeout(() => { button.textContent = button.dataset.label }, 1400)
+  }
+  document.addEventListener('click', (e) => {
+    const button = e.target.closest('.g-copy')
+    if (button) copy(button.dataset.copy ?? button.closest('.g-copyrow').querySelector('code').textContent, button)
+  })
 
-    async function loadSvg(setSlug, illSlug) {
-      const url = `${CDN}/sets/${setSlug}/svg/${illSlug}.svg`
-      try {
-        const res = await fetch(url)
-        if (!res.ok) return null
-        return await res.text()
-      } catch {
-        return null
-      }
+  window.gallery = { copy, matches }
+
+  let open = null
+  let opener = null
+  let pushed = false
+  function show(id) {
+    const panel = id ? document.getElementById(id) : null
+    const next = panel && panel.classList.contains('g-panel') ? panel : null
+    const prev = open
+    if (open && open !== next) open.classList.remove('is-open')
+    open = next
+    root.classList.toggle('g-panel-open', !!next)
+    if (!next) {
+      if (prev && opener) opener.focus()
+      return
     }
-
-    function applyCssVars(container, palette, colors) {
-      const svgEls = container.querySelectorAll('.ill-svg-host')
-      for (const host of svgEls) {
-        const original = host.dataset.original
-        if (!original) continue
-        const themed = injectCssVars(original, palette, colors)
-        host.innerHTML = themed
-      }
+    next.classList.add('is-open')
+    next.querySelector('.g-close').focus()
+    document.dispatchEvent(new CustomEvent('gallery:panel', { detail: next }))
+  }
+  function close() {
+    if (!open) return
+    // Undo our own push so open + close leaves history as it was.
+    if (pushed) return history.back()
+    history.replaceState(null, '', location.pathname + location.search)
+    show(null)
+  }
+  const fromHash = () => {
+    pushed = false
+    show(decodeURIComponent(location.hash.slice(1)))
+  }
+  document.addEventListener('click', (e) => {
+    const link = e.target.closest('a[href^="#"]')
+    if (!link) return
+    if (link.classList.contains('g-close')) {
+      e.preventDefault()
+      close()
+      return
     }
-
-    function renderSet(slug, setMeta) {
-      const card = document.createElement('div')
-      card.className = 'set-card'
-      card.dataset.slug = slug
-      card.dataset.name = setMeta.name.toLowerCase()
-      card.dataset.tags = (setMeta.tags ?? []).join(' ').toLowerCase()
-
-      const palette = setMeta.palette ?? []
-      if (!paletteState[slug]) {
-        paletteState[slug] = Object.fromEntries(
-          palette.filter(s => s.role === 'themeable').map(s => [s.slot, s.hex])
-        )
-      }
-
-      const paletteHtml = palette.length
-        ? palette
-            .filter(s => s.role === 'themeable')
-            .map(s => `<label class="palette-slot" title="${s.label}">
-              <input type="color" data-slot="${s.slot}" value="${paletteState[slug][s.slot] ?? s.hex}" />
-              ${s.label}
-            </label>`)
-            .join('')
-        : '<span style="font-size:0.7rem;color:var(--text-muted)">No palette</span>'
-
-      const illsToShow = setMeta.illustrations.slice(0, 12)
-      const illsHtml = illsToShow
-        .map(ill => `<div class="ill-item" title="${ill.slug}">
-          <div class="ill-loading" id="ill-${slug}-${ill.slug}"></div>
-          <span class="ill-label">${ill.slug}</span>
-        </div>`)
-        .join('')
-
-      card.innerHTML = `
-        <div class="set-header">
-          <h2>${setMeta.name}</h2>
-          <div class="set-meta">
-            ${(setMeta.tags ?? []).map(t => `<span class="tag">${t}</span>`).join('')}
-            <span class="count">${setMeta.count} illustrations</span>
-          </div>
-        </div>
-        <div class="palette-bar" data-set="${slug}">${paletteHtml}</div>
-        <div class="ills-grid" data-set="${slug}">${illsHtml}</div>
-        <div class="cli-hint">npx artifisio add ${slug}</div>
-      `
-
-      // Wire palette pickers
-      card.querySelectorAll('input[type="color"]').forEach(input => {
-        input.addEventListener('input', () => {
-          const slot = input.dataset.slot
-          paletteState[slug][slot] = input.value
-          const container = card.querySelector('.ills-grid')
-          applyCssVars(container, palette, paletteState[slug])
-        })
-      })
-
-      // Async-load illustrations
-      ;(async () => {
-        for (const ill of illsToShow) {
-          const placeholder = card.querySelector(`#ill-${slug}-${ill.slug}`)
-          if (!placeholder) continue
-          const svgText = await loadSvg(slug, ill.slug)
-          if (!svgText) continue
-          const host = document.createElement('div')
-          host.className = 'ill-svg-host'
-          host.dataset.original = svgText
-          const themed = injectCssVars(svgText, palette, paletteState[slug])
-          host.innerHTML = themed
-          placeholder.replaceWith(host)
-        }
-      })()
-
-      return card
+    const id = decodeURIComponent(link.getAttribute('href').slice(1))
+    if (!document.getElementById(id)?.classList.contains('g-panel')) return
+    e.preventDefault()
+    opener = link
+    if (open) history.replaceState(null, '', '#' + id)
+    else {
+      history.pushState(null, '', '#' + id)
+      pushed = true
     }
-
-    async function init() {
-      const grid = document.getElementById('sets-grid')
-      const searchInput = document.getElementById('search')
-
-      let manifest
-      try {
-        const res = await fetch(MANIFEST_URL)
-        manifest = await res.json()
-      } catch (e) {
-        grid.innerHTML = '<div class="no-results">Failed to load manifest.json.</div>'
-        return
-      }
-
-      const cards = []
-      for (const [slug, setMeta] of Object.entries(manifest.sets)) {
-        const card = renderSet(slug, setMeta)
-        cards.push(card)
-      }
-
-      grid.innerHTML = ''
-      for (const card of cards) grid.appendChild(card)
-
-      searchInput.addEventListener('input', () => {
-        const q = searchInput.value.trim().toLowerCase()
-        let visible = 0
-        for (const card of grid.children) {
-          const match = !q || card.dataset.name.includes(q) || card.dataset.tags.includes(q) || card.dataset.slug.includes(q)
-          card.style.display = match ? '' : 'none'
-          if (match) visible++
-        }
-        // show no-results if nothing matches
-        let noResults = grid.querySelector('.no-results')
-        if (visible === 0 && !noResults) {
-          noResults = document.createElement('div')
-          noResults.className = 'no-results'
-          noResults.textContent = 'No sets match your search.'
-          grid.appendChild(noResults)
-        } else if (visible > 0 && noResults) {
-          noResults.remove()
-        }
-      })
-    }
-
-    init()
-  </script>
+    show(id)
+  })
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') close() })
+  addEventListener('popstate', fromHash)
+  addEventListener('hashchange', fromHash)
+  fromHash()
+})()
+</script>
 </body>
 </html>

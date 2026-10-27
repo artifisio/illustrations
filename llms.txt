@@ -1,10 +1,10 @@
 # Artifisio illustrations registry
 
-> Free, open-licensed illustrations (CC-BY-4.0) as plain files plus a versioned manifest. Install with the `artifisio` CLI or fetch files straight from the CDN. No account, no runtime dependency.
+> Free, open-licensed illustrations (CC-BY-4.0) as plain files plus a versioned manifest. Install with the `artifisio` CLI or fetch files straight from GitHub. No account, no runtime dependency.
 
-- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.26-0950-2d9a969)
+- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.27-2116-36700ff)
 - Registry index across kinds: https://raw.githubusercontent.com/artifisio/illustrations/main/index.json
-- CDN file pattern: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/<set>/<file>
+- File URL pattern: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/<set>/<file>
 - Install: `npx artifisio add <set>` (writes files + ATTRIBUTION.md)
 - Search: `npx artifisio search "<query>" --kind illustration --json`
 - License: LICENSE in this repo; attribution string is in every set's `license.attribution`.
@@ -41,30 +41,30 @@
 
 ## Preview URLs
 
-- zenithglade: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/zenithglade/svg/zenithglade1.svg
-- orbitab: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/orbitab/svg/orbitab1.svg
-- fernforge: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/fernforge/svg/robotic-arm-stacking-coins.svg
-- lumenaut: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/lumenaut/svg/two-small-robots.svg
-- voltweave: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/voltweave/svg/control-panel-large-buy.svg
-- fresh-sourdough: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/fresh-sourdough/svg/waking-sourdough.svg
-- rooftop-garden: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/rooftop-garden/svg/sustainable-finance.svg
-- deoxyribonucleic: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/deoxyribonucleic/svg/shared-breakthrough.svg
-- bio-astronaut: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/bio-astronaut/svg/nurturing-life-7.svg
-- urban-delivery: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/urban-delivery/svg/inspecting-delivery.svg
-- sumi-e-ink: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/sumi-e-ink/svg/pruning-bonsai.svg
-- geometric-city: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/geometric-city/svg/dog-walking.svg
-- lakeside-yoga: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/lakeside-yoga/svg/smartwatch.svg
-- sustainable: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/sustainable/svg/walking-vegetables.svg
-- simple-people: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/simple-people/svg/vr-headset.svg
-- scribble-people: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/scribble-people/svg/404.svg
-- bottle-herb: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/bottle-herb/svg/empty.svg
-- animals-paper: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/animals-paper/svg/jungle-drinking.svg
-- appliances-1930s: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/appliances-1930s/svg/playing-catch.svg
-- neoclassic-street-art: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/neoclassic-street-art/svg/centurion-electric-scooter.svg
-- insects-art-nouveau: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/insects-art-nouveau/svg/gym.svg
-- unicorn-life: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/unicorn-life/svg/shopping-basket.svg
-- surreality: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/surreality/svg/teapot.svg
-- strawhat: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/strawhat/svg/boy-playing-guitar-2.svg
-- duck: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/duck/svg/eating-burger.svg
-- allanpoe: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/allanpoe/svg/character-reading-book.svg
-- illustrations-61177: https://cdn.jsdelivr.net/gh/artifisio/illustrations@main/sets/illustrations-61177/svg/character-speaking-microphone.svg
+- zenithglade: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/zenithglade/svg/zenithglade1.svg
+- orbitab: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/orbitab/svg/orbitab1.svg
+- fernforge: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fernforge/svg/robotic-arm-stacking-coins.svg
+- lumenaut: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lumenaut/svg/two-small-robots.svg
+- voltweave: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/voltweave/svg/control-panel-large-buy.svg
+- fresh-sourdough: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/fresh-sourdough/svg/waking-sourdough.svg
+- rooftop-garden: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/rooftop-garden/svg/sustainable-finance.svg
+- deoxyribonucleic: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/deoxyribonucleic/svg/shared-breakthrough.svg
+- bio-astronaut: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bio-astronaut/svg/nurturing-life-7.svg
+- urban-delivery: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/urban-delivery/svg/inspecting-delivery.svg
+- sumi-e-ink: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sumi-e-ink/svg/pruning-bonsai.svg
+- geometric-city: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/geometric-city/svg/dog-walking.svg
+- lakeside-yoga: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/lakeside-yoga/svg/smartwatch.svg
+- sustainable: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/sustainable/svg/walking-vegetables.svg
+- simple-people: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/simple-people/svg/vr-headset.svg
+- scribble-people: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/scribble-people/svg/404.svg
+- bottle-herb: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/bottle-herb/svg/empty.svg
+- animals-paper: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/animals-paper/svg/jungle-drinking.svg
+- appliances-1930s: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/appliances-1930s/svg/playing-catch.svg
+- neoclassic-street-art: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/neoclassic-street-art/svg/centurion-electric-scooter.svg
+- insects-art-nouveau: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/insects-art-nouveau/svg/gym.svg
+- unicorn-life: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/unicorn-life/svg/shopping-basket.svg
+- surreality: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/surreality/svg/teapot.svg
+- strawhat: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/strawhat/svg/boy-playing-guitar-2.svg
+- duck: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/duck/svg/eating-burger.svg
+- allanpoe: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/allanpoe/svg/character-reading-book.svg
+- illustrations-61177: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/illustrations-61177/svg/character-speaking-microphone.svg
