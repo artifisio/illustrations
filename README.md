@@ -148,7 +148,7 @@ npx artifisio update <set>
 https://raw.githubusercontent.com/artifisio/illustrations/main/sets/<set>/svg/<illustration>.svg
 ```
 
-Swap `main` for a release tag such as `v2026.10.27-2116-36700ff` to pin it. Prefer these over jsDelivr, which can refuse this repo because of its size.
+Swap `main` for a release tag such as `v2026.11.02-1203-7f39092` to pin it. Prefer these over jsDelivr, which can refuse this repo because of its size.
 
 ## Theming
 
@@ -172,7 +172,7 @@ All illustrations here are licensed under [CC BY 4.0](LICENSE): use them commerc
 
 | Field | Value |
 | --- | --- |
-| Registry version | `2026.10.27-2116-36700ff` |
+| Registry version | `2026.11.02-1203-7f39092` |
 | CLI | [`artifisio`](https://www.npmjs.com/package/artifisio) |
 | License | [CC BY 4.0](LICENSE) |
 | Other kinds | [`index.json`](index.json) lists every per-kind registry (icons, fonts) |

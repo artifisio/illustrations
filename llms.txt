@@ -2,7 +2,7 @@
 
 > Free, open-licensed illustrations (CC-BY-4.0) as plain files plus a versioned manifest. Install with the `artifisio` CLI or fetch files straight from GitHub. No account, no runtime dependency.
 
-- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.10.27-2116-36700ff)
+- Manifest: https://raw.githubusercontent.com/artifisio/illustrations/main/manifest.json (schemaVersion 2, registryVersion 2026.11.02-1203-7f39092)
 - Registry index across kinds: https://raw.githubusercontent.com/artifisio/illustrations/main/index.json
 - File URL pattern: https://raw.githubusercontent.com/artifisio/illustrations/main/sets/<set>/<file>
 - Install: `npx artifisio add <set>` (writes files + ATTRIBUTION.md)
